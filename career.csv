@@ -1,0 +1,51 @@
+﻿StudentID,Name,GradeLevel,PhysicsScore,BiologyScore,MathematicsScore,EnglishScore,SportsParticipation,SportsAchievements,ExtracurricularActivities,LeadershipRole,CareerAspiration,STEMPathway
+101,John Doe,Grade 12,85,78,90,70,Yes,County Level,Science Club,Class Representative,Doctor,Yes
+102,Mary Atieno,Grade 11,88,92,95,80,No,None,Debate Club,None,Biotechnologist,Yes
+103,Kevin Njoroge,Grade 10,70,65,85,75,Yes,School Level,Drama Club,None,Engineer,Yes
+104,Faith Wangechi,Grade 9,60,55,80,85,Yes,National Level,None,None,Athlete,No
+105,Ian Onyango,Grade 8,75,68,78,72,No,None,Science Club,Club Leader,Teacher,Yes
+106,Esther Kiprop,Grade 12,92,88,91,85,Yes,County Level,Debate Club,None,Environmental Scientist,Yes
+107,Stephen Kariuki,Grade 10,55,72,65,60,Yes,School Level,None,None,Pilot,Yes
+108,Lilian Otieno,Grade 6,N/A,N/A,78,82,Yes,County Level,None,None,Physiotherapist,No
+109,David Mutiso,Grade 8,85,80,88,72,Yes,National Level,Debate Club,Class Representative,Surgeon,Yes
+110,Rose Mwende,Grade 9,82,90,87,80,No,None,Art Club,None,Pharmacist,Yes
+111,James Kamau,Grade 12,78,85,90,75,Yes,County Level,Debate Club,None,Lawyer,No
+112,Agnes Wanjiku,Grade 11,88,80,85,78,Yes,School Level,Drama Club,None,Actor,No
+113,Dennis Kiplangat,Grade 10,65,72,88,70,Yes,National Level,Science Club,None,Data Scientist,Yes
+114,Mercy Mwikali,Grade 9,62,80,82,60,No,None,Music Club,None,Musician,No
+115,Peter Chege,Grade 8,72,75,85,65,Yes,County Level,None,Class Representative,Politician,No
+116,Lucy Achieng,Grade 7,80,N/A,90,88,Yes,School Level,None,None,Mathematician,Yes
+117,Andrew Ochieng,Grade 12,60,78,65,72,No,None,Art Club,None,Graphic Designer,No
+118,Hannah Wairimu,Grade 11,70,80,78,85,Yes,County Level,Science Club,None,Nurse,Yes
+119,Kennedy Otieno,Grade 10,90,85,80,75,No,None,None,None,Software Engineer,Yes
+120,Irene Mwangi,Grade 9,85,88,95,85,Yes,National Level,Debate Club,Class Representative,Entrepreneur,No
+121,Eliud Muthama,Grade 8,75,70,85,78,No,None,None,None,Accountant,Yes
+122,Samuel Njoroge,Grade 7,65,72,75,82,Yes,School Level,None,None,Athlete,No
+123,Ann Wambui,Grade 6,N/A,N/A,88,80,Yes,County Level,Music Club,None,Dancer,No
+124,Henry Oduor,Grade 12,70,75,88,72,Yes,National Level,None,None,Doctor,Yes
+125,Beatrice Nyambura,Grade 11,88,90,92,78,No,None,Science Club,None,Chemist,Yes
+126,Charles Kibet,Grade 10,85,72,90,65,Yes,School Level,None,None,Engineer,Yes
+127,Brenda Juma,Grade 9,55,60,75,70,Yes,County Level,Drama Club,None,Journalist,No
+128,Fredrick Simiyu,Grade 8,80,85,88,78,Yes,School Level,Debate Club,Class Representative,Politician,No
+129,Jacinta Wanjiru,Grade 7,75,82,80,85,No,None,Music Club,None,Singer,No
+130,Tom Otieno,Grade 6,N/A,N/A,90,78,Yes,National Level,None,None,Physiotherapist,No
+131,Esther Wambui,Grade 12,88,85,92,75,Yes,County Level,None,None,Lawyer,No
+132,Nelson Kipkorir,Grade 11,72,70,85,65,Yes,School Level,None,None,Pilot,Yes
+133,Faith Njeri,Grade 10,85,90,92,85,Yes,County Level,Science Club,None,Doctor,Yes
+134,Linet Njiru,Grade 9,70,65,78,72,Yes,National Level,None,None,Athlete,No
+135,Joseph Gikonyo,Grade 8,82,85,90,78,No,None,Debate Club,None,Journalist,No
+136,Paul Wanjala,Grade 7,60,55,70,75,Yes,School Level,None,None,Teacher,No
+137,Stella Njiru,Grade 6,N/A,N/A,78,82,No,None,Art Club,None,Artist,No
+138,Francis Mwangi,Grade 12,75,70,80,85,Yes,National Level,Science Club,Club Leader,Engineer,Yes
+139,Grace Kilonzo,Grade 11,88,92,95,85,Yes,County Level,Music Club,None,Musician,No
+140,Alex Kiprotich,Grade 10,70,80,85,72,Yes,School Level,Debate Club,None,Software Engineer,Yes
+141,Sarah Odhiambo,Grade 9,80,85,78,70,Yes,National Level,None,None,Doctor,Yes
+142,David Maina,Grade 8,85,80,88,72,Yes,National Level,Debate Club,Class Representative,Surgeon,Yes
+143,Susan Ouma,Grade 7,75,90,85,80,No,None,Music Club,None,Singer,No
+144,John Makori,Grade 6,N/A,N/A,90,85,Yes,County Level,None,None,Physiotherapist,No
+145,Dorcas Otieno,Grade 12,88,80,85,78,Yes,National Level,None,None,Chemist,Yes
+146,Elijah Nduta,Grade 11,70,75,78,80,Yes,School Level,Science Club,None,Engineer,Yes
+147,Rose Chepkoech,Grade 10,85,88,90,75,Yes,County Level,Drama Club,None,Actor,No
+148,Martin Ndungu,Grade 9,78,80,85,70,Yes,National Level,Science Club,None,Data Scientist,Yes
+149,Ann Kamau,Grade 8,75,72,85,80,Yes,School Level,Debate Club,None,Lawyer,No
+150,Samuel Mwangi,Grade 7,65,72,75,85,Yes,County Level,None,None,Athlete,No

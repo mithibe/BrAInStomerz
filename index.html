@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Suggestion Form</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h2>Find Your Career Path</h2>
+    <form action="" id="careerForm">
+        <label for="PhysicsScore">Physics Score:</label>
+        <input type="number" id="PhysicsScore" name="PhysicsScore" min="0" max="100" required>
+
+        <label for="BiologyScore">Biology Score:</label>
+        <input type="number" id="BiologyScore" name="BiologyScore" min="0" max="100" required>
+
+        <label for="MathematicsScore">Mathematics Score:</label>
+        <input type="number" id="MathematicsScore" name="MathematicsScore" min="0" max="100" required>
+
+        <label for="EnglishScore">English Score:</label>
+        <input type="number" id="EnglishScore" name="EnglishScore" min="0" max="100" required>
+
+        <label for="SportsParticipation">Sports Participation:</label>
+        <select id="SportsParticipation" name="SportsParticipation" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <label for="SportsAchievements">Sports Avhievements:</label>
+        <select id="SportsAchievements" name="SportsAchievements" required>
+            <option value="None">None</option>
+            <option value="School Level">School Level</option>
+            <option value="County Level">County Level</option>
+            <option value="National Level">National Level</option>
+        </select>
+
+        <label for="ExtracurricularActivities">Extracurricular Activities:</label>
+        <select id="ExtracurricularActivities" name="ExtracurricularActivities" required>
+            <option value="None">None</option>
+            <option value="Science Club">Science Club</option>
+            <option value="Debate Club">Debate Club</option>
+            <option value="Drama Club">Drama Club</option>
+            <option value="Art Club">Art Club</option>
+            <option value="Music Club">Music Club</option>
+        </select>
+
+        <label for="LeadershipRole">Leadership Role:</label>
+        <select id="LeadershipRole" name="LeadershipRole" required>
+            <option value="None">None</option>
+            <option value="Class Representative">Class Representative</option>
+            <option value="Club Leader">Club Leader</option>
+        </select>
+
+        <label for="STEMPathway">STEM Pathway:</label>
+        <select id="STEMPathway" name="STEMPathway" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <p id="result"></p>
+</body>
+</html>

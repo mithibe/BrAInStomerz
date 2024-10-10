@@ -1,0 +1,2001 @@
+Name,Grade Level,PhysicsScore,BiologyScore,MathematicsScore,EnglishScore,SportsParticipation,SportsAchievements,ExtracurricularActivities,LeadershipRole,CareerAspiration,STEMPathway
+Ian Kibera, 12,98,51,64,58,0,School Level,Art Club,,Surgeon,0
+Beatrice Achieng, 9,64,66,63,100,0,County Level,Debate Club,Class Representative,Accountant,1
+Mercy Kimeu, 8,85,53,61,85,0,School Level,Music Club,Class Representative,Engineer,1
+Hannah Kilonzo, 10,83,85,68,56,1,0ne,Drama Club,,Teacher,1
+Brenda Juma, 12,78,94,56,63,1,0ne,Art Club,Class Representative,Doctor,1
+Ann Kariuki, 12,83,,62,99,0,County Level,Drama Club,Club Leader,Surgeon,0
+Lilian Chege, 8,99,66,69,62,1,National Level,Art Club,Club Leader,Pharmacist,0
+Nelson Nyambura, 10,68,90,75,68,0,0ne,Drama Club,Class Representative,Lawyer,0
+Irene Otieno, 8,67,70,91,86,0,0ne,0ne,Class Representative,Engineer,0
+Ann Kamau, 10,52,83,78,75,0,School Level,Music Club,,Teacher,1
+Dennis Atieno, 11,99,93,85,91,0,County Level,Music Club,,Doctor,0
+Samuel Chege, 10,60,51,,89,0,County Level,0ne,Club Leader,Pharmacist,0
+Ann Nyakundi, 7,61,51,65,62,1,National Level,Art Club,Class Representative,Artist,0
+Samuel Kibera, 10,74,50,90,55,1,County Level,Drama Club,Class Representative,Musician,0
+Fredrick Oduor, 8,50,79,75,56,1,0ne,Music Club,Class Representative,Doctor,1
+Jacinta Koome, 7,83,61,56,60,1,County Level,Debate Club,Club Leader,Lawyer,0
+Martin Mwikali, 7,95,65,56,89,1,0ne,0ne,Class Representative,Pilot,0
+Lucy Onyango, 11,62,54,61,54,1,School Level,Drama Club,Club Leader,Surgeon,1
+Fredrick Achieng, 7,76,69,58,77,1,0ne,Art Club,,Athlete,1
+Jacinta Wambui, 11,53,51,97,74,0,National Level,Debate Club,,Surgeon,1
+John Chirchir, 12,,99,73,64,0,County Level,Debate Club,,Pilot,1
+Dorcas Simiyu, 12,50,67,88,,1,National Level,Drama Club,Class Representative,Musician,1
+James Wangechi, 11,84,83,65,64,0,0ne,Art Club,,Musician,0
+Susan Kigen, 8,61,58,79,64,0,County Level,Debate Club,Club Leader,Accountant,1
+Rose Mutua, 9,69,,75,91,1,National Level,Art Club,Class Representative,Accountant,0
+Stephen Achieng, 11,55,77,83,83,1,School Level,0ne,,Doctor,0
+Fredrick Nyambura, 11,69,67,58,67,1,0ne,0ne,Class Representative,Pharmacist,1
+Tom Chege, 8,70,58,72,74,0,0ne,Science Club,Class Representative,Teacher,1
+Sarah Kirui, 10,89,87,62,75,1,National Level,Science Club,Class Representative,Musician,0
+Joseph Makori, 7,95,52,78,54,0,National Level,Drama Club,Class Representative,Musician,0
+Agnes Kimeu, 10,67,85,69,53,1,0ne,Debate Club,Club Leader,Pilot,0
+Dorcas Kariuki, 12,,76,83,73,0,School Level,Science Club,,Surgeon,1
+Stella Wanjiku, 12,99,57,68,57,1,School Level,Art Club,Club Leader,Engineer,0
+Brenda Wairimu, 9,95,83,51,,1,0ne,Science Club,Class Representative,Musician,1
+Francis Otieno, 12,53,88,84,63,0,National Level,Music Club,,Artist,1
+Eliud Atieno, 9,60,,97,55,0,School Level,Debate Club,Club Leader,Musician,0
+David Wambui, 10,70,96,100,96,0,School Level,Science Club,Club Leader,Musician,1
+Rose Kamau, 8,81,68,,76,0,School Level,Drama Club,Club Leader,Pilot,1
+Grace Mutua, 8,64,63,95,74,1,County Level,0ne,Club Leader,Lawyer,1
+Joseph Kilonzo, 7,87,98,94,69,1,0ne,0ne,Club Leader,Pilot,1
+Irene Oduor, 7,71,,98,70,0,County Level,Music Club,,Artist,0
+Brenda Koome, 8,95,52,51,57,1,0ne,Debate Club,,Pilot,0
+Dennis Onyango, 6,94,85,73,95,0,School Level,Art Club,Club Leader,Doctor,0
+Grace Atieno, 7,52,63,86,68,1,National Level,Debate Club,Club Leader,Pharmacist,1
+Hannah Njoroge, 7,66,100,55,79,0,National Level,Art Club,Class Representative,Musician,0
+Henry Wambui, 7,92,,,53,0,County Level,Music Club,Club Leader,Accountant,0
+Paul Otieno, 11,,51,88,55,0,National Level,Science Club,Club Leader,Doctor,0
+David Wamuyu, 9,97,86,53,92,1,0ne,Music Club,,Doctor,0
+Brenda Chirchir, 9,96,83,55,80,1,County Level,Drama Club,,Teacher,0
+Mary Kimeu, 9,99,88,73,50,0,National Level,0ne,Class Representative,Pilot,0
+Rose Achieng, 10,,81,,68,0,County Level,Debate Club,Class Representative,Data Scientist,0
+Mercy Kiplangat, 9,71,69,74,59,1,County Level,Music Club,,Teacher,1
+John Mwikali, 8,95,85,,,0,County Level,Drama Club,Club Leader,Musician,0
+Kevin Kariuki, 7,,84,,,1,National Level,Music Club,Club Leader,Pilot,0
+Sarah Kiplangat, 10,55,87,56,94,1,0ne,Debate Club,Class Representative,Surgeon,0
+Jacinta Kilonzo, 8,77,60,88,100,0,School Level,Science Club,,Doctor,1
+Faith Otieno, 10,77,100,89,92,1,School Level,0ne,Club Leader,Doctor,1
+Mary Njoroge, 12,92,91,74,81,0,0ne,Music Club,Class Representative,Surgeon,1
+Lucy Chege, 9,89,65,53,86,0,National Level,Debate Club,Club Leader,Engineer,0
+Hannah Juma, 7,50,57,79,62,0,0ne,0ne,Class Representative,Artist,0
+Paul Wanjiku, 6,74,90,92,96,0,County Level,Debate Club,,Pilot,1
+Fredrick Nyakundi, 12,88,77,81,94,1,County Level,0ne,Class Representative,Musician,0
+Nelson Oduor, 10,69,80,65,58,0,National Level,Science Club,Class Representative,Teacher,0
+Irene Doe, 6,62,81,54,76,1,School Level,0ne,Class Representative,Engineer,1
+Ann Koome, 10,,64,90,,0,School Level,Science Club,Class Representative,Artist,0
+Mercy Nyambura, 12,96,56,71,100,1,County Level,Art Club,,Musician,1
+Samuel Akinyi, 12,86,60,58,,0,School Level,Drama Club,Class Representative,Artist,0
+Nelson Nyambura, 7,77,57,79,58,1,County Level,0ne,,Pharmacist,1
+Francis Juma, 9,93,,65,73,1,School Level,Music Club,,Data Scientist,0
+Joseph Kibera, 8,53,96,97,92,1,National Level,Drama Club,Class Representative,Musician,0
+Dorcas Nyambura, 9,90,98,,,0,School Level,Drama Club,Club Leader,Data Scientist,0
+Samuel Otieno, 12,63,52,79,85,0,National Level,Art Club,,Artist,1
+Brenda Kirui, 9,80,62,99,81,1,National Level,Debate Club,Club Leader,Surgeon,0
+Lilian Doe, 9,68,,79,55,1,National Level,Music Club,Class Representative,Musician,0
+Samuel Achieng, 12,54,97,98,52,0,0ne,Debate Club,Club Leader,Artist,1
+Jacinta Ngoya, 8,74,53,52,52,0,School Level,Art Club,,Data Scientist,1
+Sarah Nyakundi, 11,61,100,87,89,0,School Level,Debate Club,Club Leader,Accountant,1
+John Wamuyu, 8,58,84,60,93,0,County Level,Debate Club,Class Representative,Pharmacist,0
+Alex Atieno, 12,54,59,69,60,1,0ne,Debate Club,,Accountant,0
+Ian Chirchir, 8,71,51,,72,1,County Level,Art Club,,Musician,1
+John Otieno, 7,70,98,78,62,1,School Level,Science Club,Club Leader,Doctor,0
+Peter Chirchir, 8,52,82,99,56,1,County Level,Drama Club,Class Representative,Pharmacist,1
+Elijah Kiprop, 8,88,80,61,66,1,National Level,Music Club,Club Leader,Musician,1
+Susan Njoroge, 9,79,86,,,0,School Level,Drama Club,Class Representative,Pharmacist,1
+Ian Makori, 7,61,90,52,51,0,0ne,Debate Club,Class Representative,Doctor,0
+Agnes Achieng, 8,81,80,62,68,1,National Level,Debate Club,,Artist,1
+Kevin Oduor, 6,94,88,68,53,1,National Level,Music Club,Club Leader,Accountant,0
+Brenda Wanjiru, 10,70,72,62,59,0,National Level,Drama Club,Club Leader,Accountant,1
+Kennedy Akinyi, 7,58,91,65,93,1,County Level,Debate Club,,Athlete,1
+Andrew Otieno, 9,82,82,,57,1,School Level,Science Club,,Engineer,0
+Ann Kamau, 6,84,95,79,91,0,0ne,Debate Club,Club Leader,Accountant,0
+Lucy Rono, 8,92,,60,53,0,School Level,0ne,Club Leader,Surgeon,0
+Agnes Otieno, 7,55,56,77,68,1,County Level,Drama Club,,Doctor,0
+Stella Rono, 12,96,59,56,93,1,National Level,Debate Club,Club Leader,Teacher,1
+Irene Davis, 10,93,88,62,68,0,0ne,Science Club,Class Representative,Accountant,0
+Alex Onyango, 11,,80,78,,0,County Level,Art Club,Club Leader,Artist,0
+Nelson Chege, 10,57,,94,58,1,0ne,Music Club,,Pilot,0
+Esther Mutiso, 6,65,71,75,83,1,School Level,Debate Club,Club Leader,Pilot,0
+Rose Mwikali, 12,75,,62,91,0,National Level,Art Club,Club Leader,Surgeon,1
+John Koome, 12,76,78,60,82,0,County Level,Art Club,Class Representative,Accountant,0
+Stella Rono, 7,71,80,83,,1,National Level,Music Club,Class Representative,Musician,1
+Brenda Kibera, 6,64,93,79,64,1,National Level,Science Club,Class Representative,Doctor,1
+Jacinta Kiplangat, 11,,70,62,54,0,0ne,Debate Club,,Artist,0
+James Atieno, 10,56,,71,97,0,School Level,Art Club,Class Representative,Accountant,0
+Joseph Koome, 10,58,100,61,79,0,School Level,0ne,Class Representative,Teacher,0
+Eliud Mutua, 10,97,73,59,91,0,County Level,Debate Club,Club Leader,Pharmacist,1
+Rose Rono, 7,,87,83,81,0,County Level,0ne,Club Leader,Doctor,1
+Ian Kimeu, 6,68,75,,92,0,County Level,Art Club,Class Representative,Data Scientist,1
+Dorcas Rono, 9,,,,63,0,County Level,0ne,Club Leader,Doctor,1
+Linet Nduati, 10,60,54,56,72,0,School Level,Art Club,Class Representative,Doctor,0
+Tom Wamuyu, 8,52,86,68,93,0,National Level,0ne,Club Leader,Data Scientist,0
+Faith Davis, 7,70,58,77,97,1,0ne,Debate Club,,Artist,1
+Nelson Chirchir, 11,54,82,51,96,0,County Level,0ne,,Musician,1
+Martin Chirchir, 10,,50,67,100,0,National Level,0ne,,Teacher,0
+Eliud Kimeu, 11,100,92,88,81,0,0ne,Science Club,Club Leader,Artist,1
+Joseph Kirui, 9,,77,96,61,1,National Level,Debate Club,,Doctor,0
+Mary Rono, 12,61,58,93,61,1,School Level,0ne,Club Leader,Musician,1
+Susan Nyambura, 9,99,64,95,56,1,National Level,Science Club,,Artist,1
+Jacinta Koome, 8,69,71,,99,1,County Level,Science Club,,Lawyer,1
+Faith Wamuyu, 6,73,76,52,72,1,County Level,Science Club,Class Representative,Engineer,1
+Elijah Akinyi, 9,56,81,52,75,1,National Level,Science Club,,Musician,0
+Kevin Mutua, 6,56,75,,,1,County Level,Music Club,,Accountant,0
+Ian Kilonzo, 6,89,72,91,82,1,0ne,Art Club,,Engineer,0
+Paul Nduati, 7,64,,58,89,1,School Level,Art Club,,Lawyer,0
+Mary Juma, 9,62,,85,67,1,National Level,Art Club,Club Leader,Surgeon,1
+Ann Simiyu, 8,81,62,,86,0,National Level,Debate Club,,Teacher,1
+Charles Akinyi, 10,90,65,63,61,1,National Level,Drama Club,,Artist,0
+Martin Kirui, 10,70,58,82,90,1,0ne,Debate Club,Club Leader,Pharmacist,1
+Joseph Koome, 9,77,70,92,100,1,0ne,Science Club,,Teacher,1
+David Wamuyu, 6,61,94,70,89,0,National Level,Debate Club,Club Leader,Pilot,1
+Mary Muthama, 7,87,73,50,67,1,County Level,Music Club,,Data Scientist,0
+David Achieng, 7,70,57,61,55,1,National Level,Debate Club,Class Representative,Pilot,0
+Alex Kariuki, 8,77,100,78,73,0,0ne,Science Club,Club Leader,Athlete,0
+Mercy Doe, 9,87,51,,90,1,0ne,Drama Club,Club Leader,Artist,1
+Mercy Davis, 7,99,75,61,66,1,0ne,0ne,,Musician,0
+Mary Kilonzo, 12,72,96,87,91,0,National Level,Science Club,Club Leader,Engineer,0
+Francis Muthama, 11,74,68,93,83,0,School Level,Music Club,Club Leader,Lawyer,0
+Peter Kigen, 12,55,68,92,,1,0ne,Science Club,Club Leader,Doctor,1
+Agnes Juma, 10,100,98,63,,1,County Level,Science Club,Club Leader,Data Scientist,1
+Sarah Kiplangat, 9,90,72,95,82,1,School Level,Drama Club,,Engineer,0
+John Doe, 10,90,96,83,100,0,School Level,Drama Club,Club Leader,Surgeon,0
+Andrew Ochieng, 6,57,,86,71,1,School Level,Debate Club,Club Leader,Musician,0
+Mary Wanjiku, 12,70,67,89,56,1,School Level,0ne,Club Leader,Artist,1
+Paul Ochieng, 8,87,97,99,64,1,0ne,Drama Club,Class Representative,Engineer,0
+Dennis Oduor, 10,71,87,,,1,National Level,Drama Club,,Accountant,1
+John Kiprop, 12,94,70,61,68,1,County Level,0ne,,Doctor,0
+Rose Mwende, 7,53,85,95,98,0,County Level,Science Club,Class Representative,Lawyer,0
+Peter Akinyi, 9,76,77,94,99,0,National Level,Science Club,,Lawyer,0
+Ian Wangechi, 6,81,68,55,69,1,0ne,Drama Club,Club Leader,Pharmacist,0
+David Kiprop, 9,78,68,82,95,1,0ne,Science Club,,Athlete,0
+Grace Nyambura, 7,66,54,92,97,0,School Level,Drama Club,Club Leader,Lawyer,1
+Irene Juma, 8,79,64,81,56,1,School Level,0ne,,Artist,0
+Lucy Otieno, 7,,90,65,53,0,County Level,Drama Club,Club Leader,Engineer,0
+Sarah Mutiso, 12,86,78,67,88,0,School Level,Debate Club,Club Leader,Musician,1
+Rose Ochieng, 7,80,83,96,66,1,0ne,Science Club,,Data Scientist,0
+Esther Kigen, 6,67,91,93,81,1,National Level,Science Club,,Pilot,0
+Samuel Otieno, 12,93,83,55,96,0,National Level,Art Club,Class Representative,Engineer,1
+Esther Wairimu, 6,74,90,76,95,1,National Level,Music Club,,Artist,1
+Lilian Wanjiru, 9,95,89,88,58,1,National Level,Art Club,Club Leader,Data Scientist,0
+Kennedy Juma, 11,52,91,93,82,1,County Level,Drama Club,,Teacher,0
+Kevin Otieno, 10,74,76,86,94,1,County Level,Art Club,Class Representative,Artist,1
+Andrew Juma, 7,61,93,77,81,0,School Level,0ne,Class Representative,Pilot,1
+Lucy Makori, 11,63,80,99,,1,National Level,Art Club,Class Representative,Doctor,0
+Ann Mutua, 7,,87,78,89,1,County Level,Music Club,,Accountant,0
+Charles Wanjiru, 7,96,65,51,57,0,School Level,Music Club,Club Leader,Doctor,1
+Grace Ochieng, 10,74,100,66,75,0,School Level,Art Club,Class Representative,Artist,0
+Stella Ngoya, 6,50,84,71,72,0,National Level,0ne,,Teacher,1
+John Koome, 10,60,78,82,,1,National Level,Drama Club,Club Leader,Accountant,1
+Andrew Doe, 8,,76,67,90,1,0ne,Art Club,Class Representative,Surgeon,0
+Brenda Kibet, 12,61,96,56,93,1,School Level,Drama Club,Class Representative,Musician,0
+Irene Mutua, 12,85,,52,96,0,0ne,Drama Club,,Teacher,0
+Susan Mwikali, 8,,94,80,81,0,School Level,0ne,Club Leader,Pharmacist,0
+Irene Kilonzo, 11,,54,,96,0,National Level,0ne,Class Representative,Lawyer,1
+Tom Akinyi, 10,56,69,87,93,0,School Level,Drama Club,Class Representative,Athlete,1
+Esther Doe, 9,51,61,53,99,0,County Level,Science Club,Club Leader,Athlete,0
+Jacinta Kiplangat, 12,69,77,65,86,0,0ne,Music Club,Club Leader,Athlete,1
+Joseph Atieno, 12,98,92,80,63,1,0ne,Art Club,Class Representative,Pharmacist,1
+Rose Chirchir, 6,,85,,61,0,National Level,Science Club,Club Leader,Pharmacist,1
+Dennis Kibera, 8,79,92,70,54,0,County Level,Music Club,Class Representative,Doctor,1
+Rose Otieno, 8,53,94,85,62,0,0ne,0ne,Class Representative,Artist,1
+Stephen Mutiso, 9,58,72,92,58,0,0ne,Art Club,Class Representative,Data Scientist,1
+Dennis Doe, 8,100,90,64,53,1,County Level,Debate Club,Club Leader,Engineer,1
+Lilian Otieno, 12,,69,55,60,0,County Level,Art Club,,Data Scientist,0
+Peter Doe, 11,68,60,63,98,1,School Level,Music Club,Club Leader,Athlete,1
+Linet Mutua, 9,59,56,59,55,0,0ne,Art Club,Class Representative,Teacher,1
+Kennedy Oduor, 9,97,77,76,69,0,County Level,Debate Club,,Doctor,1
+Henry Mwende, 12,77,56,85,51,0,School Level,Science Club,Club Leader,Athlete,1
+Dorcas Akinyi, 11,70,55,81,51,1,County Level,Music Club,,Doctor,0
+Lilian Nyambura, 10,65,,91,,1,National Level,0ne,,Accountant,1
+Rose Achieng, 10,75,98,92,94,0,County Level,Art Club,Class Representative,Pharmacist,1
+Martin Doe, 12,65,68,83,53,1,County Level,Science Club,Club Leader,Lawyer,1
+Dennis Kilonzo, 9,79,,89,91,0,0ne,Debate Club,,Athlete,1
+Beatrice Doe, 6,57,55,82,55,0,National Level,Science Club,Club Leader,Doctor,1
+Susan Juma, 10,82,55,71,73,1,National Level,Science Club,Club Leader,Engineer,0
+Beatrice Mutiso, 7,83,54,89,,1,School Level,Drama Club,Club Leader,Surgeon,1
+Ann Kirui, 6,68,99,60,,0,County Level,Debate Club,,Doctor,1
+Peter Koome, 6,71,96,94,,0,County Level,Drama Club,Class Representative,Engineer,0
+James Oduor, 9,,93,57,58,0,School Level,Drama Club,Club Leader,Doctor,0
+James Koome, 9,60,80,66,80,0,National Level,0ne,,Lawyer,0
+Esther Mutua, 8,,,68,96,0,National Level,Science Club,Class Representative,Musician,1
+Peter Otieno, 9,50,94,56,92,0,School Level,Drama Club,,Surgeon,1
+Andrew Kamau, 8,75,85,99,67,1,School Level,Science Club,Club Leader,Pilot,1
+Martin Wambui, 11,76,,69,57,0,0ne,Science Club,Club Leader,Doctor,1
+Brenda Otieno, 8,70,52,,94,1,County Level,Debate Club,Club Leader,Surgeon,0
+Esther Atieno, 8,68,65,77,58,0,0ne,Debate Club,Club Leader,Accountant,0
+Stephen Mutiso, 6,99,81,80,78,1,School Level,Music Club,Club Leader,Athlete,1
+Kevin Wangechi, 8,54,76,95,95,0,School Level,Science Club,,Accountant,1
+Kevin Kibet, 12,92,,53,63,1,National Level,Art Club,,Musician,0
+Rose Nyakundi, 11,88,84,79,74,1,County Level,Drama Club,Class Representative,Data Scientist,0
+Kevin Kilonzo, 12,63,76,81,91,0,County Level,0ne,Class Representative,Musician,1
+Alex Oduor, 8,80,86,79,67,0,School Level,Art Club,,Accountant,1
+Samuel Juma, 12,71,74,,95,0,National Level,Music Club,,Pharmacist,1
+Mary Oduor, 11,68,52,68,87,1,County Level,Drama Club,Class Representative,Pilot,1
+Hannah Simiyu, 8,56,63,53,,1,0ne,0ne,Club Leader,Artist,1
+Joseph Rono, 7,79,97,74,77,1,0ne,Music Club,Club Leader,Surgeon,1
+Esther Otieno, 9,94,100,81,85,0,0ne,Drama Club,,Surgeon,0
+Mercy Wangechi, 9,,,57,83,0,0ne,Debate Club,,Musician,1
+Tom Otieno, 10,,,74,98,1,County Level,Debate Club,Class Representative,Doctor,0
+Jacinta Nduati, 6,81,,68,96,1,0ne,Art Club,Club Leader,Musician,1
+Faith Mutiso, 6,52,50,76,97,0,National Level,Debate Club,Club Leader,Engineer,0
+David Otieno, 10,53,84,92,93,0,School Level,0ne,Class Representative,Musician,0
+Rose Onyango, 8,97,84,62,98,1,School Level,Drama Club,Class Representative,Pharmacist,0
+Ann Wanjiru, 7,64,59,88,79,1,0ne,0ne,,Data Scientist,0
+Hannah Otieno, 9,84,97,95,61,1,0ne,Drama Club,,Data Scientist,0
+Dorcas Kariuki, 7,,71,90,85,0,0ne,Debate Club,Club Leader,Musician,0
+Susan Kiprop, 9,,73,92,60,1,County Level,Debate Club,,Data Scientist,0
+Dennis Chebet, 11,100,96,82,,0,County Level,Science Club,,Surgeon,1
+Peter Kimeu, 10,71,63,99,85,1,School Level,Art Club,Club Leader,Surgeon,0
+Tom Otieno, 7,53,96,64,79,0,School Level,Drama Club,,Pilot,0
+Tom Chirchir, 10,73,75,80,78,0,0ne,Music Club,Class Representative,Doctor,0
+Eliud Koome, 7,64,,93,59,1,0ne,Drama Club,Class Representative,Accountant,0
+Dorcas Mutiso, 10,54,,70,,1,School Level,Science Club,Club Leader,Accountant,1
+Rose Muthama, 9,74,84,97,65,1,County Level,Music Club,,Accountant,0
+Kevin Simiyu, 12,,79,98,50,0,0ne,Drama Club,Club Leader,Lawyer,1
+Alex Achieng, 6,,66,89,84,0,National Level,Debate Club,,Lawyer,0
+Jacinta Achieng, 6,84,72,90,95,0,School Level,Debate Club,Club Leader,Pharmacist,0
+Ann Rono, 9,,91,87,66,0,National Level,Art Club,Class Representative,Lawyer,1
+Kennedy Mutua, 8,53,59,98,91,1,National Level,Art Club,Club Leader,Teacher,0
+Tom Kilonzo, 9,75,79,65,,1,0ne,Science Club,,Pharmacist,0
+Dennis Davis, 11,,92,65,60,0,National Level,0ne,,Artist,0
+Mary Kigen, 9,57,96,60,58,1,School Level,Debate Club,Class Representative,Doctor,1
+Eliud Davis, 6,,100,70,78,0,0ne,Music Club,,Doctor,1
+Grace Mutiso, 9,78,53,96,71,1,County Level,Debate Club,,Surgeon,0
+Brenda Njoroge, 11,76,,100,90,0,County Level,Art Club,Club Leader,Athlete,0
+Tom Otieno, 12,83,65,98,63,0,School Level,Debate Club,,Pharmacist,0
+Charles Koome, 9,74,57,98,59,0,School Level,Art Club,Club Leader,Athlete,0
+Brenda Otieno, 7,98,94,60,70,1,0ne,Art Club,Club Leader,Doctor,0
+Kevin Kamau, 10,55,,70,97,1,School Level,Science Club,,Pharmacist,0
+Charles Onyango, 7,71,98,68,67,1,County Level,Science Club,,Pharmacist,1
+Dennis Kiprop, 6,88,57,72,73,1,0ne,Music Club,Class Representative,Pharmacist,1
+Elijah Akinyi, 7,54,71,86,57,0,School Level,0ne,Club Leader,Musician,1
+Susan Wairimu, 10,81,70,98,86,1,National Level,Debate Club,Club Leader,Pilot,0
+David Kariuki, 12,65,98,97,78,0,County Level,Debate Club,Club Leader,Athlete,1
+David Kariuki, 7,82,61,99,75,1,School Level,Art Club,,Data Scientist,1
+Esther Chirchir, 10,63,,73,79,0,National Level,Science Club,Club Leader,Musician,0
+John Mutua, 10,50,72,61,95,1,0ne,Art Club,Club Leader,Surgeon,0
+Henry Kiprop, 12,100,,84,,0,School Level,Art Club,,Accountant,0
+Rose Chirchir, 6,83,76,74,94,0,County Level,Science Club,Club Leader,Engineer,1
+James Njoroge, 11,61,89,56,57,1,0ne,Music Club,,Data Scientist,1
+Linet Ngoya, 11,81,66,,88,1,County Level,Music Club,Class Representative,Doctor,1
+Joseph Mutiso, 9,90,69,64,83,1,National Level,Art Club,Class Representative,Musician,1
+Andrew Doe, 9,,61,,58,0,0ne,Art Club,Class Representative,Engineer,1
+Rose Koome, 10,,50,73,74,0,County Level,Science Club,Class Representative,Lawyer,1
+Dorcas Koome, 9,60,72,75,56,0,National Level,Debate Club,,Pharmacist,1
+Ann Muthama, 11,89,88,80,65,1,National Level,Music Club,Class Representative,Pilot,0
+Stephen Kariuki, 7,67,63,71,68,0,County Level,0ne,,Engineer,1
+Susan Oduor, 6,96,82,91,91,1,National Level,Drama Club,,Pharmacist,0
+Mercy Wangechi, 8,77,59,52,95,1,National Level,Music Club,Club Leader,Doctor,0
+Samuel Nyambura, 6,52,51,89,92,1,County Level,0ne,Class Representative,Lawyer,1
+Sarah Koome, 10,79,67,68,62,0,0ne,Science Club,,Data Scientist,1
+David Mutua, 6,75,53,85,95,1,County Level,Debate Club,Club Leader,Lawyer,0
+Francis Kiplangat, 7,88,79,66,64,0,County Level,0ne,Class Representative,Artist,0
+Faith Mutua, 12,82,91,56,61,1,School Level,Drama Club,Club Leader,Pharmacist,1
+Faith Wanjiru, 8,70,,67,72,1,0ne,Music Club,Club Leader,Artist,0
+Francis Nyakundi, 6,51,90,100,90,0,0ne,Debate Club,,Pharmacist,0
+Mercy Kiprop, 11,65,77,60,83,0,School Level,0ne,Club Leader,Pilot,0
+Francis Kibet, 12,51,56,,67,0,0ne,Science Club,Class Representative,Doctor,1
+Stella Nyambura, 7,61,55,69,87,1,School Level,Music Club,Class Representative,Surgeon,0
+Sarah Kigen, 11,57,59,98,,0,National Level,0ne,Class Representative,Pilot,1
+Charles Wangechi, 8,68,74,87,99,0,County Level,Science Club,Class Representative,Pharmacist,0
+Grace Wanjiru, 12,,,,80,1,County Level,Art Club,,Data Scientist,1
+Tom Chirchir, 11,53,83,76,53,0,0ne,Art Club,,Pharmacist,0
+Faith Akinyi, 9,51,,77,75,0,National Level,Debate Club,Class Representative,Musician,0
+Stephen Mwikali, 6,91,76,63,58,0,0ne,0ne,Club Leader,Musician,1
+Dennis Chebet, 6,94,,67,97,1,National Level,Debate Club,Class Representative,Doctor,0
+Mary Kibera, 11,61,57,,60,0,School Level,Science Club,Club Leader,Musician,1
+Susan Kirui, 7,94,91,97,95,1,National Level,Debate Club,Club Leader,Teacher,1
+Faith Mutiso, 8,98,97,80,76,1,School Level,Drama Club,Club Leader,Pilot,0
+Henry Doe, 8,100,57,70,85,0,National Level,Science Club,Class Representative,Teacher,1
+Ann Chebet, 9,65,82,80,76,1,National Level,Science Club,Club Leader,Teacher,0
+Grace Nyambura, 11,74,61,67,54,1,National Level,0ne,,Musician,0
+Tom Wamuyu, 11,78,64,79,58,0,County Level,Art Club,,Surgeon,1
+Joseph Wairimu, 9,69,,97,91,1,National Level,Music Club,Class Representative,Data Scientist,0
+Linet Ngoya, 7,95,60,78,73,0,School Level,Science Club,Class Representative,Doctor,1
+Eliud Wamuyu, 8,63,97,57,57,0,0ne,Debate Club,Class Representative,Data Scientist,1
+Peter Kariuki, 6,57,63,97,79,1,School Level,Debate Club,Club Leader,Doctor,0
+Lucy Mutiso, 7,96,,84,82,1,National Level,Debate Club,Class Representative,Artist,1
+John Mwende, 7,58,63,87,51,1,School Level,Music Club,Club Leader,Lawyer,1
+James Kamau, 12,100,82,65,74,0,National Level,0ne,Club Leader,Lawyer,0
+Samuel Oduor, 7,,72,100,92,1,National Level,Debate Club,Club Leader,Musician,0
+Rose Kirui, 12,96,78,98,72,0,School Level,Debate Club,Class Representative,Teacher,0
+Nelson Ngoya, 6,91,79,,51,0,National Level,Music Club,Class Representative,Doctor,1
+David Mutua, 7,73,58,50,99,0,National Level,Debate Club,,Engineer,1
+Agnes Simiyu, 12,76,58,85,61,1,County Level,Art Club,Class Representative,Musician,1
+Kennedy Juma, 9,53,76,73,76,1,School Level,Art Club,,Doctor,0
+Rose Wangechi, 10,50,90,50,68,0,School Level,Music Club,,Teacher,0
+Esther Wambui, 9,66,100,92,63,0,School Level,Debate Club,,Doctor,0
+John Mutua, 7,60,85,65,74,0,0ne,Music Club,,Doctor,1
+Kevin Mutiso, 10,85,78,56,73,1,National Level,0ne,,Surgeon,0
+Henry Wambui, 11,,,83,86,0,School Level,Music Club,,Engineer,0
+Rose Ochieng, 10,91,90,51,62,0,School Level,Science Club,,Lawyer,0
+Dennis Nyakundi, 11,61,58,77,85,1,County Level,0ne,,Accountant,0
+Mercy Otieno, 8,77,82,51,83,1,County Level,Science Club,Club Leader,Teacher,0
+Rose Njoroge, 11,60,90,70,74,0,County Level,Art Club,Class Representative,Surgeon,1
+Mercy Kibera, 11,71,59,91,,1,0ne,0ne,Class Representative,Teacher,1
+John Akinyi, 12,59,77,97,94,0,0ne,Debate Club,,Engineer,1
+Mary Ochieng, 9,94,64,,83,0,National Level,Art Club,Class Representative,Musician,0
+Francis Kirui, 9,51,57,61,73,0,National Level,Music Club,Class Representative,Athlete,1
+Ian Mutiso, 9,97,75,55,65,0,0ne,Music Club,Class Representative,Data Scientist,1
+Andrew Mwende, 10,92,70,50,99,0,National Level,Debate Club,Club Leader,Artist,0
+Alex Kiplangat, 12,62,72,79,58,0,0ne,Science Club,,Musician,1
+Jacinta Simiyu, 10,90,82,59,80,0,County Level,Science Club,Club Leader,Lawyer,0
+Esther Juma, 8,,89,61,68,1,National Level,Music Club,Club Leader,Engineer,0
+Faith Kimeu, 12,84,70,82,79,1,0ne,0ne,,Musician,1
+Samuel Kilonzo, 8,,74,,100,0,School Level,Debate Club,,Artist,0
+Martin Atieno, 6,92,76,79,77,0,School Level,0ne,Club Leader,Athlete,0
+Samuel Kiprop, 10,97,95,66,97,0,School Level,Science Club,,Musician,1
+Irene Otieno, 8,61,98,86,67,1,School Level,Art Club,Class Representative,Surgeon,0
+Sarah Mutiso, 8,73,67,56,94,1,0ne,Drama Club,Class Representative,Athlete,1
+Esther Nyambura, 10,74,80,52,89,1,County Level,Debate Club,Class Representative,Teacher,1
+Elijah Nyakundi, 7,,,60,76,0,0ne,Art Club,Class Representative,Lawyer,0
+James Mutiso, 8,91,66,97,50,0,0ne,0ne,Club Leader,Lawyer,1
+Kevin Juma, 11,57,54,64,78,0,National Level,Drama Club,Class Representative,Surgeon,1
+Linet Kibera, 6,78,89,68,76,1,0ne,Art Club,Class Representative,Engineer,0
+Charles Chege, 6,80,97,86,92,1,School Level,Art Club,Class Representative,Artist,1
+Ann Atieno, 8,55,,51,,0,0ne,Music Club,Club Leader,Pilot,1
+Linet Kiplangat, 9,62,,92,54,0,School Level,Drama Club,,Data Scientist,1
+Faith Muthama, 8,61,77,,,0,County Level,0ne,,Lawyer,0
+Tom Otieno, 8,89,60,95,79,0,0ne,Music Club,Class Representative,Pilot,1
+Paul Wanjiku, 8,71,80,68,96,0,0ne,Science Club,Class Representative,Lawyer,1
+Andrew Wanjiru, 9,84,99,82,73,0,County Level,Debate Club,,Musician,1
+Lilian Otieno, 8,68,85,54,,0,National Level,Debate Club,Club Leader,Pilot,0
+Nelson Juma, 8,76,61,76,80,0,County Level,Art Club,Class Representative,Lawyer,1
+Stella Nyambura, 10,94,,74,68,0,National Level,Art Club,Club Leader,Engineer,0
+Esther Chirchir, 7,,94,55,75,1,County Level,Debate Club,Class Representative,Pharmacist,1
+James Otieno, 8,61,93,81,80,1,County Level,Music Club,Class Representative,Lawyer,1
+Faith Atieno, 10,62,75,,53,1,National Level,0ne,,Pharmacist,0
+Rose Njoroge, 11,74,75,59,57,1,School Level,Art Club,Class Representative,Teacher,0
+James Simiyu, 9,,55,66,86,1,National Level,Debate Club,,Athlete,0
+Ann Mwikali, 7,70,53,,96,1,0ne,Science Club,,Musician,1
+Esther Juma, 10,62,65,57,82,0,National Level,Debate Club,Club Leader,Artist,0
+James Kilonzo, 7,56,,88,62,0,County Level,Science Club,Club Leader,Pilot,0
+Samuel Wamuyu, 11,54,93,82,65,0,School Level,Music Club,,Athlete,1
+Elijah Ngoya, 7,54,90,73,92,1,County Level,Music Club,,Athlete,0
+Susan Nyambura, 6,83,75,86,87,0,0ne,Art Club,,Teacher,0
+Esther Chege, 12,,87,53,54,1,School Level,Art Club,,Accountant,1
+Peter Chirchir, 6,81,72,100,68,1,0ne,Debate Club,,Lawyer,0
+Peter Kigen, 12,50,55,78,56,1,National Level,Debate Club,Club Leader,Surgeon,1
+John Chebet, 11,56,,75,58,1,National Level,Drama Club,Class Representative,Pilot,1
+Dorcas Chirchir, 9,62,84,51,74,0,School Level,Science Club,Club Leader,Artist,1
+Kevin Kibet, 11,84,75,72,50,0,National Level,Science Club,Club Leader,Musician,0
+Stella Njoroge, 6,,61,89,83,0,National Level,Debate Club,Class Representative,Pilot,0
+Dennis Njoroge, 12,54,96,60,76,0,National Level,Drama Club,Club Leader,Artist,0
+Eliud Nyakundi, 10,57,52,88,82,1,0ne,Debate Club,Class Representative,Lawyer,0
+Samuel Mutiso, 9,85,78,96,92,1,County Level,0ne,Club Leader,Teacher,1
+Faith Otieno, 6,58,74,63,51,0,0ne,0ne,Club Leader,Engineer,0
+Esther Kiprop, 9,,74,83,92,1,School Level,Art Club,Club Leader,Teacher,0
+Dennis Simiyu, 8,,63,76,100,1,School Level,Science Club,Class Representative,Musician,1
+Ann Koome, 7,85,96,76,91,1,School Level,Drama Club,Club Leader,Engineer,1
+Samuel Mutua, 10,69,95,68,84,0,County Level,Debate Club,,Athlete,0
+Sarah Otieno, 7,73,74,100,79,1,National Level,Music Club,Class Representative,Lawyer,1
+Agnes Akinyi, 6,55,93,62,78,1,School Level,Music Club,Club Leader,Accountant,0
+Lilian Njoroge, 10,91,68,,,0,National Level,Debate Club,Class Representative,Pilot,0
+Jacinta Chebet, 6,70,100,61,62,0,0ne,Science Club,Class Representative,Doctor,0
+John Nduati, 11,89,97,76,53,1,School Level,Music Club,Class Representative,Lawyer,0
+Dorcas Chebet, 6,65,57,70,74,0,National Level,Art Club,Class Representative,Lawyer,0
+Henry Otieno, 6,91,96,85,85,1,School Level,Music Club,Class Representative,Teacher,0
+David Mwende, 12,74,66,91,69,1,0ne,Drama Club,Class Representative,Lawyer,0
+Hannah Koome, 8,99,79,53,71,1,National Level,Art Club,Club Leader,Engineer,1
+Tom Kilonzo, 6,66,88,86,54,0,0ne,Art Club,,Pharmacist,1
+Lucy Simiyu, 12,91,86,50,82,0,National Level,Art Club,Class Representative,Engineer,1
+Linet Kibera, 12,50,63,65,,0,National Level,Music Club,Class Representative,Data Scientist,0
+Susan Chirchir, 11,52,69,79,86,1,National Level,Science Club,Club Leader,Accountant,0
+Joseph Chebet, 11,78,59,79,69,0,School Level,Drama Club,Class Representative,Teacher,1
+Ann Nyakundi, 6,100,54,84,,1,0ne,Debate Club,Club Leader,Teacher,0
+Eliud Mwikali, 9,59,59,81,63,1,School Level,Music Club,Club Leader,Data Scientist,0
+Andrew Juma, 8,,100,94,65,1,School Level,Art Club,,Athlete,0
+Paul Chege, 6,86,99,76,71,0,0ne,Art Club,Club Leader,Data Scientist,0
+Mary Kibet, 10,82,60,53,84,1,School Level,Science Club,Club Leader,Athlete,1
+Joseph Mutua, 12,56,73,97,70,1,County Level,Science Club,Class Representative,Accountant,0
+Ian Onyango, 7,82,61,67,89,1,0ne,0ne,Club Leader,Engineer,1
+Mary Chirchir, 6,86,77,,76,0,County Level,Science Club,Club Leader,Surgeon,1
+Francis Kigen, 7,95,,58,55,0,School Level,Debate Club,Club Leader,Doctor,0
+Rose Kirui, 12,92,71,54,69,0,County Level,0ne,,Engineer,1
+Lilian Kirui, 8,71,,,97,0,0ne,Science Club,Club Leader,Doctor,1
+Rose Davis, 10,87,83,56,80,1,National Level,Drama Club,Class Representative,Accountant,1
+Beatrice Kamau, 12,58,74,88,94,0,0ne,Art Club,,Teacher,1
+Fredrick Wanjiru, 10,100,82,87,78,1,County Level,Music Club,Class Representative,Lawyer,1
+Agnes Wairimu, 12,85,64,80,,0,0ne,0ne,Club Leader,Artist,0
+Dorcas Mutiso, 7,62,82,72,81,0,0ne,0ne,Class Representative,Data Scientist,1
+Joseph Mwende, 7,68,72,84,72,1,National Level,0ne,Class Representative,Engineer,1
+Henry Rono, 12,67,50,61,86,0,0ne,Art Club,Club Leader,Accountant,0
+Lucy Ngoya, 12,75,93,99,89,1,County Level,Debate Club,Class Representative,Doctor,1
+Jacinta Doe, 9,61,100,91,81,1,0ne,0ne,Class Representative,Doctor,0
+Dennis Otieno, 10,79,,63,75,1,National Level,Science Club,,Accountant,1
+Elijah Kibera, 7,66,99,91,81,1,County Level,Art Club,Club Leader,Accountant,0
+Charles Juma, 10,,99,100,75,0,School Level,Music Club,,Pilot,1
+Andrew Mutua, 6,100,66,57,50,0,National Level,Science Club,Class Representative,Engineer,1
+David Otieno, 8,84,83,,91,1,School Level,Debate Club,,Pilot,1
+Lilian Wangechi, 6,94,68,72,60,0,County Level,Art Club,Club Leader,Athlete,0
+David Achieng, 12,86,91,66,79,0,School Level,Science Club,Class Representative,Musician,1
+David Nyakundi, 6,73,66,68,54,1,National Level,Drama Club,,Athlete,1
+Ian Kigen, 6,84,95,,,0,0ne,Art Club,Club Leader,Athlete,0
+Ann Wairimu, 11,63,85,,61,1,0ne,Drama Club,Club Leader,Pharmacist,0
+Martin Nduati, 9,54,57,93,59,1,School Level,Art Club,Club Leader,Accountant,0
+Henry Chebet, 12,75,54,76,68,0,National Level,Debate Club,,Engineer,1
+Eliud Ngoya, 6,56,53,66,91,0,County Level,Art Club,Club Leader,Musician,0
+Francis Kiprop, 10,65,96,82,74,1,0ne,Science Club,Club Leader,Accountant,1
+Irene Akinyi, 8,76,88,79,,0,0ne,Art Club,,Surgeon,1
+Henry Kigen, 8,93,63,91,93,1,School Level,Art Club,Club Leader,Pharmacist,1
+Elijah Davis, 6,51,64,58,,1,School Level,Art Club,Class Representative,Lawyer,0
+Mercy Wamuyu, 11,71,89,69,62,0,County Level,0ne,Club Leader,Teacher,1
+Ann Kilonzo, 7,92,57,80,94,1,National Level,Music Club,,Doctor,1
+Agnes Wanjiku, 9,81,68,58,70,0,County Level,0ne,Club Leader,Pilot,0
+Tom Akinyi, 11,76,59,63,83,0,0ne,Debate Club,Class Representative,Lawyer,0
+Irene Njoroge, 9,86,79,61,64,0,County Level,Art Club,,Accountant,1
+John Wambui, 7,86,82,68,90,1,0ne,Drama Club,Club Leader,Pilot,0
+Kennedy Nyakundi, 12,67,90,76,83,1,National Level,Science Club,Club Leader,Engineer,0
+Alex Chirchir, 6,85,98,99,54,1,County Level,Science Club,Club Leader,Surgeon,1
+David Njoroge, 7,70,91,68,85,0,0ne,Music Club,,Athlete,1
+Mercy Koome, 8,63,,76,76,0,County Level,Drama Club,Club Leader,Data Scientist,1
+Faith Wanjiru, 8,95,55,98,56,0,National Level,Science Club,,Artist,0
+Ann Mutiso, 11,75,70,,93,1,School Level,Music Club,,Surgeon,0
+Linet Kamau, 9,91,61,96,99,0,National Level,Art Club,,Surgeon,0
+Faith Onyango, 6,90,73,51,69,0,School Level,Drama Club,Class Representative,Lawyer,0
+Esther Wairimu, 10,75,92,,90,0,National Level,Art Club,,Surgeon,1
+Beatrice Simiyu, 12,81,62,72,90,0,National Level,Debate Club,Class Representative,Engineer,1
+Susan Kariuki, 11,89,79,80,78,0,School Level,Art Club,Club Leader,Lawyer,0
+Lilian Chirchir, 8,76,90,69,84,1,School Level,Music Club,Club Leader,Lawyer,0
+Peter Kariuki, 9,60,96,,83,0,School Level,0ne,Club Leader,Pilot,1
+Ian Simiyu, 10,65,92,77,52,0,County Level,Art Club,,Engineer,0
+Peter Wairimu, 9,80,52,70,53,1,School Level,Debate Club,Club Leader,Pharmacist,0
+Lilian Nduati, 12,,54,59,83,1,0ne,Drama Club,,Doctor,0
+Tom Ochieng, 6,63,71,79,93,1,County Level,Science Club,Club Leader,Artist,0
+Agnes Makori, 8,75,77,97,64,0,0ne,Debate Club,Club Leader,Athlete,1
+Samuel Wangechi, 9,52,50,97,62,0,National Level,Art Club,Club Leader,Doctor,1
+Lilian Kigen, 11,,83,84,59,0,School Level,0ne,Class Representative,Engineer,0
+Ian Nyambura, 11,61,71,89,72,0,School Level,Science Club,Club Leader,Teacher,0
+Charles Njoroge, 11,75,,90,73,0,School Level,Art Club,Class Representative,Teacher,1
+Kevin Kirui, 9,89,99,,65,1,0ne,0ne,Club Leader,Teacher,1
+Jacinta Juma, 6,78,52,66,,0,County Level,Music Club,Club Leader,Pilot,0
+James Kilonzo, 9,88,68,59,66,0,County Level,Debate Club,Club Leader,Surgeon,1
+Mary Kibera, 6,62,65,57,57,1,National Level,Science Club,Club Leader,Surgeon,1
+Nelson Kilonzo, 6,,68,,51,1,National Level,0ne,Club Leader,Lawyer,0
+Lucy Mutua, 10,86,82,63,,1,County Level,Debate Club,,Pharmacist,0
+Nelson Davis, 7,77,86,69,55,1,0ne,Music Club,,Accountant,0
+John Makori, 9,88,63,50,71,1,0ne,Art Club,Club Leader,Lawyer,0
+Hannah Kibet, 10,57,89,61,77,1,0ne,Art Club,Club Leader,Lawyer,1
+James Kilonzo, 12,91,91,79,52,0,0ne,Music Club,Class Representative,Surgeon,0
+Dorcas Chirchir, 11,76,63,78,62,1,School Level,Drama Club,Club Leader,Teacher,1
+Stephen Davis, 8,50,74,97,63,1,County Level,Science Club,Club Leader,Lawyer,1
+Agnes Simiyu, 7,52,61,94,,0,National Level,Art Club,,Artist,0
+Alex Nyambura, 7,96,63,98,84,0,National Level,Debate Club,Club Leader,Accountant,0
+Nelson Simiyu, 6,,76,97,71,0,School Level,Science Club,Club Leader,Teacher,1
+Sarah Rono, 8,54,70,,51,0,School Level,Art Club,,Athlete,0
+Esther Njoroge, 9,91,80,84,70,0,County Level,Drama Club,Club Leader,Musician,1
+Tom Kirui, 7,72,94,98,98,1,School Level,Debate Club,,Musician,1
+Faith Mwende, 10,100,70,78,73,1,School Level,Science Club,,Teacher,1
+Irene Njoroge, 12,90,97,,70,1,County Level,Drama Club,Class Representative,Surgeon,0
+Andrew Achieng, 8,64,100,80,57,0,National Level,Drama Club,Club Leader,Athlete,1
+Nelson Achieng, 12,,88,98,94,1,School Level,Debate Club,,Pharmacist,0
+Agnes Kariuki, 11,,78,84,99,0,School Level,0ne,Club Leader,Pharmacist,0
+Agnes Mutiso, 12,85,66,,,0,National Level,Music Club,Class Representative,Pharmacist,0
+Grace Davis, 9,77,93,95,81,1,National Level,Music Club,Club Leader,Pilot,1
+Agnes Kigen, 7,69,87,99,59,0,School Level,Music Club,Class Representative,Doctor,0
+Charles Kibet, 7,78,88,,77,0,0ne,Debate Club,,Accountant,1
+John Oduor, 11,79,89,60,88,1,School Level,Drama Club,Class Representative,Musician,0
+John Wanjiru, 9,75,97,63,90,0,School Level,0ne,,Accountant,1
+Paul Juma, 6,,71,56,,1,0ne,Debate Club,,Athlete,0
+Stephen Kirui, 10,52,73,56,82,0,0ne,Drama Club,,Athlete,0
+Nelson Achieng, 6,62,77,92,99,0,0ne,Music Club,,Surgeon,1
+Kevin Kariuki, 6,91,86,84,79,1,National Level,Debate Club,Club Leader,Artist,1
+David Kigen, 11,81,91,59,54,1,School Level,Drama Club,Class Representative,Teacher,0
+Dorcas Kirui, 10,68,88,55,62,1,0ne,0ne,Class Representative,Pharmacist,1
+Jacinta Mutua, 7,99,84,78,58,1,School Level,Debate Club,Class Representative,Doctor,1
+Martin Doe, 6,51,94,78,80,1,National Level,Drama Club,,Data Scientist,0
+Susan Simiyu, 9,86,,83,82,0,School Level,Science Club,Class Representative,Accountant,1
+Mary Njoroge, 6,88,,94,65,0,School Level,Drama Club,Class Representative,Musician,1
+Joseph Davis, 6,91,74,58,69,1,0ne,Debate Club,Class Representative,Musician,0
+Kennedy Mwende, 7,78,76,90,71,1,School Level,Music Club,,Artist,1
+Agnes Nduati, 11,73,75,91,52,1,County Level,Drama Club,,Pilot,0
+John Njoroge, 12,94,61,67,71,1,0ne,Drama Club,,Doctor,1
+James Nduati, 10,,75,79,56,1,School Level,Debate Club,,Lawyer,0
+Agnes Wairimu, 11,63,57,73,87,0,School Level,Music Club,,Lawyer,0
+Lucy Mwikali, 11,,63,98,,1,0ne,0ne,,Teacher,1
+Ian Njoroge, 12,77,68,100,90,0,School Level,Science Club,Class Representative,Teacher,0
+Dorcas Kilonzo, 8,85,97,66,97,0,National Level,Drama Club,,Lawyer,1
+Mercy Kibet, 8,,81,73,79,1,National Level,Music Club,,Pilot,1
+Ann Wambui, 11,94,84,90,53,1,National Level,Science Club,,Surgeon,0
+Mercy Nyakundi, 8,85,60,77,71,1,0ne,Art Club,Club Leader,Pharmacist,0
+David Mutiso, 11,70,90,54,59,1,County Level,Science Club,Class Representative,Doctor,1
+Faith Wamuyu, 12,,71,,88,1,County Level,Drama Club,Class Representative,Pharmacist,1
+Eliud Wangechi, 12,98,73,69,80,0,School Level,Art Club,Club Leader,Artist,0
+Agnes Ngoya, 11,96,,,,1,National Level,0ne,Club Leader,Teacher,1
+Kennedy Oduor, 9,98,86,50,97,0,County Level,Music Club,Club Leader,Musician,1
+Lucy Otieno, 6,87,82,55,65,1,National Level,Debate Club,Class Representative,Surgeon,1
+Grace Mutua, 10,76,65,58,83,1,School Level,Music Club,Club Leader,Surgeon,0
+James Nyambura, 7,70,52,97,90,1,National Level,Drama Club,Class Representative,Surgeon,1
+Joseph Kiprop, 9,56,,99,82,0,National Level,Debate Club,Class Representative,Pilot,0
+Andrew Otieno, 7,52,83,69,96,0,0ne,Art Club,Class Representative,Teacher,0
+Kevin Atieno, 8,73,97,97,82,0,0ne,Debate Club,Club Leader,Data Scientist,1
+Faith Wanjiku, 7,84,65,83,58,0,County Level,Debate Club,,Teacher,1
+Grace Mwikali, 11,75,88,81,59,0,School Level,0ne,Class Representative,Data Scientist,0
+Grace Wambui, 11,80,100,62,81,0,National Level,Science Club,Club Leader,Data Scientist,1
+Dennis Nyakundi, 6,77,80,85,56,1,0ne,Music Club,Club Leader,Lawyer,1
+Martin Njoroge, 7,67,85,74,55,0,County Level,0ne,Club Leader,Pilot,0
+Grace Kimeu, 12,91,64,,83,0,National Level,Science Club,Class Representative,Artist,1
+Rose Wambui, 7,82,90,63,58,1,0ne,Art Club,Class Representative,Lawyer,1
+Samuel Muthama, 9,94,78,74,91,0,0ne,Drama Club,Club Leader,Musician,1
+David Wamuyu, 11,58,76,64,52,0,National Level,Debate Club,Class Representative,Data Scientist,1
+Hannah Nduati, 10,84,75,86,61,1,County Level,Drama Club,,Pharmacist,1
+Faith Kigen, 11,53,50,84,69,0,County Level,Music Club,,Artist,1
+James Ochieng, 10,71,93,93,72,1,National Level,Music Club,Class Representative,Pilot,0
+Mary Onyango, 10,50,71,81,99,0,0ne,0ne,,Pharmacist,0
+Martin Koome, 9,68,100,56,98,0,0ne,0ne,Class Representative,Pilot,0
+Faith Otieno, 10,85,93,84,,1,County Level,0ne,,Musician,0
+Brenda Juma, 6,,,72,54,1,School Level,Drama Club,,Accountant,0
+David Mutiso, 7,58,60,98,52,0,County Level,Art Club,Class Representative,Data Scientist,0
+Kevin Kariuki, 10,58,,,50,0,0ne,Science Club,,Artist,1
+Peter Nyambura, 8,90,66,,64,0,National Level,Science Club,Class Representative,Engineer,0
+Dorcas Otieno, 9,76,50,55,83,1,School Level,Drama Club,Class Representative,Pharmacist,1
+Brenda Makori, 9,100,88,66,100,1,0ne,Drama Club,Class Representative,Artist,1
+Andrew Njoroge, 8,,74,67,,0,National Level,0ne,,Lawyer,1
+Joseph Achieng, 10,77,64,85,68,0,National Level,0ne,Club Leader,Data Scientist,1
+Samuel Juma, 11,82,85,72,61,1,County Level,Drama Club,,Pharmacist,0
+Martin Kibet, 12,98,86,59,79,0,0ne,0ne,,Data Scientist,0
+Esther Doe, 9,77,80,99,,0,0ne,Art Club,,Engineer,0
+Eliud Koome, 10,69,78,75,94,0,School Level,Drama Club,Club Leader,Musician,1
+Andrew Kiprop, 6,96,98,79,,0,National Level,0ne,Class Representative,Pilot,0
+John Chege, 7,91,,,,1,School Level,Debate Club,,Doctor,1
+Brenda Doe, 10,70,79,77,72,0,0ne,Drama Club,Class Representative,Athlete,1
+David Achieng, 10,79,83,60,65,1,0ne,0ne,Class Representative,Surgeon,0
+Martin Nduati, 7,80,71,81,97,1,0ne,Science Club,Club Leader,Lawyer,0
+Peter Nduati, 9,60,90,,51,0,0ne,Debate Club,Class Representative,Data Scientist,1
+John Wanjiku, 9,69,86,92,,0,County Level,0ne,Class Representative,Teacher,1
+Elijah Wairimu, 6,54,68,89,95,0,National Level,Art Club,,Pilot,0
+Samuel Chege, 10,74,53,56,84,1,School Level,Art Club,Club Leader,Engineer,1
+Mary Mutiso, 12,62,71,99,,0,0ne,Art Club,Class Representative,Lawyer,1
+Lilian Mwende, 10,52,61,94,65,0,National Level,Debate Club,,Teacher,1
+Dennis Chege, 12,80,57,50,,1,National Level,Science Club,,Pharmacist,0
+Eliud Rono, 8,67,62,69,74,1,National Level,Music Club,Club Leader,Engineer,1
+Charles Chirchir, 9,59,92,91,95,0,School Level,Science Club,,Pharmacist,0
+Dorcas Juma, 7,65,79,74,51,1,County Level,Music Club,Club Leader,Surgeon,0
+Faith Wanjiru, 7,91,60,,85,0,National Level,Drama Club,Class Representative,Data Scientist,0
+Mary Mutua, 8,76,55,68,55,0,County Level,Science Club,,Lawyer,1
+Hannah Kimeu, 8,51,50,98,91,0,County Level,Music Club,Class Representative,Pilot,1
+Joseph Nyakundi, 11,,69,61,66,1,County Level,Science Club,,Pharmacist,0
+Peter Achieng, 10,71,,89,63,1,County Level,Debate Club,Class Representative,Pilot,0
+Jacinta Nyakundi, 8,89,74,71,93,1,County Level,Drama Club,,Accountant,1
+Agnes Mutua, 12,60,66,57,61,0,0ne,Music Club,Club Leader,Engineer,0
+Faith Otieno, 6,53,70,59,60,1,County Level,Debate Club,Club Leader,Athlete,1
+Kevin Mutiso, 6,78,87,51,91,1,School Level,Music Club,Class Representative,Accountant,0
+Andrew Oduor, 7,99,88,94,78,1,National Level,Music Club,,Accountant,1
+Esther Kimeu, 8,90,91,68,65,0,School Level,Music Club,Club Leader,Pilot,1
+Mary Wambui, 8,86,92,,73,0,0ne,Debate Club,,Athlete,1
+Tom Njoroge, 6,92,98,81,59,1,0ne,Debate Club,Club Leader,Surgeon,0
+Peter Otieno, 7,79,88,75,92,0,County Level,Debate Club,Club Leader,Engineer,1
+Agnes Kigen, 11,78,86,73,78,1,School Level,Science Club,Class Representative,Musician,1
+Tom Mwende, 10,,82,91,94,0,National Level,Drama Club,,Lawyer,1
+Susan Chirchir, 12,93,92,63,62,0,School Level,Debate Club,Club Leader,Musician,1
+Ann Wanjiru, 7,57,74,79,97,0,School Level,Art Club,,Pilot,1
+Jacinta Juma, 6,85,,82,58,0,County Level,Drama Club,,Engineer,1
+Paul Simiyu, 6,62,99,54,90,0,0ne,0ne,Class Representative,Lawyer,1
+Alex Kilonzo, 10,,84,95,63,1,0ne,Debate Club,Class Representative,Artist,1
+John Njoroge, 11,86,71,52,64,0,0ne,Drama Club,Class Representative,Teacher,0
+Faith Mutiso, 7,52,99,69,100,0,National Level,Art Club,Class Representative,Doctor,1
+Andrew Kiplangat, 8,99,,61,85,1,National Level,0ne,,Pilot,1
+Agnes Nduati, 6,67,95,97,90,1,School Level,Art Club,Club Leader,Pharmacist,0
+Esther Mutua, 7,50,58,92,93,0,National Level,Music Club,Class Representative,Engineer,1
+Paul Otieno, 9,90,64,70,57,0,National Level,Debate Club,,Musician,1
+Lucy Doe, 9,98,89,78,88,0,School Level,0ne,Club Leader,Accountant,1
+Henry Wairimu, 11,96,81,57,64,1,County Level,0ne,Club Leader,Doctor,1
+Agnes Mwikali, 11,92,68,100,,0,School Level,Science Club,,Artist,1
+Grace Akinyi, 9,82,91,71,71,1,National Level,Science Club,Club Leader,Artist,1
+Faith Njoroge, 6,89,97,,96,1,National Level,Drama Club,Club Leader,Engineer,0
+Rose Kilonzo, 10,62,86,79,80,1,National Level,Drama Club,Club Leader,Pharmacist,1
+Linet Ochieng, 6,64,85,58,54,1,School Level,0ne,,Doctor,0
+David Kirui, 6,79,56,86,58,0,School Level,0ne,Club Leader,Pilot,1
+Kevin Mwikali, 8,66,92,90,94,1,School Level,Science Club,,Artist,0
+Eliud Kigen, 10,91,69,59,,0,School Level,Art Club,Club Leader,Athlete,1
+Susan Muthama, 11,57,76,91,62,0,County Level,Art Club,Club Leader,Doctor,1
+Stephen Mutiso, 7,61,,,74,0,County Level,Art Club,,Data Scientist,0
+Brenda Chege, 12,91,69,61,65,1,County Level,Debate Club,Club Leader,Data Scientist,1
+Sarah Kamau, 7,98,67,76,91,1,National Level,Drama Club,Class Representative,Pilot,0
+Esther Kibera, 6,60,75,73,62,1,County Level,0ne,Club Leader,Lawyer,1
+Mary Davis, 12,70,90,77,79,1,0ne,Debate Club,,Pharmacist,1
+Fredrick Otieno, 8,67,92,91,78,0,National Level,Art Club,Class Representative,Teacher,1
+Paul Wambui, 10,62,64,54,71,0,School Level,Science Club,,Surgeon,0
+Lilian Njoroge, 10,,73,95,61,0,0ne,0ne,Class Representative,Accountant,1
+Samuel Wambui, 11,,98,64,81,1,School Level,Drama Club,Class Representative,Accountant,0
+Peter Wairimu, 9,,,69,80,1,School Level,Art Club,Class Representative,Teacher,0
+Rose Wambui, 6,54,92,58,61,1,County Level,Art Club,Club Leader,Surgeon,0
+Martin Kirui, 8,60,91,63,,0,School Level,0ne,Class Representative,Musician,1
+Tom Atieno, 10,52,,62,69,1,County Level,Music Club,Class Representative,Athlete,0
+Rose Kamau, 9,67,99,97,83,1,National Level,Science Club,,Accountant,0
+Elijah Chirchir, 11,83,70,93,59,0,County Level,0ne,,Surgeon,0
+Lucy Koome, 8,,86,79,94,0,0ne,Science Club,Class Representative,Surgeon,1
+Peter Nyakundi, 9,97,55,74,78,0,County Level,0ne,Class Representative,Engineer,0
+Brenda Juma, 7,70,61,62,87,1,County Level,Science Club,,Doctor,0
+David Njoroge, 9,58,72,91,79,1,County Level,Drama Club,Club Leader,Pilot,0
+Faith Oduor, 11,61,94,54,81,0,National Level,Science Club,Class Representative,Surgeon,1
+Francis Doe, 6,84,88,88,,0,School Level,0ne,Club Leader,Artist,1
+Eliud Chege, 10,91,,54,89,1,School Level,Drama Club,Club Leader,Data Scientist,1
+Susan Doe, 10,87,90,72,72,0,0ne,Music Club,Class Representative,Doctor,0
+Susan Mutiso, 12,80,53,99,68,1,County Level,Music Club,,Artist,1
+Tom Kiplangat, 6,67,89,68,88,0,National Level,0ne,,Lawyer,1
+John Chirchir, 9,57,61,87,54,0,National Level,Debate Club,Club Leader,Artist,1
+Joseph Wamuyu, 7,92,82,60,97,1,National Level,Music Club,Club Leader,Engineer,1
+Eliud Doe, 8,83,51,84,69,0,School Level,Debate Club,Class Representative,Pilot,1
+Nelson Mutiso, 11,93,,96,,1,National Level,Drama Club,,Artist,0
+Beatrice Kilonzo, 12,71,64,85,85,1,County Level,Drama Club,,Pharmacist,0
+Dorcas Kibera, 6,79,,55,51,0,School Level,Art Club,,Athlete,0
+Stephen Wamuyu, 6,,72,62,99,1,0ne,Music Club,Class Representative,Doctor,0
+Brenda Kiprop, 11,54,55,90,97,0,0ne,Art Club,Club Leader,Athlete,1
+Fredrick Ochieng, 7,86,82,98,99,1,School Level,Art Club,,Teacher,1
+Linet Njoroge, 8,70,80,82,82,0,National Level,0ne,Club Leader,Engineer,0
+Mercy Njoroge, 12,55,51,94,62,1,National Level,Debate Club,,Engineer,1
+Stephen Rono, 6,70,62,59,50,1,National Level,Drama Club,Class Representative,Accountant,0
+Martin Kiprop, 6,68,96,95,89,0,0ne,Science Club,,Musician,0
+David Chirchir, 11,54,59,85,76,0,County Level,Science Club,Class Representative,Accountant,1
+Ian Oduor, 9,62,,82,91,1,National Level,0ne,Club Leader,Teacher,0
+Agnes Wanjiku, 11,,90,73,69,1,County Level,Art Club,Club Leader,Teacher,1
+Esther Otieno, 10,82,75,88,76,0,0ne,Science Club,,Pilot,0
+Hannah Mwende, 8,73,71,61,95,1,County Level,Art Club,Club Leader,Surgeon,0
+Mercy Otieno, 6,,91,73,94,1,County Level,Drama Club,Club Leader,Pilot,1
+Kennedy Makori, 6,68,82,,,0,County Level,Debate Club,,Athlete,0
+Agnes Kariuki, 6,61,64,78,53,0,School Level,0ne,Club Leader,Surgeon,1
+James Atieno, 7,98,68,75,54,0,County Level,Debate Club,Club Leader,Pilot,0
+Faith Mutua, 10,71,50,,53,0,National Level,Debate Club,Class Representative,Accountant,0
+Faith Wanjiku, 10,82,,94,,0,National Level,Art Club,Class Representative,Teacher,1
+Jacinta Simiyu, 7,60,,67,75,1,0ne,Debate Club,Club Leader,Doctor,1
+Brenda Ochieng, 12,98,71,,70,1,School Level,Drama Club,Class Representative,Surgeon,0
+Kennedy Wambui, 6,64,58,50,85,1,School Level,Music Club,Club Leader,Pharmacist,1
+Agnes Onyango, 7,73,55,100,98,0,School Level,Science Club,Class Representative,Engineer,1
+Lucy Oduor, 8,56,78,52,81,1,School Level,Music Club,,Lawyer,1
+Linet Chirchir, 9,58,68,77,98,0,National Level,Drama Club,Class Representative,Teacher,1
+Esther Mwikali, 9,52,84,61,51,1,0ne,Music Club,,Athlete,1
+Fredrick Wambui, 11,,78,,61,0,National Level,0ne,Club Leader,Musician,1
+Eliud Chebet, 9,,,72,73,0,School Level,Art Club,Club Leader,Engineer,0
+Faith Wairimu, 7,81,63,89,,1,0ne,Drama Club,Club Leader,Pilot,0
+Esther Makori, 8,98,81,58,51,1,National Level,Drama Club,Club Leader,Surgeon,0
+Eliud Juma, 7,58,98,65,50,1,0ne,Music Club,,Pharmacist,1
+Ann Ochieng, 12,83,81,88,71,0,School Level,Debate Club,,Lawyer,1
+John Mutua, 7,75,61,55,93,0,0ne,Drama Club,Class Representative,Musician,0
+Nelson Wambui, 6,57,95,82,80,1,County Level,Science Club,,Pilot,0
+Alex Nyakundi, 11,68,100,58,74,1,0ne,Drama Club,Class Representative,Pharmacist,0
+Paul Simiyu, 11,93,99,63,95,1,County Level,Art Club,Class Representative,Athlete,1
+Sarah Doe, 11,79,82,,75,0,National Level,Science Club,,Lawyer,0
+Joseph Muthama, 12,58,,65,,1,0ne,Music Club,Club Leader,Athlete,1
+Francis Juma, 6,74,,87,86,0,County Level,Debate Club,,Lawyer,0
+Samuel Oduor, 10,59,,60,90,0,National Level,Art Club,Class Representative,Surgeon,1
+Tom Nyambura, 7,100,61,77,94,0,0ne,Debate Club,Club Leader,Musician,1
+Lilian Kirui, 12,82,81,80,,0,County Level,Science Club,Class Representative,Artist,1
+Lilian Davis, 9,77,90,66,86,0,County Level,Debate Club,Class Representative,Surgeon,1
+Rose Koome, 12,75,77,95,75,0,0ne,Art Club,,Pharmacist,0
+Eliud Chege, 8,80,,99,77,0,County Level,Drama Club,Class Representative,Athlete,0
+Eliud Nyambura, 10,96,68,90,90,0,School Level,Art Club,Club Leader,Pilot,0
+David Mutiso, 8,,82,74,80,0,National Level,Music Club,,Surgeon,1
+Samuel Achieng, 6,,,,69,0,0ne,Debate Club,Class Representative,Pharmacist,0
+Grace Otieno, 8,63,91,63,78,0,0ne,0ne,Club Leader,Accountant,0
+Dennis Atieno, 8,97,66,,67,1,0ne,Debate Club,Club Leader,Lawyer,0
+David Kiprop, 11,50,70,76,85,1,County Level,0ne,,Teacher,0
+Esther Njoroge, 7,76,94,,99,0,0ne,0ne,Class Representative,Musician,1
+Eliud Wairimu, 6,87,77,70,59,0,National Level,Drama Club,Club Leader,Data Scientist,0
+Hannah Rono, 10,,71,70,54,0,National Level,0ne,Class Representative,Athlete,1
+David Mutiso, 8,53,,94,99,0,0ne,Music Club,Class Representative,Athlete,1
+John Kariuki, 8,57,83,64,63,0,County Level,Music Club,Class Representative,Engineer,0
+Faith Simiyu, 8,88,97,73,70,1,National Level,Science Club,Class Representative,Musician,1
+Andrew Wairimu, 7,73,87,59,62,1,County Level,0ne,Class Representative,Doctor,1
+Ann Otieno, 12,57,74,94,80,0,County Level,Drama Club,Class Representative,Pilot,1
+Alex Kamau, 9,98,96,82,62,0,0ne,0ne,,Musician,1
+Dennis Otieno, 8,89,59,72,76,0,National Level,0ne,,Pilot,0
+Joseph Kibet, 11,,79,58,66,0,School Level,Drama Club,,Doctor,1
+Esther Nyambura, 7,75,90,78,98,1,National Level,Science Club,Class Representative,Artist,1
+Ann Mutiso, 9,66,87,72,66,0,0ne,Science Club,,Pilot,0
+John Mwikali, 8,70,54,85,79,0,0ne,Debate Club,,Data Scientist,1
+Samuel Njoroge, 7,53,,76,75,0,National Level,Debate Club,Club Leader,Doctor,0
+Lucy Kilonzo, 8,92,88,,58,0,School Level,Music Club,Class Representative,Accountant,0
+Joseph Kilonzo, 8,69,98,58,82,0,School Level,Debate Club,Club Leader,Accountant,1
+John Kirui, 10,87,96,72,99,0,National Level,0ne,,Teacher,0
+Martin Kiprop, 9,70,76,83,64,1,National Level,Music Club,,Surgeon,1
+Peter Kilonzo, 7,61,63,59,58,1,National Level,Art Club,Class Representative,Pharmacist,0
+Peter Kigen, 7,80,71,85,93,0,0ne,0ne,,Teacher,0
+Irene Kigen, 9,,98,,,1,National Level,Debate Club,Class Representative,Doctor,0
+James Njoroge, 6,,82,57,50,1,National Level,Art Club,Class Representative,Teacher,1
+Rose Juma, 8,87,69,99,74,1,National Level,Art Club,Club Leader,Lawyer,1
+Grace Kirui, 12,88,73,78,53,1,National Level,Debate Club,Club Leader,Pilot,1
+Faith Mutiso, 6,73,59,60,72,0,School Level,Music Club,,Surgeon,0
+Nelson Otieno, 6,94,84,,66,1,0ne,Art Club,,Lawyer,0
+James Kirui, 8,58,,80,87,1,0ne,Debate Club,Class Representative,Engineer,0
+Kennedy Simiyu, 7,90,74,54,67,0,School Level,Science Club,Class Representative,Lawyer,0
+Rose Nyakundi, 6,93,82,81,52,1,0ne,Art Club,Class Representative,Musician,0
+Grace Davis, 6,59,100,93,73,1,County Level,Drama Club,,Athlete,1
+Esther Njoroge, 12,,57,58,98,0,School Level,0ne,Class Representative,Artist,1
+Francis Simiyu, 8,50,,85,,1,0ne,0ne,Class Representative,Accountant,1
+Mercy Wangechi, 6,65,79,99,58,0,National Level,Science Club,,Doctor,0
+Fredrick Kirui, 10,92,100,68,52,0,0ne,Debate Club,Class Representative,Data Scientist,1
+Charles Wambui, 10,70,65,63,91,1,School Level,Science Club,Club Leader,Teacher,0
+Agnes Kamau, 9,73,82,94,,0,0ne,Art Club,Class Representative,Data Scientist,0
+Hannah Kamau, 8,94,73,75,90,1,School Level,Debate Club,Class Representative,Artist,0
+Eliud Mwende, 9,79,72,64,86,0,0ne,Music Club,,Musician,0
+Joseph Chebet, 11,96,,,,1,National Level,Debate Club,Class Representative,Pilot,0
+Hannah Chirchir, 8,83,85,85,88,1,0ne,Art Club,,Surgeon,1
+Rose Otieno, 8,91,53,58,62,1,0ne,Art Club,Club Leader,Data Scientist,1
+Rose Wanjiru, 7,60,52,50,,1,National Level,Music Club,Club Leader,Accountant,0
+Ann Simiyu, 6,87,94,54,51,1,0ne,0ne,Club Leader,Pilot,1
+Eliud Ngoya, 12,,60,90,75,0,0ne,Science Club,Class Representative,Data Scientist,0
+John Mwikali, 11,78,50,54,51,0,0ne,Art Club,,Pharmacist,1
+Rose Ochieng, 10,,,96,,1,School Level,Art Club,,Doctor,1
+James Njoroge, 11,56,95,73,96,0,0ne,Debate Club,Class Representative,Engineer,1
+Esther Oduor, 11,98,55,85,90,1,County Level,Drama Club,,Pilot,1
+Dorcas Simiyu, 10,95,60,76,53,1,School Level,Music Club,Class Representative,Teacher,1
+Stella Wangechi, 8,88,63,85,,0,County Level,Debate Club,Club Leader,Data Scientist,0
+Brenda Ngoya, 6,94,91,75,92,0,0ne,Debate Club,Club Leader,Athlete,0
+Tom Nduati, 10,88,67,,68,1,0ne,Art Club,,Accountant,1
+Samuel Wairimu, 7,86,51,63,80,0,County Level,Drama Club,,Pharmacist,0
+Henry Otieno, 12,53,,99,51,0,School Level,0ne,Class Representative,Lawyer,1
+Hannah Koome, 9,61,57,70,,1,County Level,Science Club,Club Leader,Doctor,1
+Nelson Wambui, 11,96,64,52,94,1,County Level,Science Club,Class Representative,Musician,0
+Linet Wairimu, 7,81,64,89,95,1,National Level,Drama Club,Class Representative,Data Scientist,0
+Susan Wairimu, 11,72,84,,62,1,National Level,Science Club,Class Representative,Engineer,0
+Brenda Chirchir, 10,95,68,77,84,0,County Level,0ne,Club Leader,Engineer,1
+John Rono, 10,91,,86,51,0,0ne,Music Club,,Accountant,1
+David Atieno, 6,91,88,86,82,1,National Level,Science Club,Club Leader,Data Scientist,0
+Esther Mwikali, 10,51,,83,66,0,National Level,Debate Club,Club Leader,Engineer,0
+Stella Mutiso, 11,73,59,98,90,1,National Level,Debate Club,,Doctor,1
+Ann Otieno, 6,71,90,80,72,0,County Level,Music Club,,Athlete,1
+Esther Otieno, 12,60,72,69,63,1,County Level,Science Club,Class Representative,Lawyer,1
+Agnes Mutua, 12,63,90,61,88,1,School Level,Debate Club,,Artist,1
+Rose Nduati, 11,68,57,74,,1,School Level,Music Club,Club Leader,Musician,1
+Henry Juma, 10,86,93,100,83,1,National Level,Science Club,Club Leader,Doctor,0
+Irene Wambui, 11,96,77,90,,1,County Level,Science Club,Club Leader,Musician,1
+David Doe, 8,,71,65,,0,National Level,0ne,,Teacher,0
+Andrew Kariuki, 12,69,51,100,77,1,School Level,Science Club,Class Representative,Athlete,1
+James Kariuki, 6,59,58,87,67,0,0ne,Drama Club,Class Representative,Surgeon,1
+Irene Juma, 8,84,50,56,94,0,0ne,0ne,Club Leader,Engineer,0
+Susan Wangechi, 6,84,79,98,60,0,School Level,Science Club,,Musician,1
+Francis Otieno, 12,92,86,82,55,1,County Level,Drama Club,Class Representative,Artist,0
+Andrew Koome, 11,60,76,88,82,1,School Level,0ne,,Pharmacist,1
+Francis Kigen, 7,80,75,73,97,0,School Level,Science Club,Club Leader,Pilot,1
+John Wanjiru, 6,53,65,51,84,1,0ne,Music Club,,Teacher,0
+Rose Oduor, 7,99,65,65,87,0,National Level,Drama Club,Club Leader,Artist,1
+David Kirui, 11,61,75,90,81,0,County Level,0ne,Class Representative,Artist,1
+Grace Kibera, 6,89,79,75,77,0,0ne,Debate Club,Club Leader,Doctor,0
+Irene Chirchir, 9,90,71,64,99,1,School Level,Music Club,Class Representative,Artist,1
+Martin Chege, 6,98,86,82,62,0,0ne,Music Club,Class Representative,Pilot,0
+Elijah Mwikali, 6,67,,55,67,1,0ne,Music Club,,Athlete,0
+Samuel Makori, 10,65,,52,93,0,0ne,Music Club,,Pharmacist,1
+Francis Wambui, 11,74,77,96,62,0,National Level,Music Club,Club Leader,Surgeon,1
+Stephen Wambui, 8,80,56,78,80,0,National Level,Drama Club,,Lawyer,1
+Grace Kibet, 8,78,92,54,55,1,County Level,Science Club,Club Leader,Engineer,0
+Mary Otieno, 6,86,72,84,,1,School Level,0ne,Club Leader,Pharmacist,0
+Rose Juma, 11,70,78,97,87,1,School Level,Art Club,,Artist,1
+Rose Davis, 9,50,87,95,50,1,School Level,Science Club,Club Leader,Athlete,1
+Mary Nyakundi, 8,94,100,50,59,0,National Level,0ne,Club Leader,Athlete,0
+Mary Kiprop, 6,78,70,64,74,1,County Level,Music Club,,Accountant,0
+Kevin Kilonzo, 12,69,57,89,82,0,0ne,Debate Club,,Doctor,0
+Francis Ngoya, 9,62,93,56,66,0,National Level,Music Club,Club Leader,Data Scientist,1
+Francis Kiprop, 8,,76,63,97,0,County Level,0ne,Class Representative,Accountant,0
+Eliud Wangechi, 6,94,52,100,95,0,County Level,Music Club,Class Representative,Musician,0
+Ian Makori, 10,,,76,95,1,0ne,Art Club,,Data Scientist,1
+Ann Wairimu, 9,57,73,83,,0,0ne,Music Club,,Lawyer,0
+David Kamau, 11,74,73,100,56,0,0ne,Art Club,,Lawyer,0
+Ann Wamuyu, 10,100,51,81,67,0,County Level,Science Club,,Pilot,1
+Rose Mwende, 6,,62,96,90,0,County Level,Art Club,Class Representative,Athlete,1
+Faith Kilonzo, 11,58,68,,80,1,County Level,0ne,Class Representative,Pharmacist,1
+Ann Koome, 8,98,54,96,83,1,National Level,Science Club,,Engineer,0
+Ian Otieno, 12,,59,52,85,0,County Level,Debate Club,Class Representative,Teacher,0
+Agnes Juma, 10,,92,,56,0,School Level,Art Club,Club Leader,Lawyer,0
+Peter Nyakundi, 9,65,97,83,75,0,School Level,Art Club,Class Representative,Doctor,0
+Grace Kibera, 9,76,77,81,52,1,0ne,0ne,Club Leader,Data Scientist,0
+Alex Otieno, 6,,,53,99,1,County Level,Science Club,Class Representative,Doctor,1
+Faith Nyambura, 9,84,,53,,1,County Level,Science Club,Club Leader,Data Scientist,0
+Stephen Mutua, 8,52,50,,61,0,National Level,Debate Club,Club Leader,Musician,0
+Ann Kirui, 8,99,75,72,63,0,National Level,0ne,Club Leader,Teacher,1
+Alex Wangechi, 9,98,55,82,62,0,County Level,Science Club,Class Representative,Pilot,1
+Samuel Oduor, 10,88,87,69,81,0,National Level,0ne,,Surgeon,0
+Henry Juma, 9,55,62,,76,0,School Level,Art Club,Club Leader,Data Scientist,1
+Paul Otieno, 10,98,72,100,58,0,0ne,Music Club,,Musician,0
+Grace Wamuyu, 11,58,55,66,76,1,National Level,Art Club,,Pilot,1
+Joseph Wanjiku, 9,78,68,,96,1,School Level,Debate Club,Club Leader,Accountant,1
+Mary Nyakundi, 10,52,,57,58,0,National Level,Music Club,Class Representative,Surgeon,1
+Faith Nyakundi, 11,85,,71,84,1,0ne,0ne,,Data Scientist,1
+Esther Mutiso, 11,75,57,83,69,1,National Level,Art Club,Class Representative,Surgeon,0
+Mercy Kirui, 10,100,73,,70,1,County Level,Music Club,,Musician,0
+Stella Kilonzo, 10,67,73,62,53,1,School Level,Drama Club,Club Leader,Surgeon,1
+Stella Kamau, 8,77,84,,,1,County Level,Science Club,,Athlete,0
+Dorcas Njoroge, 11,96,64,70,63,1,County Level,Art Club,Club Leader,Surgeon,0
+Andrew Mutua, 12,79,87,98,,1,County Level,Music Club,,Engineer,1
+Dennis Oduor, 6,72,53,94,79,1,National Level,Music Club,,Musician,1
+Andrew Nyakundi, 12,54,65,76,68,1,0ne,0ne,Club Leader,Accountant,0
+Hannah Atieno, 12,60,67,77,89,1,County Level,Science Club,,Artist,1
+Dennis Otieno, 8,85,82,51,92,1,School Level,Debate Club,Class Representative,Engineer,0
+Francis Mwikali, 9,91,96,94,57,1,National Level,Drama Club,Club Leader,Engineer,1
+David Kiplangat, 8,95,94,72,80,0,School Level,Science Club,Club Leader,Pilot,1
+Grace Oduor, 9,75,87,66,99,0,County Level,Art Club,Club Leader,Teacher,0
+Mercy Chebet, 7,82,57,61,82,1,School Level,Music Club,,Data Scientist,1
+Ian Njoroge, 10,71,53,,55,1,School Level,Drama Club,Club Leader,Musician,0
+Sarah Kamau, 10,53,56,58,78,0,School Level,Art Club,Class Representative,Lawyer,0
+Beatrice Mutua, 6,93,50,75,52,0,School Level,0ne,Class Representative,Artist,1
+Faith Mwikali, 9,69,62,69,64,0,National Level,Music Club,,Athlete,0
+Lilian Kimeu, 10,87,65,50,77,1,County Level,Science Club,Class Representative,Musician,0
+Nelson Kibera, 6,51,63,69,82,1,National Level,Science Club,,Doctor,0
+John Mutiso, 6,69,68,56,100,0,0ne,0ne,Club Leader,Pilot,1
+Andrew Nyakundi, 11,,52,55,98,0,County Level,Music Club,Club Leader,Doctor,0
+Eliud Ngoya, 11,95,59,,77,1,National Level,Drama Club,,Teacher,1
+David Kariuki, 6,63,,,83,1,School Level,Drama Club,Club Leader,Engineer,0
+Kevin Oduor, 9,58,100,,62,1,School Level,Music Club,Club Leader,Engineer,1
+Susan Chege, 7,90,78,73,78,1,National Level,0ne,,Lawyer,0
+Alex Davis, 11,92,77,52,61,0,County Level,Science Club,Class Representative,Lawyer,1
+Kevin Wairimu, 12,64,90,56,79,0,National Level,Debate Club,Class Representative,Engineer,0
+Esther Achieng, 8,93,92,87,95,1,0ne,0ne,,Data Scientist,0
+Joseph Rono, 8,,74,82,52,0,County Level,0ne,Club Leader,Musician,0
+Paul Chege, 6,64,98,,,1,0ne,Art Club,Class Representative,Data Scientist,0
+Jacinta Njoroge, 8,81,84,,74,1,0ne,Drama Club,Club Leader,Surgeon,1
+Sarah Nyakundi, 11,,73,83,66,0,0ne,0ne,,Teacher,0
+Susan Kariuki, 10,55,63,,81,1,0ne,Drama Club,Class Representative,Doctor,0
+Kennedy Koome, 6,64,83,88,,0,School Level,Science Club,Club Leader,Athlete,1
+Esther Muthama, 10,88,74,96,76,0,County Level,Music Club,,Surgeon,0
+John Doe, 7,60,77,59,94,0,0ne,0ne,Club Leader,Musician,0
+Joseph Akinyi, 12,60,96,84,64,1,School Level,Debate Club,,Pilot,0
+Rose Simiyu, 10,88,76,93,82,1,County Level,Art Club,Club Leader,Surgeon,1
+Alex Wamuyu, 6,89,86,77,88,0,School Level,Art Club,Class Representative,Artist,1
+Faith Davis, 11,99,82,79,77,0,National Level,Art Club,,Pharmacist,1
+Faith Makori, 11,89,61,,74,1,National Level,Drama Club,,Musician,0
+Stephen Onyango, 6,61,74,62,57,0,0ne,Science Club,,Artist,1
+Fredrick Ochieng, 6,91,69,58,60,0,0ne,Drama Club,,Doctor,0
+Faith Kiplangat, 9,,90,74,95,0,National Level,Music Club,,Surgeon,0
+John Wangechi, 9,72,68,80,60,1,0ne,Debate Club,Class Representative,Pharmacist,1
+Paul Kiprop, 6,93,85,95,77,0,School Level,Science Club,,Teacher,0
+Alex Achieng, 7,,65,51,94,1,School Level,Music Club,Class Representative,Lawyer,1
+Mercy Chege, 8,86,88,89,62,0,County Level,Debate Club,,Surgeon,0
+Ann Simiyu, 6,66,81,94,66,0,County Level,Drama Club,Class Representative,Accountant,1
+Esther Wanjiru, 9,,97,53,58,1,School Level,Debate Club,Class Representative,Artist,1
+Irene Oduor, 12,,,70,66,1,School Level,Debate Club,Class Representative,Artist,1
+Jacinta Ochieng, 11,60,58,,99,0,School Level,Art Club,,Engineer,1
+Sarah Onyango, 6,53,62,95,,1,County Level,Music Club,Class Representative,Athlete,1
+Samuel Achieng, 12,52,90,83,96,1,County Level,Debate Club,Class Representative,Artist,0
+John Kiplangat, 11,74,100,81,84,0,School Level,Drama Club,Class Representative,Surgeon,1
+Henry Kiplangat, 9,74,,57,69,0,School Level,Music Club,Class Representative,Data Scientist,0
+Lucy Juma, 7,61,82,88,58,1,0ne,Drama Club,Club Leader,Pilot,0
+Mercy Kamau, 8,90,74,78,82,0,County Level,Drama Club,,Surgeon,1
+Eliud Wangechi, 11,62,57,,57,1,National Level,Science Club,Class Representative,Pharmacist,0
+Stella Otieno, 10,66,63,60,57,1,0ne,0ne,,Data Scientist,1
+Susan Kimeu, 7,,82,73,79,0,School Level,Science Club,Club Leader,Teacher,1
+Elijah Kiplangat, 9,59,88,78,68,0,School Level,Art Club,Club Leader,Teacher,1
+Elijah Otieno, 10,,81,,70,0,County Level,Drama Club,Club Leader,Engineer,0
+Linet Mwikali, 12,72,92,81,84,0,National Level,Debate Club,Club Leader,Athlete,0
+Stella Rono, 8,53,73,94,62,1,School Level,Science Club,Club Leader,Data Scientist,1
+Ann Mutiso, 10,55,,76,85,1,School Level,Drama Club,Class Representative,Musician,0
+Brenda Mutiso, 6,61,76,88,96,0,0ne,Drama Club,,Artist,0
+Grace Onyango, 8,73,,86,77,0,0ne,Art Club,,Teacher,1
+Ann Achieng, 8,76,86,65,57,1,School Level,Debate Club,Club Leader,Data Scientist,1
+Grace Makori, 9,72,71,86,85,1,0ne,Art Club,,Accountant,1
+Samuel Kibera, 11,91,88,96,67,0,0ne,Music Club,Club Leader,Surgeon,1
+Dennis Otieno, 6,97,81,,72,1,National Level,Drama Club,Club Leader,Surgeon,0
+Martin Kibera, 7,91,93,52,54,0,County Level,Art Club,,Pharmacist,1
+Henry Otieno, 8,97,67,76,71,0,National Level,0ne,Class Representative,Artist,0
+Andrew Nduati, 6,91,80,70,71,0,School Level,Drama Club,,Pilot,0
+Linet Davis, 11,80,52,98,56,0,County Level,0ne,Club Leader,Pilot,1
+Agnes Kamau, 8,82,56,53,78,1,School Level,0ne,Club Leader,Accountant,1
+Mercy Rono, 6,,66,91,94,0,School Level,Drama Club,,Pharmacist,1
+Faith Kilonzo, 7,63,58,56,82,0,0ne,Art Club,Class Representative,Teacher,1
+Stella Wangechi, 8,85,78,99,76,1,0ne,0ne,Club Leader,Teacher,0
+Fredrick Onyango, 8,81,85,93,67,0,School Level,Debate Club,Club Leader,Data Scientist,0
+Jacinta Kimeu, 8,98,,62,61,0,National Level,0ne,Club Leader,Accountant,1
+Elijah Wanjiru, 6,79,53,54,53,0,School Level,Debate Club,Class Representative,Lawyer,1
+Martin Kirui, 7,93,,93,92,0,National Level,0ne,Club Leader,Musician,1
+Tom Mwikali, 10,87,96,99,65,0,School Level,Debate Club,Club Leader,Accountant,1
+Lilian Otieno, 8,57,87,81,76,0,National Level,Art Club,Class Representative,Accountant,0
+Lilian Muthama, 8,89,69,96,93,1,0ne,Drama Club,,Athlete,0
+Agnes Mutua, 8,79,72,62,86,0,School Level,Science Club,Class Representative,Surgeon,1
+Brenda Muthama, 9,71,62,72,92,0,School Level,Drama Club,Class Representative,Pilot,1
+Lucy Wamuyu, 6,90,88,97,71,1,School Level,Debate Club,,Musician,1
+David Juma, 11,86,69,99,74,1,School Level,0ne,Class Representative,Surgeon,1
+Rose Kimeu, 9,92,74,,79,0,National Level,Science Club,Club Leader,Accountant,0
+Esther Mutua, 7,,,64,89,1,National Level,Music Club,Club Leader,Data Scientist,1
+Grace Kibet, 11,67,69,90,80,1,0ne,Music Club,Class Representative,Doctor,1
+David Kibera, 12,96,82,92,65,1,National Level,0ne,Class Representative,Surgeon,1
+Faith Chebet, 7,96,53,85,82,0,School Level,Music Club,Class Representative,Musician,0
+Samuel Njoroge, 12,68,60,63,71,0,School Level,Art Club,Class Representative,Accountant,1
+Samuel Wanjiku, 10,50,74,66,95,1,National Level,Drama Club,,Pharmacist,1
+Charles Koome, 7,94,,66,75,1,National Level,Art Club,Club Leader,Doctor,0
+Fredrick Chirchir, 11,99,50,90,71,1,County Level,0ne,Class Representative,Doctor,0
+Agnes Wangechi, 9,52,57,51,73,1,0ne,Debate Club,,Athlete,0
+Ann Atieno, 11,53,53,51,78,0,National Level,0ne,Class Representative,Musician,0
+Peter Ngoya, 10,91,72,82,80,0,County Level,Art Club,Club Leader,Pilot,1
+Lucy Davis, 8,95,50,63,62,1,County Level,Art Club,Club Leader,Artist,0
+Tom Otieno, 12,65,97,95,91,0,National Level,0ne,Class Representative,Accountant,1
+Dorcas Mutiso, 8,73,83,66,77,0,County Level,Music Club,Class Representative,Musician,1
+Ann Davis, 9,62,98,91,68,1,National Level,Science Club,Class Representative,Engineer,1
+Tom Oduor, 6,92,58,76,63,1,National Level,Art Club,Club Leader,Pilot,0
+Andrew Chirchir, 10,,58,83,90,0,School Level,Science Club,Class Representative,Pharmacist,1
+Beatrice Ngoya, 8,60,,96,58,0,National Level,0ne,Class Representative,Doctor,1
+Beatrice Kirui, 7,67,94,79,94,0,County Level,Drama Club,Class Representative,Accountant,1
+Brenda Rono, 7,80,99,78,84,1,County Level,Debate Club,Class Representative,Athlete,0
+Linet Wanjiku, 9,59,82,,76,0,National Level,Music Club,,Artist,1
+Samuel Rono, 12,69,89,96,82,1,0ne,Science Club,Club Leader,Pharmacist,1
+Sarah Kimeu, 6,53,86,88,75,0,0ne,Science Club,Club Leader,Musician,1
+Lilian Kibera, 6,59,79,60,67,1,County Level,Art Club,,Teacher,1
+Brenda Nduati, 11,56,79,90,,0,School Level,Debate Club,Class Representative,Lawyer,1
+Hannah Davis, 7,76,71,82,87,0,County Level,Music Club,Club Leader,Doctor,1
+Ann Mutiso, 12,55,86,85,,1,National Level,Debate Club,Club Leader,Musician,1
+Peter Achieng, 8,53,,89,51,1,School Level,Music Club,Club Leader,Pharmacist,1
+Samuel Otieno, 6,63,73,99,65,1,National Level,0ne,Class Representative,Pharmacist,1
+Lilian Nduati, 7,94,54,87,83,1,School Level,0ne,Class Representative,Data Scientist,1
+Irene Njoroge, 12,89,96,92,79,1,0ne,Music Club,Class Representative,Athlete,0
+Elijah Muthama, 8,60,91,64,50,1,School Level,0ne,Club Leader,Surgeon,1
+James Wairimu, 10,50,,92,80,1,National Level,Debate Club,,Data Scientist,0
+John Kigen, 6,61,50,53,55,0,School Level,Debate Club,,Doctor,1
+Dorcas Doe, 11,58,78,66,72,1,National Level,0ne,Club Leader,Surgeon,1
+Jacinta Achieng, 8,57,77,78,90,1,0ne,Drama Club,Class Representative,Data Scientist,1
+Jacinta Kiprop, 6,82,69,,66,0,0ne,Art Club,Class Representative,Surgeon,1
+Esther Mwikali, 11,70,,58,,1,0ne,0ne,,Accountant,0
+Lilian Ochieng, 9,65,60,88,93,0,School Level,Art Club,,Artist,0
+Fredrick Onyango, 12,70,90,79,64,0,County Level,Art Club,Club Leader,Lawyer,0
+Jacinta Otieno, 6,76,59,84,85,1,County Level,Art Club,,Teacher,0
+Mercy Chirchir, 7,65,88,55,95,0,School Level,Debate Club,Class Representative,Teacher,1
+Kevin Wamuyu, 11,82,88,,73,0,County Level,Debate Club,Club Leader,Artist,0
+Faith Juma, 12,64,73,92,68,1,School Level,Art Club,Class Representative,Artist,0
+Linet Chirchir, 12,51,51,52,53,0,0ne,Drama Club,,Engineer,1
+Dennis Mwikali, 8,,91,,72,0,National Level,Art Club,Class Representative,Pharmacist,0
+Agnes Kibet, 12,66,,67,61,1,County Level,Science Club,Class Representative,Pilot,1
+Stephen Kirui, 12,90,61,72,87,1,National Level,Debate Club,Class Representative,Pilot,0
+Stephen Wairimu, 10,67,58,94,76,0,0ne,0ne,Club Leader,Lawyer,0
+Tom Kirui, 12,77,51,92,74,1,National Level,0ne,,Athlete,0
+Ann Kiprop, 9,76,53,74,50,1,School Level,Art Club,Club Leader,Surgeon,0
+Brenda Doe, 12,74,65,55,53,1,County Level,0ne,,Accountant,0
+Dorcas Kimeu, 8,88,94,96,57,0,0ne,0ne,Club Leader,Data Scientist,0
+Mercy Ochieng, 6,65,58,73,91,1,County Level,Art Club,Club Leader,Pharmacist,1
+Faith Nyambura, 6,89,,88,74,0,County Level,Art Club,Class Representative,Athlete,0
+Francis Onyango, 6,69,,,78,0,0ne,Art Club,Class Representative,Engineer,0
+Brenda Davis, 8,67,68,84,64,0,County Level,0ne,Club Leader,Lawyer,1
+Linet Doe, 6,77,64,88,88,1,National Level,Debate Club,,Accountant,0
+Susan Wamuyu, 12,98,94,94,88,1,School Level,0ne,Club Leader,Teacher,1
+Lucy Otieno, 7,90,70,95,85,0,School Level,Music Club,Club Leader,Athlete,1
+Ann Achieng, 10,75,59,84,86,0,National Level,Art Club,Club Leader,Lawyer,0
+James Davis, 6,73,61,95,57,1,0ne,0ne,Club Leader,Surgeon,1
+Lilian Chege, 7,71,61,61,91,1,0ne,Art Club,Club Leader,Data Scientist,1
+Rose Onyango, 12,71,53,70,59,0,County Level,Music Club,,Lawyer,0
+Hannah Mwende, 11,99,76,57,69,1,0ne,Debate Club,Club Leader,Doctor,1
+David Kariuki, 6,,56,51,88,1,National Level,Drama Club,,Athlete,0
+Samuel Makori, 6,98,68,78,98,0,National Level,0ne,Class Representative,Doctor,1
+Samuel Mwikali, 11,,89,52,54,0,County Level,0ne,Club Leader,Athlete,0
+Lilian Wanjiru, 11,51,93,64,75,0,0ne,Debate Club,,Lawyer,0
+Mercy Wanjiku, 10,83,76,50,57,1,0ne,Drama Club,,Pilot,0
+Linet Onyango, 10,71,76,51,88,1,National Level,Science Club,Class Representative,Pilot,0
+Faith Davis, 6,82,94,96,100,1,School Level,Art Club,Club Leader,Surgeon,0
+Francis Kibet, 10,52,78,96,,0,School Level,Debate Club,,Doctor,1
+Mary Kibera, 9,63,55,90,81,1,School Level,Science Club,Club Leader,Surgeon,0
+Martin Kirui, 6,73,69,59,57,0,National Level,Art Club,Class Representative,Surgeon,0
+Grace Mwende, 8,69,96,72,,1,0ne,0ne,,Athlete,1
+David Mwende, 11,100,95,72,96,0,0ne,Music Club,,Lawyer,1
+Ann Davis, 8,89,86,62,,1,County Level,Drama Club,,Engineer,1
+Charles Muthama, 6,78,68,,80,0,County Level,0ne,,Data Scientist,0
+Brenda Wamuyu, 8,51,76,96,,0,County Level,Drama Club,,Musician,0
+James Simiyu, 12,52,54,62,51,0,School Level,Music Club,,Surgeon,1
+Beatrice Otieno, 9,65,63,85,54,1,County Level,Debate Club,Class Representative,Musician,0
+Alex Rono, 11,66,71,59,61,1,National Level,Science Club,Club Leader,Accountant,0
+Dorcas Kibera, 12,62,78,53,75,1,School Level,Drama Club,,Pilot,1
+Francis Chirchir, 10,66,66,,90,1,0ne,Science Club,,Teacher,0
+Stella Wairimu, 8,76,,79,96,0,County Level,Art Club,Club Leader,Accountant,0
+John Simiyu, 10,82,75,52,,0,0ne,Science Club,,Artist,0
+Andrew Kibera, 10,99,55,,50,1,School Level,Debate Club,,Accountant,0
+Joseph Wambui, 10,95,52,72,92,0,National Level,Art Club,Club Leader,Artist,1
+Hannah Wanjiku, 11,98,89,90,75,1,County Level,0ne,,Accountant,0
+Brenda Akinyi, 9,76,89,,95,0,County Level,Debate Club,,Doctor,1
+Dorcas Koome, 11,83,71,99,65,0,County Level,Music Club,Club Leader,Pharmacist,1
+Sarah Wambui, 9,,52,,85,1,0ne,0ne,Club Leader,Doctor,1
+Nelson Kiprop, 9,68,73,68,52,0,0ne,Debate Club,Club Leader,Accountant,0
+Linet Akinyi, 8,,53,98,61,0,National Level,Music Club,Class Representative,Teacher,0
+Eliud Wanjiku, 8,95,60,87,50,0,School Level,Music Club,Class Representative,Doctor,1
+Henry Kirui, 6,86,74,73,,0,School Level,Science Club,Club Leader,Accountant,1
+Rose Chege, 11,83,75,82,,0,National Level,Science Club,,Pilot,1
+Andrew Wambui, 8,55,67,69,92,0,0ne,Music Club,Club Leader,Musician,1
+Martin Davis, 6,87,62,93,66,0,School Level,Science Club,Club Leader,Accountant,0
+Henry Ngoya, 11,93,90,92,99,1,National Level,0ne,Club Leader,Artist,0
+Joseph Kamau, 9,96,78,71,55,0,County Level,Science Club,,Doctor,1
+Paul Mutiso, 8,,,74,88,1,National Level,Science Club,,Artist,1
+Joseph Mutua, 9,,98,100,87,0,School Level,Debate Club,Class Representative,Data Scientist,0
+Lilian Kibet, 10,87,67,,,0,County Level,Drama Club,Class Representative,Pilot,1
+Stephen Wamuyu, 6,79,77,81,78,0,0ne,Music Club,,Surgeon,1
+Samuel Kamau, 6,52,,55,70,1,0ne,Art Club,,Surgeon,1
+Rose Chirchir, 12,,92,71,96,1,School Level,Science Club,,Athlete,1
+Mercy Kariuki, 12,65,86,79,64,1,County Level,Debate Club,Club Leader,Data Scientist,0
+Ian Mwikali, 12,88,58,59,56,1,National Level,Debate Club,Club Leader,Engineer,1
+Samuel Atieno, 12,56,55,73,95,0,School Level,Science Club,Club Leader,Data Scientist,0
+Rose Mutua, 12,75,71,71,51,0,National Level,Science Club,Class Representative,Lawyer,0
+Esther Mutiso, 8,87,83,64,95,0,School Level,Music Club,Class Representative,Athlete,0
+Brenda Kibera, 12,54,66,64,82,0,National Level,Art Club,Club Leader,Engineer,0
+Paul Wairimu, 10,72,65,,83,0,National Level,0ne,Class Representative,Artist,1
+Faith Akinyi, 7,59,79,,,0,0ne,Debate Club,Club Leader,Surgeon,1
+Lucy Wanjiru, 10,75,90,99,61,1,0ne,Science Club,,Lawyer,0
+Rose Wanjiku, 11,58,,54,,1,0ne,0ne,Class Representative,Lawyer,1
+Stephen Muthama, 6,100,100,51,77,1,0ne,Drama Club,,Lawyer,1
+Henry Kariuki, 6,94,79,64,87,0,County Level,Debate Club,Club Leader,Athlete,0
+Hannah Akinyi, 7,82,84,69,51,0,County Level,0ne,,Accountant,1
+Mercy Achieng, 12,,77,68,91,1,School Level,0ne,Club Leader,Lawyer,1
+Samuel Kiprop, 12,93,73,53,92,0,School Level,Art Club,,Engineer,1
+Jacinta Simiyu, 12,76,90,65,,0,County Level,Music Club,,Pilot,1
+Paul Doe, 11,61,95,75,68,0,County Level,Debate Club,Club Leader,Accountant,1
+Henry Kariuki, 12,85,63,92,70,1,School Level,Art Club,,Pilot,1
+Eliud Simiyu, 11,62,72,100,94,0,School Level,Drama Club,Club Leader,Accountant,0
+Alex Mwikali, 10,96,100,67,75,1,County Level,Music Club,Class Representative,Data Scientist,0
+Stella Kirui, 7,90,83,66,72,0,National Level,0ne,,Accountant,0
+Esther Ngoya, 12,79,93,54,53,0,0ne,Science Club,,Musician,1
+Samuel Chirchir, 7,68,52,84,53,1,School Level,Drama Club,Club Leader,Artist,0
+Beatrice Oduor, 10,81,92,61,64,1,County Level,Music Club,,Artist,0
+David Doe, 7,63,80,70,,0,National Level,Debate Club,,Athlete,1
+Susan Onyango, 12,70,62,73,92,1,School Level,Drama Club,,Musician,1
+Samuel Oduor, 9,99,,,66,1,County Level,Science Club,Club Leader,Pilot,1
+Irene Wangechi, 7,51,88,83,63,0,0ne,Drama Club,Class Representative,Musician,0
+Susan Otieno, 7,75,88,90,78,1,0ne,0ne,,Lawyer,1
+Faith Chirchir, 9,60,69,,93,1,National Level,Art Club,Club Leader,Data Scientist,1
+Elijah Chirchir, 9,84,61,79,73,1,National Level,Music Club,,Surgeon,0
+Samuel Wamuyu, 8,82,80,57,99,0,National Level,Music Club,Club Leader,Athlete,1
+Kennedy Ochieng, 6,72,58,91,75,1,County Level,Art Club,Class Representative,Pharmacist,0
+Andrew Kibera, 10,,100,66,56,1,County Level,0ne,,Teacher,0
+Ian Chirchir, 6,68,61,56,71,1,National Level,Art Club,Class Representative,Engineer,1
+Ann Ngoya, 7,56,67,,,0,0ne,Debate Club,Class Representative,Artist,1
+Sarah Chirchir, 7,87,55,55,80,1,National Level,Science Club,Club Leader,Artist,0
+Esther Kiplangat, 7,50,94,70,76,0,County Level,Debate Club,,Surgeon,1
+Peter Makori, 12,,100,85,74,1,National Level,Debate Club,Class Representative,Pilot,0
+Rose Mutiso, 7,63,91,87,85,1,County Level,0ne,Club Leader,Data Scientist,0
+Kevin Chirchir, 12,82,80,59,58,0,0ne,Drama Club,Class Representative,Doctor,0
+Fredrick Wairimu, 7,77,59,60,90,0,0ne,Drama Club,Class Representative,Data Scientist,0
+Jacinta Kamau, 12,89,78,60,93,0,School Level,Science Club,Club Leader,Pharmacist,0
+Brenda Kariuki, 12,56,58,95,52,1,School Level,Debate Club,Club Leader,Surgeon,1
+Eliud Makori, 10,96,79,99,90,1,0ne,0ne,Club Leader,Pilot,0
+Mary Oduor, 7,,,77,100,1,School Level,Music Club,Club Leader,Athlete,1
+Beatrice Kamau, 7,56,58,63,58,1,School Level,Music Club,Club Leader,Data Scientist,0
+Alex Mutiso, 6,68,,61,96,1,County Level,Drama Club,Class Representative,Athlete,0
+Esther Kibera, 10,69,95,62,90,0,National Level,Debate Club,Class Representative,Doctor,1
+Peter Simiyu, 6,79,97,81,95,0,School Level,0ne,Class Representative,Engineer,0
+James Davis, 6,75,74,92,87,1,0ne,0ne,Club Leader,Artist,0
+Kennedy Otieno, 11,71,68,56,100,0,School Level,Science Club,Class Representative,Athlete,1
+Stella Kibet, 6,94,62,84,74,0,County Level,Music Club,Class Representative,Lawyer,0
+Dennis Wanjiku, 10,80,91,80,98,0,School Level,Debate Club,Club Leader,Artist,0
+Hannah Simiyu, 9,100,84,50,,0,School Level,Debate Club,,Doctor,0
+Rose Davis, 11,91,92,86,62,1,County Level,Drama Club,Class Representative,Pilot,0
+Kennedy Wanjiku, 6,52,99,74,62,0,0ne,Art Club,,Musician,0
+John Kigen, 12,78,,50,80,0,County Level,Debate Club,Class Representative,Pharmacist,1
+Lucy Chirchir, 7,89,98,67,72,1,National Level,0ne,,Engineer,1
+David Njoroge, 6,92,98,73,71,1,School Level,Art Club,,Engineer,1
+Dorcas Kibet, 8,80,53,52,88,1,County Level,Debate Club,Class Representative,Accountant,1
+Jacinta Muthama, 12,73,95,,90,0,0ne,Drama Club,,Musician,0
+Mary Kilonzo, 6,70,93,80,76,1,County Level,Science Club,,Athlete,1
+Sarah Atieno, 9,55,87,59,,0,0ne,Drama Club,Class Representative,Artist,0
+Elijah Doe, 9,99,55,50,,1,County Level,Science Club,,Surgeon,1
+John Nyakundi, 10,100,77,84,55,1,School Level,Drama Club,Club Leader,Engineer,1
+Andrew Davis, 9,98,79,87,70,1,County Level,0ne,Class Representative,Accountant,0
+Beatrice Nyambura, 9,77,68,80,64,1,0ne,Art Club,Club Leader,Doctor,0
+Irene Mutiso, 7,61,55,56,54,0,County Level,Drama Club,,Engineer,1
+Peter Ngoya, 11,77,70,69,,1,County Level,0ne,Class Representative,Pharmacist,0
+Ian Nduati, 6,79,87,78,95,1,0ne,Debate Club,,Engineer,1
+Faith Otieno, 7,86,51,70,60,1,0ne,0ne,,Artist,0
+John Achieng, 10,88,61,74,64,1,County Level,Science Club,Club Leader,Lawyer,0
+Agnes Kigen, 12,89,73,,85,0,National Level,Science Club,Class Representative,Pilot,0
+Mary Oduor, 8,60,,50,97,0,County Level,Music Club,Class Representative,Surgeon,0
+Stephen Koome, 10,81,67,,62,0,National Level,Art Club,Club Leader,Athlete,0
+Rose Nyambura, 8,61,74,69,66,1,School Level,Drama Club,Class Representative,Artist,1
+Samuel Otieno, 6,83,78,65,60,0,0ne,0ne,Class Representative,Lawyer,1
+Fredrick Mutua, 6,98,,83,57,0,School Level,Science Club,Club Leader,Engineer,0
+Tom Onyango, 8,,88,63,100,0,School Level,Music Club,,Artist,1
+Stella Mwende, 7,92,97,72,71,1,School Level,Science Club,Club Leader,Lawyer,0
+Ann Otieno, 10,98,87,78,70,0,School Level,Science Club,,Pilot,1
+Peter Kiprop, 10,94,93,89,67,0,County Level,Music Club,Club Leader,Athlete,0
+Francis Kimeu, 11,80,64,,64,0,School Level,Science Club,Club Leader,Doctor,1
+Dorcas Makori, 6,99,57,71,95,0,National Level,Music Club,,Lawyer,1
+James Davis, 11,,,50,99,0,County Level,0ne,Class Representative,Artist,1
+Henry Kariuki, 11,,78,97,84,1,0ne,Art Club,Club Leader,Athlete,1
+Samuel Kiplangat, 6,82,63,57,83,1,School Level,Art Club,Club Leader,Pilot,0
+Stephen Nduati, 7,73,62,70,61,1,National Level,Art Club,Club Leader,Pharmacist,1
+Sarah Nduati, 6,50,54,59,,1,County Level,Debate Club,Class Representative,Accountant,1
+Hannah Ngoya, 10,56,63,75,69,0,School Level,Debate Club,Class Representative,Accountant,1
+Joseph Ngoya, 10,,56,92,66,0,County Level,Science Club,Club Leader,Musician,1
+Grace Doe, 9,67,57,100,89,1,County Level,Music Club,Class Representative,Pilot,1
+Eliud Muthama, 6,58,55,77,92,0,National Level,Music Club,Class Representative,Athlete,1
+Tom Mutiso, 6,60,,81,75,1,County Level,Drama Club,Club Leader,Teacher,0
+Ann Ochieng, 11,99,62,58,50,1,0ne,Drama Club,,Musician,1
+Ann Chebet, 8,50,75,55,91,1,County Level,Science Club,Class Representative,Artist,0
+Jacinta Rono, 11,79,94,90,74,1,National Level,Drama Club,Club Leader,Lawyer,0
+Lilian Atieno, 12,74,83,56,65,0,0ne,Science Club,Club Leader,Musician,1
+Kennedy Onyango, 11,56,65,,50,1,County Level,Music Club,Club Leader,Athlete,0
+Eliud Nyambura, 8,84,64,55,84,1,County Level,0ne,Club Leader,Artist,1
+Francis Otieno, 10,,71,63,89,1,0ne,Art Club,Class Representative,Pilot,1
+Brenda Kibera, 11,50,76,65,,0,0ne,0ne,,Teacher,1
+Eliud Kibet, 6,65,88,79,60,0,National Level,Drama Club,Club Leader,Teacher,0
+Mary Koome, 11,82,,89,,1,National Level,Science Club,,Teacher,1
+Mary Mutiso, 8,76,65,76,51,0,County Level,Debate Club,Class Representative,Teacher,1
+Grace Otieno, 12,78,67,94,79,1,National Level,Drama Club,Class Representative,Musician,0
+Mary Rono, 8,66,81,63,91,0,School Level,0ne,Class Representative,Pharmacist,0
+Dennis Mutiso, 8,,65,70,83,1,National Level,0ne,Club Leader,Data Scientist,1
+Samuel Nyambura, 10,53,,78,97,1,National Level,Music Club,Class Representative,Artist,0
+James Kimeu, 9,90,91,94,89,1,National Level,Art Club,Class Representative,Accountant,0
+Lucy Atieno, 12,96,76,53,92,1,National Level,Science Club,Club Leader,Athlete,0
+Lucy Rono, 10,90,53,66,,0,School Level,Music Club,,Artist,0
+Joseph Njoroge, 7,89,,,,1,0ne,Science Club,Club Leader,Accountant,0
+Ann Kamau, 12,50,92,60,91,1,County Level,Art Club,,Surgeon,1
+Ian Wanjiku, 10,68,73,100,73,1,0ne,Music Club,Class Representative,Engineer,0
+John Wanjiku, 10,83,59,74,74,0,0ne,Debate Club,Class Representative,Artist,0
+Ann Wanjiku, 9,61,66,74,93,1,School Level,Drama Club,Club Leader,Surgeon,1
+Peter Kamau, 6,90,56,60,64,1,County Level,0ne,Class Representative,Doctor,0
+Jacinta Kamau, 11,81,69,60,78,0,School Level,Music Club,Class Representative,Teacher,0
+Irene Chege, 12,76,72,55,61,1,County Level,Music Club,Class Representative,Accountant,1
+James Kirui, 11,86,99,58,67,0,0ne,Art Club,,Musician,0
+Eliud Chebet, 10,65,50,59,64,1,School Level,Debate Club,,Lawyer,1
+David Davis, 6,86,57,99,65,0,0ne,Music Club,Club Leader,Artist,0
+Stella Makori, 12,98,56,,93,1,County Level,Drama Club,,Teacher,1
+Ian Davis, 7,77,83,78,58,0,County Level,Science Club,Class Representative,Data Scientist,1
+Martin Akinyi, 12,87,82,74,77,1,0ne,Drama Club,Club Leader,Pharmacist,1
+Joseph Kiprop, 10,68,96,97,52,1,National Level,0ne,,Teacher,0
+Faith Kiprop, 9,68,75,98,69,0,0ne,Music Club,Club Leader,Surgeon,0
+Esther Ochieng, 9,100,73,73,50,1,School Level,0ne,Class Representative,Pilot,1
+Esther Simiyu, 8,51,90,53,,0,School Level,Art Club,,Musician,1
+Lucy Wamuyu, 10,50,,,62,1,National Level,Music Club,Class Representative,Engineer,0
+Andrew Davis, 7,67,82,77,52,0,National Level,Debate Club,Class Representative,Engineer,0
+Susan Kirui, 6,61,,,,1,National Level,0ne,,Data Scientist,1
+Dennis Mwende, 11,87,82,79,99,0,National Level,Music Club,Class Representative,Athlete,1
+Samuel Ngoya, 11,,62,90,81,1,0ne,Art Club,Club Leader,Doctor,0
+Esther Chege, 11,94,91,100,89,1,0ne,Science Club,,Data Scientist,1
+Ian Juma, 11,79,93,51,77,1,0ne,0ne,,Artist,0
+James Mwende, 8,,54,95,75,1,National Level,0ne,Club Leader,Athlete,0
+Paul Mwikali, 11,52,86,,79,0,County Level,Science Club,,Teacher,1
+Alex Ochieng, 7,80,96,,68,0,0ne,Music Club,Club Leader,Lawyer,0
+Beatrice Akinyi, 9,62,69,,68,1,National Level,Art Club,,Musician,1
+Grace Chege, 9,96,52,64,89,1,National Level,Music Club,Class Representative,Engineer,0
+Hannah Wanjiku, 10,87,62,,91,0,0ne,Music Club,Class Representative,Artist,1
+Jacinta Kamau, 10,85,91,79,75,0,School Level,0ne,Class Representative,Doctor,0
+Tom Muthama, 12,53,57,93,,0,School Level,Science Club,Club Leader,Accountant,1
+John Akinyi, 11,92,,95,87,1,National Level,Debate Club,,Doctor,0
+Rose Kiplangat, 8,,54,59,66,1,0ne,Music Club,Class Representative,Engineer,1
+Jacinta Chege, 8,96,79,,,1,National Level,Art Club,Club Leader,Doctor,1
+Rose Simiyu, 12,58,52,96,75,1,School Level,Drama Club,,Surgeon,1
+Henry Otieno, 7,71,67,53,55,1,0ne,Debate Club,Club Leader,Teacher,0
+Stephen Wangechi, 12,63,91,87,71,1,0ne,Music Club,Class Representative,Surgeon,0
+Tom Onyango, 8,75,68,,84,1,County Level,0ne,,Teacher,0
+Kennedy Kiprop, 6,52,79,75,86,1,County Level,Music Club,Class Representative,Pilot,0
+Lucy Kibera, 12,87,54,75,51,1,School Level,0ne,Club Leader,Artist,1
+Lucy Simiyu, 9,94,80,73,64,0,School Level,Music Club,Class Representative,Teacher,0
+Esther Ochieng, 6,62,54,99,51,1,County Level,Debate Club,Club Leader,Lawyer,0
+Stephen Rono, 12,80,,62,91,1,National Level,Art Club,Club Leader,Musician,1
+Jacinta Wanjiku, 7,59,61,68,89,1,0ne,Debate Club,Class Representative,Athlete,1
+Faith Kilonzo, 10,58,62,98,57,1,School Level,Science Club,,Data Scientist,1
+Susan Davis, 11,63,65,67,,1,National Level,0ne,,Engineer,1
+John Mwende, 12,94,100,65,66,1,0ne,Drama Club,Class Representative,Doctor,0
+Irene Otieno, 11,92,91,82,70,1,0ne,0ne,Class Representative,Engineer,1
+Sarah Kilonzo, 10,99,78,,67,1,County Level,Music Club,Club Leader,Teacher,1
+Henry Wanjiru, 9,90,78,74,56,1,National Level,Drama Club,Club Leader,Musician,0
+Samuel Kariuki, 12,94,61,78,78,0,School Level,0ne,Class Representative,Engineer,1
+Lucy Chege, 6,54,72,,58,1,0ne,Science Club,Club Leader,Musician,1
+John Ngoya, 11,,87,54,,1,National Level,0ne,Club Leader,Pilot,0
+Henry Kiprop, 7,94,86,95,82,1,School Level,0ne,Club Leader,Pilot,1
+Samuel Juma, 9,58,95,90,82,1,School Level,Drama Club,Class Representative,Teacher,0
+Esther Otieno, 6,,66,99,52,0,0ne,Art Club,,Surgeon,0
+Sarah Wambui, 12,55,62,69,89,1,National Level,0ne,Club Leader,Lawyer,0
+Ann Kimeu, 8,52,81,82,71,0,County Level,Drama Club,Club Leader,Teacher,0
+Esther Ochieng, 8,58,51,63,58,1,County Level,Drama Club,,Lawyer,1
+Jacinta Oduor, 12,78,51,81,72,1,County Level,Drama Club,Class Representative,Doctor,1
+Stephen Chege, 10,82,54,82,82,0,0ne,Art Club,,Surgeon,1
+Grace Kimeu, 10,62,52,77,91,0,0ne,Art Club,,Athlete,0
+Joseph Achieng, 9,61,75,95,95,0,County Level,Science Club,Class Representative,Pilot,0
+Samuel Otieno, 7,70,56,81,65,0,National Level,Drama Club,Club Leader,Surgeon,0
+Dorcas Chebet, 6,80,90,86,84,1,0ne,Drama Club,Class Representative,Surgeon,1
+Jacinta Otieno, 12,61,77,91,59,0,School Level,Art Club,,Accountant,0
+Martin Kibera, 6,,60,95,69,1,County Level,Drama Club,Class Representative,Pilot,1
+Nelson Koome, 12,73,52,95,,1,School Level,Music Club,Class Representative,Data Scientist,0
+Ian Otieno, 12,99,59,76,96,0,0ne,Drama Club,Club Leader,Teacher,0
+Brenda Nyakundi, 9,51,84,78,67,1,National Level,Debate Club,Club Leader,Artist,1
+Fredrick Otieno, 11,81,50,71,85,1,School Level,0ne,Class Representative,Data Scientist,1
+John Simiyu, 10,82,,90,86,0,School Level,Debate Club,Class Representative,Doctor,0
+Ian Wambui, 12,86,83,85,78,0,County Level,0ne,Club Leader,Pilot,0
+Nelson Nyakundi, 9,64,75,,82,0,School Level,Science Club,,Artist,0
+Kennedy Njoroge, 12,,75,85,87,1,School Level,Science Club,Class Representative,Athlete,1
+Ann Kimeu, 12,88,65,61,60,1,National Level,Music Club,Club Leader,Lawyer,0
+Brenda Wairimu, 12,91,76,83,69,1,County Level,Debate Club,,Doctor,0
+Lilian Oduor, 9,76,99,50,,1,0ne,Debate Club,Class Representative,Surgeon,1
+Henry Mwikali, 11,80,50,88,87,0,County Level,Debate Club,Class Representative,Teacher,1
+Ann Nyambura, 10,86,85,56,51,1,National Level,0ne,Club Leader,Accountant,1
+Mary Atieno, 12,62,83,60,75,1,National Level,Drama Club,Club Leader,Lawyer,1
+Brenda Ochieng, 11,89,94,99,83,0,National Level,Debate Club,Class Representative,Lawyer,0
+Hannah Juma, 8,76,84,,65,0,National Level,0ne,Club Leader,Doctor,1
+Mercy Rono, 10,78,52,79,80,1,National Level,0ne,,Accountant,1
+David Wamuyu, 11,53,77,83,79,1,0ne,Drama Club,,Teacher,0
+Ian Kilonzo, 9,92,67,73,,1,County Level,Drama Club,,Surgeon,0
+James Achieng, 11,57,97,58,64,1,National Level,Art Club,Class Representative,Lawyer,0
+Samuel Rono, 6,92,78,67,82,0,National Level,Drama Club,,Teacher,0
+Nelson Otieno, 12,67,52,63,65,0,County Level,Science Club,Class Representative,Athlete,0
+Ann Njoroge, 12,,90,73,91,1,County Level,Art Club,Club Leader,Data Scientist,0
+Susan Njoroge, 8,66,,77,69,0,School Level,Drama Club,Club Leader,Teacher,0
+Agnes Chege, 12,68,91,77,91,1,School Level,Art Club,Club Leader,Data Scientist,1
+Ann Nyakundi, 9,85,69,84,76,1,School Level,Science Club,Club Leader,Data Scientist,0
+Stephen Ngoya, 12,83,54,59,77,0,School Level,0ne,,Surgeon,1
+Martin Wamuyu, 8,71,51,72,84,0,School Level,Music Club,,Pharmacist,1
+Sarah Chebet, 8,59,92,99,97,0,0ne,Drama Club,Class Representative,Accountant,1
+Irene Nyambura, 12,72,64,79,,1,0ne,Debate Club,Club Leader,Lawyer,0
+Rose Mwikali, 10,,60,99,64,0,School Level,0ne,,Doctor,0
+Ian Ngoya, 12,78,88,80,64,0,0ne,Drama Club,Class Representative,Surgeon,0
+Eliud Otieno, 8,64,84,77,66,1,County Level,Science Club,Club Leader,Artist,1
+Grace Wanjiru, 9,76,100,,65,1,National Level,Debate Club,Club Leader,Pharmacist,0
+Martin Wanjiru, 7,56,99,70,58,0,School Level,Art Club,Club Leader,Pharmacist,0
+Nelson Mutiso, 11,74,82,66,53,1,County Level,0ne,Class Representative,Engineer,0
+Agnes Kilonzo, 12,86,65,67,70,0,County Level,Music Club,,Accountant,1
+James Kiplangat, 6,53,63,75,73,1,0ne,Science Club,Class Representative,Artist,1
+Paul Ngoya, 8,51,97,58,59,0,School Level,Science Club,Club Leader,Pharmacist,1
+Francis Achieng, 7,91,97,84,76,0,0ne,Art Club,,Engineer,1
+Susan Juma, 8,70,90,65,63,0,0ne,Art Club,Club Leader,Engineer,0
+Mercy Wanjiru, 7,53,72,76,74,1,National Level,Music Club,Club Leader,Doctor,0
+Beatrice Nyakundi, 10,98,59,69,92,0,County Level,0ne,Class Representative,Teacher,1
+Ian Kirui, 7,56,51,96,58,0,School Level,Debate Club,,Data Scientist,1
+Susan Wambui, 8,64,82,62,79,1,0ne,Science Club,Club Leader,Musician,1
+Ian Chege, 12,57,,71,54,0,National Level,Science Club,,Artist,0
+John Akinyi, 11,74,72,76,61,1,School Level,0ne,Class Representative,Surgeon,0
+Joseph Wambui, 7,58,97,53,50,0,School Level,Drama Club,Club Leader,Artist,0
+Agnes Achieng, 8,77,79,100,53,0,County Level,Art Club,,Artist,1
+Linet Kamau, 12,68,86,95,67,1,National Level,Debate Club,,Surgeon,0
+Grace Kibera, 7,,57,55,69,1,National Level,0ne,,Accountant,1
+Stella Wamuyu, 8,,71,64,68,1,County Level,Science Club,Class Representative,Surgeon,1
+Esther Wangechi, 11,55,67,70,53,0,National Level,Debate Club,Class Representative,Pharmacist,1
+Kennedy Otieno, 6,93,56,54,52,1,County Level,Science Club,,Accountant,1
+Martin Wamuyu, 9,71,81,94,90,1,National Level,Drama Club,,Accountant,1
+Charles Davis, 10,70,,78,56,0,National Level,0ne,Class Representative,Artist,0
+Elijah Mutua, 12,60,87,93,61,0,County Level,Music Club,,Accountant,1
+Alex Ochieng, 6,96,94,,97,0,School Level,Debate Club,Club Leader,Teacher,0
+Linet Onyango, 12,,65,93,63,1,County Level,Science Club,,Accountant,0
+Eliud Wangechi, 9,51,64,,83,0,National Level,Science Club,Class Representative,Lawyer,1
+Jacinta Juma, 8,65,60,58,,1,National Level,0ne,Class Representative,Lawyer,0
+Grace Kilonzo, 7,90,74,,53,0,School Level,Debate Club,Class Representative,Pilot,0
+Kevin Makori, 7,74,72,59,55,0,National Level,Debate Club,Club Leader,Data Scientist,1
+Mercy Wambui, 9,82,96,85,84,0,0ne,Drama Club,Club Leader,Pilot,0
+Paul Simiyu, 9,95,56,87,58,1,School Level,Science Club,Class Representative,Pilot,0
+Esther Kiplangat, 12,62,87,91,67,0,County Level,Music Club,,Lawyer,0
+Mary Onyango, 7,82,89,54,97,0,School Level,Art Club,Class Representative,Lawyer,0
+Faith Kibet, 10,,80,95,59,0,National Level,Art Club,Class Representative,Engineer,1
+John Kibet, 7,81,97,51,,0,0ne,Science Club,,Pilot,1
+Ian Otieno, 6,87,59,84,89,1,National Level,Art Club,,Teacher,0
+Peter Wambui, 7,95,93,89,53,1,National Level,Music Club,,Data Scientist,0
+Kennedy Kibet, 9,51,90,57,51,1,0ne,Art Club,,Musician,0
+Faith Davis, 8,73,68,80,64,0,National Level,Art Club,Class Representative,Pilot,1
+Francis Nyakundi, 12,68,95,,60,1,National Level,Drama Club,,Pilot,1
+Dorcas Njoroge, 8,,97,,,0,School Level,0ne,,Accountant,0
+Dennis Mwikali, 11,68,92,50,51,1,National Level,Science Club,Class Representative,Artist,1
+Grace Kariuki, 7,,99,99,75,1,National Level,Music Club,,Pilot,0
+Charles Njoroge, 12,57,88,51,68,0,School Level,Debate Club,Class Representative,Teacher,1
+Eliud Wambui, 10,70,57,,64,0,County Level,Debate Club,Club Leader,Teacher,1
+David Otieno, 9,54,94,89,97,1,County Level,0ne,Club Leader,Pilot,0
+Samuel Rono, 9,51,51,52,59,1,National Level,Art Club,Club Leader,Doctor,1
+Hannah Kamau, 12,71,70,,81,0,National Level,Drama Club,,Surgeon,0
+Lilian Kibera, 12,88,96,91,71,1,0ne,0ne,Class Representative,Surgeon,0
+Lucy Wairimu, 10,83,88,,77,1,0ne,Debate Club,Class Representative,Teacher,1
+David Njoroge, 6,51,67,57,65,1,0ne,Drama Club,,Artist,1
+Mary Wamuyu, 7,96,67,88,79,1,National Level,Art Club,Club Leader,Lawyer,1
+Rose Atieno, 7,66,95,78,69,0,National Level,Music Club,Class Representative,Lawyer,1
+Ann Kiprop, 6,69,68,62,86,0,National Level,0ne,,Pharmacist,1
+Fredrick Ochieng, 11,76,70,65,82,1,County Level,Debate Club,,Athlete,1
+Linet Wangechi, 8,76,90,68,82,0,County Level,Science Club,Club Leader,Data Scientist,1
+Faith Nyambura, 9,60,91,,72,1,County Level,Art Club,Club Leader,Artist,0
+Samuel Kilonzo, 10,68,61,99,63,1,0ne,0ne,Club Leader,Artist,1
+Irene Mutiso, 7,56,57,55,88,0,School Level,Drama Club,,Data Scientist,1
+Ian Chirchir, 11,88,96,84,,1,National Level,Art Club,Club Leader,Engineer,0
+Susan Kigen, 11,90,76,67,62,0,County Level,0ne,Club Leader,Artist,0
+Ann Akinyi, 9,68,,58,52,1,National Level,Music Club,Class Representative,Pilot,0
+David Onyango, 10,65,67,73,77,1,County Level,Debate Club,,Engineer,1
+Hannah Mwende, 9,71,58,76,53,1,School Level,Science Club,Class Representative,Surgeon,0
+Ann Nduati, 10,67,94,56,97,1,0ne,Music Club,,Doctor,0
+Andrew Oduor, 10,88,67,69,55,1,National Level,Science Club,,Engineer,1
+Sarah Mwikali, 12,82,75,95,89,0,National Level,Music Club,,Athlete,1
+Lucy Oduor, 11,72,52,81,80,0,School Level,Science Club,Class Representative,Accountant,1
+Nelson Juma, 8,59,65,90,80,1,County Level,Drama Club,Class Representative,Accountant,1
+Dennis Onyango, 7,,81,80,93,1,County Level,Debate Club,Club Leader,Surgeon,1
+Dennis Makori, 12,56,75,68,88,1,School Level,Debate Club,Club Leader,Data Scientist,1
+Susan Wamuyu, 10,78,58,,51,1,National Level,Music Club,,Surgeon,0
+Ann Wanjiku, 7,52,94,91,99,1,School Level,Drama Club,Club Leader,Teacher,0
+Henry Otieno, 7,90,80,,84,0,National Level,Drama Club,,Data Scientist,1
+Hannah Mwende, 6,57,67,75,89,1,County Level,Debate Club,Class Representative,Engineer,1
+James Juma, 11,96,75,55,75,1,National Level,Drama Club,Club Leader,Pharmacist,0
+Lilian Kilonzo, 10,,61,89,75,0,National Level,0ne,,Doctor,1
+Brenda Chege, 6,85,92,76,73,0,0ne,Music Club,Club Leader,Artist,1
+Kevin Kamau, 10,77,78,91,79,1,National Level,0ne,Club Leader,Surgeon,0
+Nelson Kamau, 6,55,69,95,82,0,County Level,Debate Club,Club Leader,Pilot,1
+Rose Doe, 12,54,96,91,51,1,County Level,Art Club,,Surgeon,1
+Sarah Wangechi, 11,86,59,88,50,1,National Level,Art Club,Class Representative,Doctor,1
+Alex Onyango, 12,66,61,67,67,0,County Level,Music Club,,Data Scientist,1
+David Wanjiru, 10,86,77,96,61,0,County Level,Debate Club,Class Representative,Surgeon,0
+Kevin Wambui, 9,97,99,53,56,1,County Level,Science Club,Club Leader,Teacher,0
+Samuel Kilonzo, 9,61,61,64,89,0,County Level,Art Club,,Data Scientist,1
+Rose Chebet, 9,83,70,80,54,0,County Level,0ne,Class Representative,Artist,0
+Mercy Kiprop, 12,,83,52,59,1,County Level,Science Club,Club Leader,Doctor,1
+Irene Wangechi, 6,57,82,76,100,1,National Level,Art Club,Club Leader,Teacher,1
+Mary Rono, 7,97,66,89,63,0,0ne,Science Club,Club Leader,Lawyer,0
+Stephen Nduati, 8,97,54,76,82,0,School Level,Music Club,Club Leader,Accountant,1
+Eliud Otieno, 11,97,61,52,89,0,National Level,0ne,Class Representative,Artist,1
+Nelson Onyango, 6,84,55,83,77,1,School Level,Drama Club,Class Representative,Pilot,1
+Charles Achieng, 9,60,78,99,90,0,School Level,Art Club,Class Representative,Pharmacist,0
+Ann Wanjiku, 7,90,80,84,59,1,0ne,Debate Club,Club Leader,Pharmacist,0
+Henry Doe, 6,79,71,77,80,0,0ne,Debate Club,,Pharmacist,0
+Nelson Chebet, 6,74,59,81,,1,School Level,Science Club,Club Leader,Lawyer,0
+Dennis Njoroge, 6,58,72,62,63,0,County Level,Science Club,Club Leader,Pilot,1
+Fredrick Otieno, 7,79,74,50,86,1,0ne,Debate Club,Club Leader,Data Scientist,0
+Ann Kirui, 7,86,,58,88,0,0ne,Science Club,,Lawyer,1
+Ann Mutiso, 10,88,,74,88,1,County Level,0ne,Class Representative,Doctor,0
+Ann Mwikali, 9,93,79,79,69,1,School Level,Music Club,Class Representative,Musician,0
+Francis Chebet, 9,63,67,98,53,0,0ne,Debate Club,,Data Scientist,0
+Ann Muthama, 7,95,93,91,64,0,School Level,Debate Club,Class Representative,Pilot,0
+Fredrick Chebet, 7,67,74,83,79,0,National Level,Debate Club,,Data Scientist,1
+Rose Kibet, 7,50,77,,75,0,School Level,Drama Club,Club Leader,Engineer,0
+Peter Njoroge, 9,91,93,70,69,1,County Level,Debate Club,Club Leader,Teacher,0
+Stephen Njoroge, 6,59,65,82,56,1,0ne,Debate Club,Class Representative,Pharmacist,0
+Elijah Juma, 6,83,93,,60,0,0ne,Music Club,Class Representative,Engineer,0
+Dorcas Onyango, 12,98,59,87,68,0,School Level,0ne,Class Representative,Surgeon,0
+Mercy Kibera, 10,98,70,87,62,1,County Level,0ne,,Musician,0
+Brenda Ochieng, 7,86,,93,75,0,County Level,Drama Club,,Surgeon,1
+Irene Kimeu, 8,82,69,58,68,1,0ne,Debate Club,Class Representative,Artist,1
+Brenda Mutiso, 10,63,,100,99,0,School Level,Art Club,Club Leader,Teacher,1
+Henry Njoroge, 6,67,52,,59,1,School Level,Debate Club,,Accountant,1
+Mercy Mutiso, 11,96,99,,66,1,National Level,Music Club,Class Representative,Surgeon,1
+Mercy Nyakundi, 9,90,74,81,70,1,County Level,Science Club,,Engineer,0
+Kennedy Ngoya, 12,58,71,78,98,0,National Level,Science Club,,Lawyer,1
+Fredrick Makori, 11,62,67,67,64,0,0ne,Art Club,,Lawyer,0
+David Achieng, 12,73,,95,64,0,National Level,Art Club,Class Representative,Engineer,1
+Stephen Kimeu, 8,83,87,79,67,0,County Level,Debate Club,Club Leader,Artist,0
+Ann Kigen, 7,80,64,56,99,0,School Level,Science Club,Class Representative,Data Scientist,0
+Lucy Kirui, 8,55,71,80,88,0,County Level,Art Club,Club Leader,Surgeon,1
+Henry Ngoya, 7,,94,,80,0,0ne,0ne,Club Leader,Athlete,1
+Brenda Mutiso, 10,58,84,59,70,1,National Level,Drama Club,Class Representative,Pilot,0
+Nelson Kirui, 6,97,68,,,0,School Level,0ne,,Artist,1
+Faith Kibet, 12,63,78,70,95,0,0ne,Art Club,Club Leader,Engineer,0
+Hannah Kiprop, 12,92,94,62,71,0,School Level,0ne,Club Leader,Teacher,1
+Ann Wambui, 8,60,100,65,65,1,0ne,Drama Club,,Doctor,1
+Eliud Ngoya, 10,90,92,75,,1,National Level,Drama Club,Class Representative,Engineer,1
+Stella Otieno, 6,92,69,54,85,0,0ne,Music Club,Class Representative,Athlete,1
+Samuel Wambui, 7,67,50,54,62,1,National Level,Art Club,,Athlete,0
+John Mwende, 7,51,67,83,56,0,County Level,Drama Club,Club Leader,Accountant,0
+Mercy Kiprop, 7,65,52,75,71,0,County Level,Debate Club,,Pilot,1
+Jacinta Nyakundi, 8,97,63,,59,1,0ne,Music Club,Class Representative,Pharmacist,0
+Andrew Nyambura, 10,56,71,61,81,0,0ne,Drama Club,,Artist,1
+Ann Rono, 6,83,,54,59,1,County Level,Art Club,,Artist,1
+Eliud Oduor, 8,72,86,51,58,1,National Level,Music Club,,Accountant,0
+Samuel Chege, 6,75,68,89,93,0,National Level,Music Club,,Surgeon,0
+Beatrice Mutua, 6,65,69,72,98,1,0ne,Art Club,Class Representative,Accountant,1
+Faith Mutiso, 10,82,99,,91,1,0ne,Music Club,,Athlete,1
+Kennedy Kimeu, 7,51,82,52,65,1,County Level,Music Club,Club Leader,Doctor,0
+David Mwende, 12,52,,52,65,0,School Level,0ne,Club Leader,Data Scientist,1
+Joseph Achieng, 7,85,60,,,1,County Level,Debate Club,Club Leader,Doctor,1
+Samuel Wanjiku, 10,,62,97,59,0,0ne,Drama Club,Class Representative,Engineer,0
+Esther Otieno, 11,,98,76,74,1,National Level,Drama Club,Club Leader,Musician,0
+Henry Chirchir, 12,,93,73,72,0,National Level,Art Club,,Surgeon,0
+Stella Kariuki, 10,97,80,,54,0,County Level,0ne,Club Leader,Accountant,0
+Alex Kariuki, 8,63,77,85,62,1,County Level,Music Club,Class Representative,Data Scientist,0
+John Chirchir, 11,,56,54,80,1,National Level,Art Club,Class Representative,Doctor,1
+Brenda Simiyu, 9,89,72,90,63,1,County Level,Science Club,Class Representative,Musician,0
+Ann Juma, 6,69,99,55,84,1,School Level,Art Club,Class Representative,Artist,0
+Alex Wangechi, 12,57,80,67,71,1,County Level,Music Club,,Pharmacist,0
+Lilian Wangechi, 10,98,53,52,90,1,0ne,0ne,,Lawyer,1
+Elijah Chege, 9,61,70,77,69,0,National Level,0ne,Class Representative,Surgeon,1
+Francis Kirui, 9,66,93,60,77,1,County Level,Science Club,Club Leader,Artist,1
+David Davis, 8,73,87,69,81,0,School Level,Art Club,Class Representative,Pharmacist,1
+Martin Chege, 12,73,58,54,51,1,National Level,0ne,Club Leader,Lawyer,0
+Susan Chebet, 11,72,63,,59,0,County Level,Drama Club,,Teacher,0
+Elijah Ngoya, 7,96,89,95,97,0,0ne,Music Club,Club Leader,Pharmacist,1
+Stephen Mutiso, 8,70,77,93,64,1,County Level,Drama Club,Class Representative,Lawyer,1
+Faith Nyakundi, 10,60,75,92,65,1,County Level,Art Club,,Pharmacist,0
+Rose Mutiso, 8,61,93,51,57,0,School Level,Debate Club,,Accountant,1
+Nelson Chege, 10,86,59,,78,1,School Level,0ne,Class Representative,Surgeon,0
+Jacinta Akinyi, 6,81,82,65,90,0,County Level,Music Club,Club Leader,Athlete,0
+Francis Mutua, 10,,88,50,93,0,School Level,Science Club,Class Representative,Teacher,1
+Kennedy Rono, 10,95,60,78,79,1,School Level,Drama Club,Club Leader,Athlete,0
+John Kilonzo, 8,93,75,53,99,1,0ne,Science Club,Class Representative,Pilot,0
+Mary Chirchir, 10,100,92,,87,0,0ne,Debate Club,Class Representative,Surgeon,1
+Sarah Mwikali, 11,,55,61,67,1,0ne,Music Club,,Teacher,1
+Brenda Koome, 9,72,76,70,,0,0ne,0ne,Class Representative,Lawyer,1
+Eliud Chege, 9,80,98,,84,0,School Level,Music Club,Club Leader,Pilot,1
+Linet Mutiso, 12,60,78,53,93,0,County Level,Music Club,,Accountant,1
+Tom Koome, 8,72,97,58,80,0,School Level,Art Club,,Musician,1
+Grace Wanjiru, 6,61,50,98,82,1,County Level,Art Club,Class Representative,Engineer,0
+David Kamau, 7,67,,,84,1,School Level,Drama Club,Club Leader,Engineer,0
+Martin Mutua, 11,98,86,81,,0,County Level,Drama Club,Club Leader,Lawyer,1
+Grace Mutiso, 12,89,78,79,58,1,County Level,Art Club,,Musician,1
+Kennedy Otieno, 11,58,83,76,50,1,School Level,Drama Club,,Artist,1
+Irene Mutua, 8,,59,82,96,1,School Level,Debate Club,Club Leader,Teacher,0
+Esther Chebet, 12,56,100,94,79,1,National Level,0ne,Club Leader,Lawyer,1
+Mercy Chege, 12,95,100,57,62,1,County Level,0ne,Class Representative,Data Scientist,0
+Ian Kibet, 6,60,91,53,84,0,0ne,Debate Club,Club Leader,Accountant,1
+Mary Ngoya, 6,92,100,94,82,1,School Level,0ne,Class Representative,Artist,1
+Mercy Wamuyu, 11,94,73,93,85,0,National Level,Art Club,Class Representative,Pilot,0
+Hannah Akinyi, 12,64,73,85,,0,County Level,Art Club,,Teacher,1
+Kevin Rono, 8,52,87,99,96,1,School Level,Art Club,Club Leader,Doctor,0
+Samuel Achieng, 10,77,56,61,82,1,County Level,Science Club,,Engineer,0
+Esther Otieno, 12,74,50,51,75,1,County Level,Drama Club,,Pharmacist,0
+Charles Wairimu, 9,100,63,53,85,0,0ne,Art Club,Club Leader,Athlete,1
+Samuel Wanjiru, 11,95,83,52,56,1,School Level,Debate Club,Club Leader,Athlete,1
+Lilian Doe, 8,72,87,51,,0,0ne,Music Club,Class Representative,Data Scientist,1
+John Davis, 12,97,78,83,99,1,National Level,Science Club,,Teacher,0
+Kennedy Kiplangat, 11,58,81,89,,0,County Level,Debate Club,,Engineer,1
+Samuel Mwende, 7,59,74,93,66,0,County Level,Art Club,Class Representative,Lawyer,0
+David Chege, 10,78,74,62,82,1,School Level,Science Club,Club Leader,Pilot,0
+Joseph Nduati, 12,73,79,57,55,0,School Level,Debate Club,Class Representative,Athlete,1
+Eliud Kamau, 12,93,74,55,64,0,School Level,0ne,Club Leader,Data Scientist,1
+Elijah Makori, 6,60,,84,64,1,National Level,Art Club,,Musician,0
+Charles Wanjiku, 9,59,90,93,61,0,County Level,Debate Club,,Engineer,1
+Paul Rono, 12,94,63,67,60,0,County Level,Music Club,Class Representative,Accountant,0
+Samuel Chirchir, 7,68,73,85,,0,0ne,Art Club,,Pilot,0
+Henry Kiplangat, 7,93,51,,59,1,National Level,Drama Club,Club Leader,Artist,1
+Rose Kirui, 11,99,90,63,59,1,0ne,Drama Club,Class Representative,Athlete,0
+Beatrice Kibet, 8,74,69,79,56,0,National Level,Drama Club,,Pharmacist,1
+Andrew Wamuyu, 10,57,58,64,81,1,National Level,Art Club,Class Representative,Surgeon,0
+Joseph Kimeu, 6,93,58,81,89,1,County Level,Music Club,,Engineer,1
+Martin Oduor, 12,80,68,50,78,0,0ne,0ne,,Data Scientist,1
+Ian Oduor, 6,90,,56,92,1,National Level,Drama Club,Class Representative,Pharmacist,0
+Lilian Kimeu, 8,98,,85,57,0,School Level,Drama Club,Club Leader,Doctor,1
+Faith Rono, 11,74,87,,86,0,School Level,Drama Club,Class Representative,Accountant,1
+Agnes Kimeu, 12,67,86,54,80,1,National Level,Art Club,,Musician,1
+Dorcas Kariuki, 8,70,54,90,83,0,0ne,0ne,Class Representative,Accountant,0
+Agnes Koome, 9,100,56,73,54,0,0ne,Science Club,Class Representative,Surgeon,0
+Susan Kariuki, 11,74,83,75,67,1,National Level,Music Club,Class Representative,Pilot,1
+Kevin Onyango, 8,99,89,69,63,0,County Level,Art Club,Class Representative,Pilot,0
+Sarah Makori, 11,76,,61,94,0,School Level,Drama Club,,Teacher,0
+Paul Chirchir, 7,58,59,72,66,0,0ne,Drama Club,Class Representative,Doctor,1
+Ian Koome, 10,82,93,74,61,1,County Level,Drama Club,Club Leader,Lawyer,0
+Dennis Nduati, 11,80,97,67,68,1,County Level,Music Club,,Engineer,0
+Andrew Makori, 7,70,70,96,86,1,School Level,Science Club,,Musician,1
+Beatrice Nduati, 10,,93,67,67,0,National Level,Art Club,Club Leader,Pharmacist,1
+Mary Njoroge, 8,84,56,52,,0,0ne,Music Club,Class Representative,Pharmacist,0
+Ian Mutua, 12,71,80,79,58,1,0ne,Art Club,Class Representative,Artist,0
+Rose Kimeu, 7,82,52,100,74,1,National Level,Art Club,Club Leader,Surgeon,0
+Joseph Mwikali, 7,58,68,73,75,1,0ne,Music Club,Class Representative,Teacher,1
+Lucy Muthama, 8,74,95,75,98,0,0ne,Drama Club,Class Representative,Lawyer,0
+Esther Kiprop, 6,85,64,76,98,0,County Level,Debate Club,Class Representative,Athlete,0
+Jacinta Davis, 7,55,81,87,,1,County Level,Science Club,Club Leader,Surgeon,1
+John Muthama, 9,,64,85,,0,School Level,Music Club,Class Representative,Pilot,0
+Francis Achieng, 6,78,63,,56,1,0ne,0ne,Class Representative,Artist,1
+Andrew Nduati, 10,67,,51,85,1,National Level,Music Club,Club Leader,Athlete,1
+Mary Oduor, 10,,87,73,74,0,County Level,Debate Club,,Teacher,1
+Martin Kiprop, 8,,100,98,79,0,0ne,Drama Club,Class Representative,Lawyer,1
+Tom Nyakundi, 9,74,68,87,93,1,County Level,Debate Club,Class Representative,Pilot,0
+Mary Njoroge, 11,57,86,,76,1,County Level,Drama Club,,Engineer,0
+Dorcas Onyango, 10,65,91,56,84,1,0ne,Debate Club,Class Representative,Engineer,0
+Dorcas Chirchir, 9,97,,56,84,0,0ne,Music Club,,Musician,1
+James Kibet, 12,61,55,54,58,0,National Level,0ne,Club Leader,Pharmacist,0
+Samuel Kiplangat, 7,73,69,83,81,1,County Level,Drama Club,,Data Scientist,0
+Kevin Koome, 7,57,84,78,69,0,0ne,Drama Club,Class Representative,Lawyer,0
+Tom Akinyi, 12,83,80,89,,0,0ne,Music Club,Class Representative,Musician,1
+Agnes Mutiso, 9,,,76,61,1,National Level,Music Club,Class Representative,Pilot,0
+Kennedy Achieng, 8,73,85,93,53,1,School Level,0ne,Club Leader,Teacher,1
+Ann Onyango, 11,,70,71,86,0,School Level,Drama Club,Club Leader,Accountant,1
+Samuel Rono, 9,100,73,93,83,1,County Level,Music Club,Class Representative,Accountant,0
+Alex Onyango, 9,57,63,65,,1,0ne,0ne,Class Representative,Musician,1
+Mercy Ngoya, 7,97,99,60,98,0,National Level,Art Club,,Lawyer,1
+Agnes Kibet, 10,96,57,62,64,1,0ne,Art Club,Club Leader,Surgeon,1
+Francis Chirchir, 10,55,66,71,100,1,National Level,Debate Club,Club Leader,Data Scientist,0
+Alex Otieno, 8,62,65,83,96,0,School Level,0ne,Club Leader,Pilot,1
+Hannah Wanjiru, 12,99,76,98,93,0,0ne,Art Club,Club Leader,Accountant,1
+Henry Onyango, 10,83,97,63,57,0,National Level,Drama Club,Class Representative,Pilot,0
+Agnes Wamuyu, 11,60,69,96,70,0,0ne,0ne,,Accountant,0
+Sarah Otieno, 7,96,,83,93,0,School Level,Science Club,,Artist,0
+Mercy Kilonzo, 7,,93,,62,0,National Level,0ne,,Engineer,1
+Kennedy Kibet, 7,89,58,87,53,1,0ne,Art Club,Club Leader,Teacher,0
+Lilian Wairimu, 12,,97,83,79,1,County Level,Debate Club,Class Representative,Surgeon,0
+Martin Mutiso, 12,89,79,91,,0,National Level,Science Club,Club Leader,Data Scientist,0
+Ann Rono, 7,53,51,93,,1,County Level,Debate Club,,Athlete,1
+Francis Wambui, 6,64,93,55,76,0,National Level,Music Club,Club Leader,Artist,0
+Faith Kamau, 7,77,76,61,,0,School Level,Music Club,Class Representative,Teacher,0
+Francis Mwikali, 7,88,80,89,75,1,National Level,Drama Club,Club Leader,Teacher,1
+Beatrice Oduor, 11,85,100,55,95,0,0ne,0ne,Class Representative,Pilot,1
+Susan Kigen, 6,58,89,53,60,0,National Level,Music Club,Class Representative,Teacher,0
+Irene Mutiso, 7,96,58,92,,0,County Level,Art Club,Club Leader,Lawyer,0
+Rose Ochieng, 10,65,89,98,,1,0ne,Science Club,Club Leader,Engineer,1
+Grace Atieno, 8,68,55,96,52,1,National Level,Drama Club,Club Leader,Pharmacist,1
+Dorcas Chege, 11,91,50,83,,0,School Level,Music Club,,Teacher,1
+Stephen Mwende, 11,69,74,,93,1,County Level,0ne,Class Representative,Lawyer,1
+Ann Kamau, 12,72,95,,89,1,National Level,Debate Club,Club Leader,Surgeon,1
+David Wangechi, 9,52,92,100,82,1,County Level,Debate Club,Club Leader,Pilot,1
+Samuel Chirchir, 10,60,91,58,88,1,0ne,Debate Club,Class Representative,Teacher,1
+Ann Wangechi, 12,83,64,54,60,1,School Level,Drama Club,Club Leader,Teacher,0
+Eliud Mwikali, 11,,84,74,65,0,National Level,Drama Club,,Data Scientist,1
+Eliud Mutiso, 9,99,75,98,57,0,National Level,Drama Club,Class Representative,Athlete,1
+Lilian Wanjiru, 9,,82,51,72,0,National Level,0ne,Class Representative,Teacher,0
+Brenda Makori, 8,60,79,,83,1,0ne,Science Club,,Pilot,1
+Esther Mutiso, 7,76,70,77,97,1,School Level,Science Club,,Doctor,0
+Grace Koome, 11,86,80,58,60,0,0ne,Debate Club,Class Representative,Pilot,0
+Mary Juma, 11,59,72,75,65,0,0ne,0ne,Club Leader,Musician,1
+Agnes Koome, 10,94,60,65,59,0,County Level,Debate Club,Club Leader,Accountant,0
+Susan Njoroge, 12,62,74,,75,1,National Level,Art Club,Club Leader,Athlete,1
+Lucy Otieno, 6,61,59,98,78,0,School Level,Science Club,Club Leader,Musician,1
+Martin Kibera, 12,94,55,87,60,0,National Level,0ne,,Accountant,1
+Dennis Chirchir, 6,54,,,79,1,School Level,Music Club,Class Representative,Musician,1
+Rose Otieno, 10,100,75,97,53,0,National Level,Music Club,,Engineer,1
+Peter Wangechi, 11,88,99,,91,0,County Level,Art Club,,Accountant,0
+Lucy Mutiso, 9,82,74,74,,1,0ne,Science Club,Club Leader,Engineer,0
+Mary Koome, 8,52,99,62,53,1,National Level,Drama Club,Class Representative,Lawyer,1
+Linet Kimeu, 8,69,75,60,64,1,National Level,Music Club,Club Leader,Athlete,1
+Sarah Wanjiku, 11,63,53,53,,1,School Level,Music Club,Club Leader,Doctor,1
+Mary Kimeu, 8,82,75,54,94,0,County Level,Art Club,Class Representative,Accountant,1
+Martin Kilonzo, 12,75,95,,87,0,0ne,Science Club,,Athlete,0
+Beatrice Kiprop, 11,51,67,84,89,0,National Level,Debate Club,Class Representative,Pharmacist,1
+Samuel Njoroge, 11,77,73,82,,0,National Level,Music Club,Club Leader,Doctor,1
+Elijah Akinyi, 8,91,60,80,92,1,0ne,Art Club,Class Representative,Doctor,0
+Samuel Rono, 9,58,99,85,85,0,County Level,Music Club,Club Leader,Data Scientist,1
+John Wanjiru, 9,,81,98,67,0,0ne,Debate Club,,Accountant,1
+James Kariuki, 7,,87,57,64,0,National Level,Music Club,,Surgeon,0
+Stephen Juma, 8,61,91,,68,0,County Level,Science Club,,Data Scientist,0
+Faith Wairimu, 9,67,61,,,0,School Level,Art Club,,Data Scientist,0
+Dennis Wanjiru, 12,56,,57,67,1,School Level,Science Club,,Pharmacist,1
+Lucy Wamuyu, 8,91,78,99,93,0,School Level,Debate Club,,Engineer,0
+David Njoroge, 12,95,51,53,73,1,School Level,Debate Club,,Athlete,1
+Tom Kilonzo, 11,90,100,73,94,0,National Level,Music Club,Club Leader,Pilot,0
+Grace Nyambura, 11,,54,61,72,1,National Level,Science Club,Class Representative,Engineer,1
+Andrew Kibera, 11,62,83,,88,1,0ne,Art Club,Class Representative,Doctor,0
+David Davis, 12,93,96,53,67,0,County Level,0ne,,Data Scientist,1
+Ann Nduati, 11,64,50,63,89,0,0ne,Debate Club,Class Representative,Engineer,1
+Samuel Ngoya, 10,67,66,,62,0,County Level,Science Club,Class Representative,Doctor,1
+Tom Wanjiru, 9,77,93,71,52,0,0ne,0ne,,Surgeon,0
+Paul Kibera, 12,,79,87,54,1,0ne,0ne,Class Representative,Surgeon,1
+Irene Kariuki, 11,63,67,,74,0,County Level,Debate Club,Class Representative,Engineer,0
+Beatrice Wanjiku, 10,100,89,76,83,1,National Level,Science Club,,Artist,1
+Dorcas Kilonzo, 12,56,64,54,63,1,County Level,Science Club,Class Representative,Accountant,0
+Nelson Koome, 11,54,,95,56,1,County Level,Debate Club,Class Representative,Doctor,1
+Beatrice Kigen, 9,92,60,60,66,1,National Level,Science Club,Class Representative,Surgeon,1
+Kennedy Wamuyu, 7,92,96,81,56,1,National Level,Drama Club,Club Leader,Surgeon,0
+Agnes Kimeu, 9,72,77,56,84,1,National Level,Science Club,Club Leader,Pharmacist,1
+Mary Kimeu, 6,71,63,75,83,0,County Level,Debate Club,Club Leader,Musician,1
+Mercy Chege, 6,77,80,65,87,1,0ne,Debate Club,Class Representative,Doctor,1
+Esther Doe, 7,81,97,97,55,0,National Level,Debate Club,Class Representative,Accountant,0
+Peter Kiplangat, 8,87,55,100,57,1,County Level,Debate Club,,Engineer,0
+Joseph Davis, 11,64,90,54,66,1,County Level,0ne,Class Representative,Artist,0
+David Akinyi, 12,89,64,90,59,0,National Level,Art Club,Class Representative,Artist,0
+Rose Muthama, 9,52,100,100,86,0,National Level,Music Club,,Pilot,0
+Esther Koome, 8,67,53,86,52,1,0ne,Music Club,Club Leader,Athlete,1
+Samuel Nyambura, 10,94,,71,94,0,0ne,Science Club,Club Leader,Engineer,1
+Eliud Koome, 12,54,51,53,68,1,County Level,0ne,,Athlete,0
+Francis Kigen, 12,,,52,87,1,0ne,Debate Club,Club Leader,Accountant,1
+John Kariuki, 10,84,91,80,74,0,County Level,0ne,Club Leader,Accountant,1
+Jacinta Otieno, 6,87,63,90,83,1,County Level,Music Club,Class Representative,Data Scientist,1
+Eliud Kilonzo, 7,82,97,97,98,0,School Level,Science Club,Class Representative,Lawyer,0
+Joseph Atieno, 9,93,97,83,97,0,County Level,Art Club,Class Representative,Data Scientist,0
+Joseph Simiyu, 6,65,98,78,65,0,School Level,0ne,Class Representative,Athlete,1
+David Mutiso, 9,,61,,,0,0ne,Drama Club,,Accountant,0
+David Chege, 6,,,51,53,1,0ne,Drama Club,Club Leader,Pharmacist,0
+Dorcas Ngoya, 9,96,76,58,82,1,0ne,0ne,Class Representative,Accountant,1
+Peter Mutiso, 12,79,85,,,0,National Level,0ne,Class Representative,Pharmacist,1
+Faith Onyango, 7,,61,81,96,1,0ne,Debate Club,,Lawyer,0
+Faith Njoroge, 7,83,86,91,80,1,0ne,0ne,Class Representative,Artist,0
+Nelson Juma, 11,80,87,55,89,1,0ne,Drama Club,Club Leader,Accountant,1
+Rose Wanjiru, 12,,95,97,58,1,0ne,Drama Club,Class Representative,Artist,0
+Paul Kibera, 11,54,72,60,69,1,County Level,Debate Club,,Pharmacist,1
+Rose Wambui, 9,50,97,60,90,1,National Level,Debate Club,Class Representative,Accountant,1
+Rose Simiyu, 8,83,79,70,90,0,School Level,Science Club,Class Representative,Musician,1
+David Nduati, 9,73,90,63,75,1,0ne,Drama Club,,Musician,1
+Dorcas Chirchir, 6,85,73,62,56,0,National Level,Debate Club,Club Leader,Artist,0
+Lucy Mutiso, 10,,82,75,76,1,0ne,0ne,Class Representative,Accountant,0
+Nelson Ngoya, 6,79,67,96,85,0,0ne,Art Club,Club Leader,Lawyer,1
+Susan Kariuki, 6,,94,53,82,1,National Level,Art Club,,Athlete,1
+Rose Oduor, 9,89,66,61,92,0,County Level,Art Club,,Artist,0
+Ann Chebet, 6,72,95,96,58,0,County Level,Drama Club,,Athlete,0
+Stephen Simiyu, 11,83,,63,99,0,County Level,Music Club,Club Leader,Artist,1
+Kevin Nyambura, 9,90,96,52,67,1,National Level,Art Club,Club Leader,Surgeon,0
+Charles Wamuyu, 10,84,84,,57,0,0ne,Drama Club,Club Leader,Doctor,1
+Andrew Doe, 10,69,82,,,0,School Level,Science Club,Club Leader,Data Scientist,0
+Ann Atieno, 9,66,75,76,76,0,0ne,Drama Club,,Doctor,0
+David Kiprop, 6,83,80,95,72,1,0ne,Debate Club,Class Representative,Pharmacist,1
+Kennedy Oduor, 11,75,80,56,83,1,County Level,Music Club,Class Representative,Doctor,1
+Martin Achieng, 7,98,75,86,78,1,0ne,Art Club,Class Representative,Doctor,0
+Stella Kibet, 6,56,97,63,96,1,National Level,Science Club,,Lawyer,1
+Rose Oduor, 9,95,79,73,65,1,School Level,Art Club,Class Representative,Artist,0
+Stephen Wairimu, 11,94,97,92,69,1,School Level,Drama Club,,Accountant,1
+Charles Kiprop, 8,73,50,96,57,0,County Level,Music Club,Club Leader,Pharmacist,0
+Linet Koome, 8,57,58,57,76,0,School Level,Debate Club,Class Representative,Pharmacist,1
+Kennedy Wangechi, 7,,78,58,75,1,National Level,Art Club,Class Representative,Artist,1
+Sarah Oduor, 6,86,,,83,0,National Level,Science Club,Club Leader,Engineer,0
+Esther Koome, 8,75,72,93,87,1,National Level,Art Club,Club Leader,Engineer,1
+Francis Wambui, 6,84,68,72,63,0,County Level,Drama Club,,Pharmacist,0
+Irene Kigen, 7,85,58,53,74,0,National Level,Drama Club,Club Leader,Doctor,0
+Samuel Njoroge, 11,70,65,100,81,1,County Level,Drama Club,Class Representative,Accountant,0
+Rose Wanjiru, 7,70,69,78,75,1,0ne,Art Club,Class Representative,Pharmacist,1
+Henry Simiyu, 11,75,99,77,61,0,0ne,0ne,Club Leader,Artist,1
+Ann Otieno, 10,92,82,65,66,0,0ne,0ne,,Data Scientist,0
+Esther Simiyu, 7,52,64,,51,1,School Level,Debate Club,Club Leader,Musician,0
+Agnes Koome, 7,73,80,65,95,1,County Level,Art Club,Club Leader,Athlete,1
+Elijah Kibet, 10,74,61,100,93,0,School Level,Art Club,,Teacher,1
+Nelson Kibera, 10,62,86,67,93,1,National Level,Debate Club,Club Leader,Pharmacist,1
+Joseph Juma, 9,50,67,78,70,0,School Level,Music Club,Class Representative,Lawyer,0
+Francis Kibet, 6,94,85,78,84,0,School Level,0ne,,Data Scientist,1
+Joseph Atieno, 10,95,57,81,67,0,County Level,Debate Club,,Doctor,1
+Eliud Kariuki, 11,53,59,70,73,1,School Level,Science Club,Club Leader,Doctor,0
+Elijah Doe, 10,90,55,55,98,1,0ne,0ne,Club Leader,Pharmacist,1
+Brenda Oduor, 8,89,86,81,,1,School Level,Debate Club,,Pilot,0
+Charles Wambui, 6,91,99,,54,1,National Level,Science Club,Club Leader,Surgeon,0
+Esther Mutiso, 9,50,58,71,60,0,School Level,Debate Club,,Doctor,0
+Rose Chebet, 9,83,74,91,78,1,0ne,Art Club,Class Representative,Doctor,1
+Peter Njoroge, 10,85,,50,,1,County Level,Art Club,Club Leader,Athlete,0
+Stella Oduor, 10,61,57,85,56,1,0ne,Debate Club,Class Representative,Accountant,0
+Paul Otieno, 12,72,69,56,,0,0ne,Science Club,,Accountant,0
+John Nyakundi, 6,79,55,91,66,1,National Level,Drama Club,Club Leader,Doctor,1
+Ann Chebet, 7,82,61,59,91,0,School Level,Drama Club,Club Leader,Doctor,0
+Martin Otieno, 8,63,58,86,89,0,School Level,Art Club,Class Representative,Accountant,1
+Lilian Atieno, 6,64,50,98,99,1,County Level,0ne,Club Leader,Musician,0
+Kennedy Wanjiku, 12,96,81,73,98,0,National Level,Debate Club,,Athlete,0
+Ann Nduati, 11,,57,74,57,0,County Level,Debate Club,Class Representative,Artist,0
+Agnes Mwikali, 9,69,69,86,52,0,School Level,Science Club,Club Leader,Accountant,0
+Ian Kamau, 7,71,56,60,97,1,National Level,Debate Club,Class Representative,Pharmacist,1
+Esther Doe, 9,80,80,71,90,0,National Level,Music Club,,Artist,0
+Lilian Kilonzo, 6,51,81,62,52,1,School Level,Debate Club,Club Leader,Lawyer,0
+Tom Otieno, 10,53,58,77,87,1,National Level,Art Club,Club Leader,Athlete,0
+Esther Rono, 11,54,68,79,84,1,County Level,Science Club,Club Leader,Musician,1
+Sarah Njoroge, 8,70,98,60,63,0,County Level,Art Club,,Accountant,0
+John Oduor, 11,88,67,50,54,1,0ne,Art Club,Class Representative,Data Scientist,0
+Ann Chirchir, 10,87,55,64,54,0,National Level,Music Club,,Athlete,1
+David Mwikali, 12,70,57,100,85,0,0ne,0ne,,Musician,0
+Linet Ngoya, 8,,83,97,97,1,National Level,Art Club,Class Representative,Surgeon,0
+Esther Ngoya, 8,79,72,56,52,0,County Level,Drama Club,,Athlete,0
+Faith Chege, 11,69,,74,73,1,School Level,Science Club,Class Representative,Artist,0
+Kevin Kiprop, 9,97,96,75,93,1,National Level,Drama Club,Club Leader,Pharmacist,0
+Fredrick Chege, 11,,95,62,,1,School Level,Debate Club,Class Representative,Musician,0
+Paul Doe, 6,85,97,99,73,0,National Level,Science Club,,Lawyer,0
+Paul Makori, 6,84,55,,87,0,County Level,Debate Club,Club Leader,Teacher,1
+Kevin Wangechi, 9,65,87,65,92,1,County Level,Drama Club,Club Leader,Artist,0
+Rose Mutua, 12,59,66,58,72,1,0ne,Art Club,Class Representative,Musician,0
+Nelson Wanjiru, 6,99,50,100,81,1,National Level,Music Club,,Pharmacist,0
+David Otieno, 10,77,74,100,,1,0ne,0ne,,Doctor,1
+Paul Wamuyu, 12,,100,87,91,0,County Level,Art Club,Class Representative,Surgeon,0
+Hannah Kiprop, 7,66,79,75,85,1,0ne,Science Club,Club Leader,Artist,1
+Linet Mutua, 7,70,63,99,51,0,School Level,0ne,Class Representative,Teacher,1
+Rose Kibera, 7,88,65,73,66,1,National Level,0ne,Club Leader,Data Scientist,1
+Samuel Onyango, 10,77,71,95,78,0,School Level,0ne,,Pilot,1
+Faith Kimeu, 7,52,73,88,66,0,0ne,Science Club,Club Leader,Data Scientist,0
+Samuel Oduor, 11,65,53,75,76,0,County Level,Music Club,Class Representative,Pharmacist,0
+Kennedy Nyambura, 8,82,99,56,58,0,National Level,Science Club,Class Representative,Pilot,1
+David Chirchir, 11,68,100,,99,1,County Level,0ne,,Pilot,1
+Brenda Chege, 12,65,68,56,83,1,County Level,Art Club,Club Leader,Pilot,0
+Hannah Njoroge, 12,75,83,75,68,0,County Level,Art Club,Class Representative,Accountant,0
+Stephen Mutiso, 8,59,88,82,53,1,County Level,0ne,Class Representative,Doctor,1
+David Wanjiku, 7,81,50,70,70,1,County Level,Music Club,,Engineer,0
+Jacinta Mwende, 12,80,89,96,75,1,0ne,Debate Club,Club Leader,Doctor,0
+Andrew Kibera, 6,97,89,,84,0,School Level,Music Club,Class Representative,Athlete,0
+John Chege, 9,98,90,64,97,0,School Level,0ne,,Artist,0
+Beatrice Kariuki, 6,87,70,81,80,1,County Level,Art Club,Class Representative,Artist,1
+Faith Kariuki, 8,57,72,,54,0,0ne,0ne,,Accountant,0
+Ann Doe, 11,94,,82,51,1,National Level,0ne,Club Leader,Teacher,1
+Stella Mwikali, 10,,78,58,84,1,National Level,Music Club,,Pharmacist,1
+John Davis, 12,57,85,85,77,1,School Level,0ne,,Doctor,1
+Paul Atieno, 7,,83,86,76,0,School Level,Drama Club,Class Representative,Data Scientist,1
+Faith Chebet, 10,55,60,63,,1,National Level,Science Club,Club Leader,Engineer,0
+Fredrick Kimeu, 6,,99,,,0,County Level,0ne,Club Leader,Surgeon,0
+Peter Otieno, 6,84,68,51,77,0,County Level,Art Club,Class Representative,Pharmacist,1
+James Wamuyu, 10,68,99,56,68,1,0ne,Music Club,Class Representative,Accountant,0
+Brenda Davis, 8,71,80,55,,0,0ne,Science Club,Club Leader,Data Scientist,1
+Faith Achieng, 10,93,53,94,51,1,National Level,Music Club,Club Leader,Teacher,1
+Lilian Kimeu, 10,90,51,,88,1,National Level,Debate Club,,Lawyer,0
+David Juma, 11,72,93,72,88,1,National Level,Science Club,Class Representative,Teacher,1
+Sarah Kigen, 7,,80,95,,1,National Level,Drama Club,Club Leader,Lawyer,0
+Dorcas Chebet, 11,75,56,59,81,1,0ne,0ne,Class Representative,Musician,1
+David Simiyu, 11,,93,64,51,1,County Level,Debate Club,Class Representative,Data Scientist,0
+James Wangechi, 8,99,96,72,81,1,School Level,Drama Club,Club Leader,Accountant,1
+Francis Chege, 6,75,96,99,75,0,0ne,Music Club,Class Representative,Lawyer,1
+Ian Kibera, 10,80,51,98,54,1,School Level,Debate Club,Class Representative,Accountant,0
+Rose Kigen, 7,60,72,73,76,0,0ne,Drama Club,Class Representative,Teacher,0
+Sarah Njoroge, 10,90,94,66,56,0,0ne,Science Club,Class Representative,Lawyer,0
+Francis Otieno, 6,51,,96,,1,0ne,Art Club,Class Representative,Artist,0
+Nelson Kariuki, 11,90,,95,80,0,County Level,Music Club,,Teacher,0
+John Ngoya, 9,50,51,55,86,1,National Level,0ne,,Teacher,0
+Rose Nyakundi, 11,56,81,74,75,0,County Level,Science Club,Class Representative,Musician,1
+Mary Kigen, 11,77,60,78,86,0,School Level,Music Club,,Surgeon,1
+Samuel Akinyi, 11,99,89,,89,0,School Level,Science Club,,Lawyer,0
+Joseph Rono, 9,,83,84,59,1,County Level,Art Club,Club Leader,Surgeon,1
+Rose Muthama, 9,57,90,93,,1,0ne,Music Club,Club Leader,Surgeon,0
+Rose Mwikali, 9,,71,77,59,1,County Level,Science Club,Class Representative,Lawyer,0
+Kevin Kiplangat, 8,54,76,81,92,0,School Level,Music Club,Club Leader,Lawyer,0
+Elijah Achieng, 11,68,64,54,91,1,0ne,Science Club,Club Leader,Doctor,0
+Samuel Kimeu, 11,96,55,90,85,0,National Level,Debate Club,Club Leader,Accountant,1
+Linet Ochieng, 10,71,,65,100,1,County Level,Debate Club,Club Leader,Surgeon,0
+Lilian Chirchir, 10,91,94,53,86,1,County Level,Art Club,Class Representative,Teacher,0
+Samuel Doe, 9,89,75,75,78,0,County Level,Art Club,Club Leader,Athlete,1
+Grace Davis, 10,80,54,59,80,1,County Level,Art Club,,Data Scientist,0
+Beatrice Mutua, 11,77,75,90,75,1,County Level,0ne,Class Representative,Artist,0
+Martin Nyakundi, 11,73,61,97,83,1,0ne,Drama Club,Club Leader,Pilot,1
+Faith Muthama, 7,86,69,59,72,1,0ne,Drama Club,Class Representative,Pharmacist,1
+Irene Otieno, 11,96,53,85,79,1,County Level,Music Club,,Engineer,0
+Linet Kamau, 10,50,88,66,77,1,National Level,Drama Club,,Doctor,1
+Agnes Onyango, 6,83,51,72,58,0,0ne,0ne,Club Leader,Artist,0
+Paul Chebet, 7,80,,100,98,1,County Level,Music Club,,Musician,1
+Ann Otieno, 12,71,71,96,59,1,School Level,0ne,Class Representative,Lawyer,0
+Susan Kariuki, 8,83,76,95,,0,0ne,Art Club,Club Leader,Engineer,1
+Linet Chirchir, 9,62,53,,62,0,County Level,Music Club,Club Leader,Surgeon,0
+Tom Wanjiru, 8,,,87,,0,National Level,Music Club,Club Leader,Athlete,0
+Agnes Mutua, 10,96,,98,99,0,National Level,Art Club,Class Representative,Surgeon,1
+Tom Kibet, 6,88,95,82,53,1,0ne,Debate Club,Club Leader,Doctor,0
+David Chege, 10,,65,91,94,1,School Level,Science Club,Class Representative,Data Scientist,0
+Ann Kirui, 9,68,100,76,84,1,0ne,Debate Club,Club Leader,Engineer,1
+John Kamau, 11,89,,53,99,1,County Level,Art Club,Club Leader,Lawyer,1
+Lucy Mutiso, 7,75,93,98,58,1,County Level,Debate Club,Club Leader,Doctor,1
+David Mutiso, 11,68,75,82,54,0,0ne,Art Club,Class Representative,Athlete,0
+Henry Kiprop, 6,81,86,92,74,0,0ne,Drama Club,Club Leader,Surgeon,1
+Lucy Otieno, 10,92,77,96,68,0,School Level,0ne,Club Leader,Teacher,0
+Alex Oduor, 8,77,95,57,94,1,County Level,Debate Club,,Teacher,1
+Mary Njoroge, 10,61,87,53,83,1,County Level,Debate Club,,Data Scientist,0
+Nelson Wairimu, 10,55,76,63,61,0,National Level,Science Club,Club Leader,Lawyer,0
+Esther Otieno, 11,57,95,69,62,0,County Level,Music Club,,Teacher,0
+Faith Wairimu, 11,81,67,76,,0,County Level,Music Club,Club Leader,Lawyer,1
+Peter Njoroge, 11,,73,95,55,0,0ne,0ne,Class Representative,Doctor,1
+Martin Koome, 12,51,,78,98,0,County Level,Science Club,,Pilot,1
+James Otieno, 6,80,87,88,85,0,County Level,Music Club,Class Representative,Teacher,1
+Samuel Kigen, 12,90,65,97,86,1,County Level,Science Club,Class Representative,Pharmacist,1
+David Kibera, 8,69,84,55,61,0,0ne,Art Club,,Surgeon,0
+David Muthama, 6,69,69,85,89,0,School Level,Music Club,,Accountant,1
+Andrew Wanjiku, 11,64,52,,51,0,County Level,Drama Club,Club Leader,Athlete,1
+Andrew Chirchir, 12,72,85,63,71,0,School Level,Music Club,Club Leader,Artist,1
+John Kimeu, 7,51,73,66,97,0,County Level,Debate Club,,Doctor,1
+Grace Mutua, 8,77,88,71,,1,School Level,Drama Club,Class Representative,Surgeon,1
+Susan Atieno, 12,81,59,,87,1,0ne,Music Club,Class Representative,Surgeon,0
+Samuel Akinyi, 7,93,65,97,96,1,National Level,Art Club,Class Representative,Athlete,0
+Francis Chebet, 9,66,,91,82,0,County Level,Art Club,,Musician,1
+Peter Nyambura, 8,86,75,64,87,0,School Level,Drama Club,Class Representative,Accountant,1
+Henry Mwikali, 12,53,80,75,50,0,National Level,0ne,Club Leader,Musician,1
+Paul Rono, 12,59,95,62,74,0,School Level,Drama Club,Class Representative,Teacher,0
+Dorcas Otieno, 10,67,54,82,80,0,0ne,Art Club,Club Leader,Lawyer,0
+John Kamau, 9,79,56,82,76,0,0ne,Debate Club,Club Leader,Data Scientist,1
+Faith Kiprop, 6,98,77,56,56,1,County Level,0ne,,Pilot,0
+John Achieng, 8,53,67,73,100,0,School Level,Art Club,Class Representative,Pilot,0
+Henry Atieno, 7,58,94,88,90,1,County Level,Art Club,,Surgeon,0
+Mercy Mwende, 7,95,99,96,62,1,School Level,Science Club,Class Representative,Lawyer,1
+Ian Wamuyu, 9,100,62,75,,1,National Level,Art Club,Class Representative,Surgeon,0
+Paul Kamau, 10,73,78,83,59,1,National Level,Debate Club,Club Leader,Engineer,0
+Samuel Koome, 7,64,86,76,84,1,School Level,0ne,,Musician,1
+Faith Chirchir, 11,81,66,57,59,1,School Level,Music Club,Class Representative,Pilot,0
+Rose Chirchir, 6,81,61,,78,1,0ne,Debate Club,Class Representative,Lawyer,1
+Tom Chirchir, 9,,96,80,92,0,County Level,Music Club,Class Representative,Accountant,1
+John Kimeu, 7,80,59,64,74,1,National Level,Art Club,Class Representative,Doctor,1
+Alex Kariuki, 8,100,52,64,98,1,School Level,Art Club,Club Leader,Data Scientist,0
+Sarah Wambui, 11,81,76,83,87,1,School Level,0ne,,Pharmacist,0
+Sarah Mutiso, 11,83,83,85,58,0,School Level,Debate Club,Class Representative,Teacher,0
+Fredrick Kigen, 6,91,73,84,60,1,School Level,Art Club,Club Leader,Teacher,1
+Mercy Mwende, 12,74,73,69,89,0,National Level,Science Club,Class Representative,Engineer,1
+Dorcas Njoroge, 6,81,82,71,81,1,School Level,Debate Club,Class Representative,Teacher,1
+Kevin Rono, 9,73,71,50,70,0,County Level,0ne,Class Representative,Teacher,1
+Fredrick Nduati, 10,73,97,98,65,0,School Level,Drama Club,,Surgeon,0
+David Nyakundi, 11,67,57,79,53,1,School Level,Science Club,Class Representative,Musician,1
+David Kamau, 11,90,54,67,81,0,0ne,Music Club,Club Leader,Lawyer,1
+Hannah Simiyu, 7,74,,86,62,1,National Level,Drama Club,,Surgeon,1
+Martin Nyakundi, 8,95,76,59,93,1,National Level,Debate Club,Class Representative,Athlete,0
+Esther Mwikali, 12,51,79,,78,1,School Level,Debate Club,Club Leader,Pilot,1
+Jacinta Nyakundi, 8,68,,77,51,1,County Level,Art Club,Club Leader,Artist,0
+Esther Mwende, 8,63,93,50,,1,National Level,Drama Club,,Pilot,0
+Dorcas Makori, 12,84,76,92,59,0,0ne,Music Club,Class Representative,Athlete,1
+Eliud Davis, 10,95,65,95,71,1,School Level,Drama Club,Class Representative,Artist,0
+Hannah Nyakundi, 10,93,77,67,82,0,County Level,Music Club,Club Leader,Surgeon,1
+Irene Kirui, 6,80,67,66,81,0,School Level,Art Club,Club Leader,Musician,0
+Samuel Kigen, 10,97,83,72,81,0,0ne,Art Club,Club Leader,Pilot,1
+Ann Wangechi, 6,82,,78,72,0,0ne,Art Club,Club Leader,Artist,1
+Agnes Nyambura, 11,62,,72,63,0,School Level,Debate Club,Club Leader,Artist,1
+Ann Kiprop, 11,82,63,81,,0,County Level,Art Club,Class Representative,Pilot,0
+Hannah Mutiso, 8,64,63,86,,0,National Level,Debate Club,,Pilot,1
+Francis Kibera, 6,80,74,83,53,1,County Level,Science Club,Club Leader,Doctor,1
+Linet Juma, 12,67,66,73,92,0,County Level,Debate Club,,Engineer,1
+Eliud Kiplangat, 12,89,91,65,55,0,National Level,0ne,,Surgeon,0
+Irene Kimeu, 11,92,,75,,0,School Level,Debate Club,,Artist,1
+Esther Otieno, 11,,85,79,58,0,0ne,Science Club,Club Leader,Data Scientist,1
+Paul Kimeu, 8,56,86,92,62,1,School Level,Art Club,,Pilot,1
+Lucy Doe, 6,83,86,79,98,1,County Level,Debate Club,,Artist,1
+Brenda Simiyu, 9,59,,86,70,1,0ne,0ne,Class Representative,Accountant,0
+Elijah Otieno, 12,62,90,79,74,0,School Level,Debate Club,Class Representative,Athlete,0
+Rose Atieno, 8,95,54,72,51,0,School Level,Science Club,Class Representative,Engineer,0
+Eliud Koome, 6,76,88,92,83,1,0ne,Debate Club,Club Leader,Musician,0
+Kennedy Nduati, 11,52,86,76,63,1,School Level,Drama Club,Class Representative,Data Scientist,0
+Andrew Nyakundi, 9,91,95,53,54,1,School Level,Science Club,Class Representative,Artist,1
+Rose Juma, 7,53,63,69,95,1,0ne,Art Club,Club Leader,Doctor,1
+Dorcas Wairimu, 12,76,74,97,,0,County Level,Drama Club,Club Leader,Athlete,1
+Beatrice Wairimu, 8,69,53,57,,1,National Level,Debate Club,Club Leader,Data Scientist,0
+Sarah Ngoya, 8,88,58,90,90,0,0ne,Drama Club,,Doctor,0
+Samuel Chirchir, 8,61,52,98,95,1,National Level,Drama Club,,Athlete,0
+Ann Kibera, 11,78,80,66,54,1,0ne,0ne,Class Representative,Pilot,1
+Stella Wairimu, 9,,,,99,1,National Level,Art Club,Club Leader,Accountant,0
+Charles Mutiso, 8,82,67,78,99,1,County Level,0ne,Class Representative,Lawyer,1
+Susan Mutua, 12,,84,91,56,0,County Level,Debate Club,Class Representative,Athlete,0
+Lucy Davis, 7,88,81,85,88,1,0ne,Art Club,Club Leader,Surgeon,1
+Sarah Simiyu, 6,97,83,62,78,0,National Level,Art Club,Class Representative,Lawyer,0
+Jacinta Mutiso, 9,82,60,56,,0,County Level,Debate Club,Club Leader,Musician,0
+Linet Onyango, 8,64,84,67,72,0,0ne,Drama Club,Club Leader,Teacher,1
+Samuel Nyambura, 12,93,62,,52,0,School Level,Music Club,Club Leader,Surgeon,1
+Kennedy Wanjiru, 9,89,95,61,87,1,School Level,Debate Club,Club Leader,Engineer,0
+Ian Mwende, 12,62,92,85,75,0,0ne,Music Club,Class Representative,Engineer,1
+Kevin Nyakundi, 6,50,55,58,70,0,0ne,Drama Club,,Teacher,0
+Samuel Ochieng, 12,97,72,,99,0,National Level,Science Club,Club Leader,Musician,0
+Esther Simiyu, 7,56,50,82,74,1,National Level,Science Club,,Artist,1
+Brenda Simiyu, 11,98,50,80,,0,School Level,0ne,,Data Scientist,1
+Brenda Kamau, 8,86,62,88,68,1,County Level,Debate Club,Class Representative,Engineer,0
+Elijah Otieno, 9,57,84,89,78,1,National Level,Science Club,,Pharmacist,1
+Susan Kiplangat, 11,74,98,88,50,0,School Level,Art Club,Club Leader,Pharmacist,1
+Kevin Muthama, 11,,,83,83,1,0ne,Debate Club,Class Representative,Athlete,0
+Paul Mutiso, 6,62,67,70,96,0,County Level,Drama Club,,Pharmacist,1
+Fredrick Oduor, 11,74,87,,,1,School Level,0ne,Club Leader,Musician,1
+David Wanjiku, 8,79,51,53,58,1,County Level,Art Club,,Engineer,1
+David Wambui, 11,96,66,57,99,1,National Level,Music Club,Class Representative,Artist,0
+Dennis Nyambura, 10,66,96,100,79,0,0ne,0ne,Class Representative,Lawyer,1
+Eliud Oduor, 10,86,52,91,89,1,School Level,Debate Club,Club Leader,Pilot,0
+Brenda Kiplangat, 10,52,,95,72,1,0ne,0ne,Club Leader,Musician,1
+Mercy Mutiso, 6,65,,60,50,1,County Level,0ne,,Doctor,1
+Stella Kimeu, 7,99,58,99,89,0,School Level,Debate Club,,Musician,0
+Andrew Kilonzo, 10,56,74,84,99,0,County Level,Art Club,Class Representative,Musician,0
+Martin Onyango, 6,97,78,58,51,1,County Level,Debate Club,,Pilot,0
+Dennis Wangechi, 10,60,91,77,,1,National Level,Science Club,Class Representative,Doctor,0
+Stephen Kamau, 11,55,99,54,78,1,County Level,0ne,,Engineer,0
+Stephen Wairimu, 6,77,70,62,99,0,School Level,Music Club,Club Leader,Artist,1
+Linet Rono, 9,87,69,54,,0,0ne,0ne,,Engineer,0
+Henry Akinyi, 11,,85,95,89,0,0ne,Drama Club,Class Representative,Lawyer,0
+Kennedy Wanjiru, 12,84,68,,73,0,0ne,Science Club,,Doctor,1
+Esther Doe, 8,,63,83,59,0,County Level,Debate Club,Club Leader,Teacher,0
+Mary Wairimu, 8,68,,82,50,1,County Level,0ne,Club Leader,Data Scientist,1
+Francis Otieno, 9,77,98,62,,0,0ne,Art Club,Club Leader,Surgeon,1
+Francis Nyakundi, 6,61,67,73,56,0,School Level,Music Club,Class Representative,Data Scientist,1
+Grace Kibet, 11,92,90,71,72,1,National Level,Art Club,Class Representative,Pharmacist,0
+David Kiplangat, 8,71,59,78,78,1,School Level,Science Club,,Pilot,1
+Kevin Wanjiku, 9,82,64,81,85,1,0ne,Music Club,Class Representative,Data Scientist,0
+James Mutiso, 11,89,98,76,70,0,County Level,Debate Club,Class Representative,Lawyer,1
+Martin Nduati, 8,81,51,80,,0,School Level,Drama Club,Club Leader,Musician,0
+Ann Achieng, 9,52,62,94,,1,National Level,Art Club,Class Representative,Musician,1
+Stephen Achieng, 6,52,67,76,66,0,National Level,Debate Club,,Data Scientist,1
+Irene Mutiso, 9,100,50,88,98,0,County Level,Music Club,Club Leader,Engineer,0
+Alex Kimeu, 7,69,95,98,95,1,County Level,Music Club,Club Leader,Artist,1
+Esther Kirui, 10,87,61,92,90,1,School Level,Science Club,Club Leader,Engineer,0
+Stephen Kiplangat, 8,98,95,77,99,0,National Level,Debate Club,Club Leader,Data Scientist,0
+Rose Chege, 9,,50,64,76,1,0ne,Debate Club,,Musician,0
+Rose Kigen, 7,92,93,79,51,1,County Level,Drama Club,Club Leader,Teacher,1
+John Oduor, 10,51,74,75,62,1,National Level,Science Club,Class Representative,Engineer,0
+Fredrick Muthama, 11,,69,,78,0,0ne,Music Club,,Musician,1
+Francis Mutua, 9,73,53,87,96,0,National Level,Music Club,Club Leader,Athlete,1
+Tom Kibet, 6,56,64,61,70,1,County Level,Art Club,Club Leader,Pilot,0
+Peter Mutiso, 11,72,52,80,99,0,National Level,Debate Club,,Artist,0
+Martin Kigen, 9,92,98,50,63,1,School Level,Science Club,,Pilot,1
+Hannah Mwende, 9,95,,67,53,1,National Level,Art Club,Class Representative,Data Scientist,0
+Faith Nduati, 10,99,57,55,76,1,County Level,Debate Club,,Pilot,1
+Tom Ochieng, 10,92,52,50,53,1,School Level,Drama Club,,Athlete,0
+Faith Wanjiru, 12,68,87,,92,0,National Level,Debate Club,Club Leader,Surgeon,1
+Hannah Otieno, 12,84,71,50,62,1,School Level,Music Club,,Doctor,1
+Nelson Chirchir, 10,90,,86,,0,County Level,Science Club,Club Leader,Artist,1
+Fredrick Ngoya, 12,95,77,52,74,0,County Level,Debate Club,,Teacher,0
+Andrew Mwikali, 8,57,91,95,75,0,0ne,0ne,Club Leader,Pharmacist,0
+Linet Nduati, 11,,53,63,68,1,0ne,Music Club,Club Leader,Pharmacist,1
+Esther Mutiso, 6,70,88,87,75,1,National Level,Art Club,Class Representative,Musician,1
+Francis Kirui, 12,,82,,82,0,National Level,Art Club,Class Representative,Pilot,1
+Kennedy Mwikali, 10,84,73,,67,0,County Level,Science Club,Club Leader,Accountant,0
+Faith Kariuki, 7,79,86,62,80,1,0ne,Debate Club,,Engineer,0
+Hannah Wanjiku, 12,97,51,83,51,1,0ne,Science Club,Club Leader,Accountant,1
+Agnes Simiyu, 11,72,76,90,91,1,National Level,Music Club,Class Representative,Doctor,1
+David Wambui, 6,74,94,74,99,0,School Level,Music Club,Class Representative,Teacher,1
+Peter Kirui, 10,50,93,88,79,0,0ne,0ne,Club Leader,Musician,1
+Brenda Chirchir, 6,,95,58,80,1,County Level,Science Club,Class Representative,Artist,0
+John Koome, 11,53,65,61,78,0,National Level,Debate Club,,Artist,0
+Fredrick Doe, 11,60,69,59,73,1,National Level,0ne,Class Representative,Artist,1
+Sarah Akinyi, 12,77,54,80,,0,School Level,Science Club,Club Leader,Athlete,1
+Dennis Rono, 12,89,52,76,72,1,School Level,Debate Club,,Athlete,0
+Sarah Kimeu, 7,,68,,89,0,National Level,0ne,Club Leader,Pharmacist,0
+Kevin Oduor, 8,87,94,,66,0,County Level,Art Club,Club Leader,Lawyer,1
+Rose Onyango, 10,95,56,82,100,0,0ne,Music Club,Class Representative,Data Scientist,0
+Samuel Koome, 9,85,,90,64,1,0ne,0ne,Club Leader,Engineer,0
+Mercy Akinyi, 9,58,53,85,99,0,School Level,Debate Club,Class Representative,Teacher,0
+Kennedy Wanjiru, 7,72,57,87,86,0,0ne,Drama Club,Club Leader,Engineer,1
+Faith Koome, 10,72,79,65,60,1,School Level,Drama Club,Club Leader,Surgeon,0
+Ian Mwende, 9,90,66,96,83,1,National Level,Debate Club,,Artist,1
+Henry Kamau, 7,,50,70,54,0,County Level,Music Club,,Pilot,1
+Esther Mwende, 8,95,,62,70,0,National Level,Science Club,Class Representative,Doctor,0
+Ann Wanjiru, 6,63,62,73,68,1,0ne,Art Club,,Doctor,0
+John Otieno, 12,,63,50,81,0,County Level,Art Club,,Data Scientist,1
+David Kilonzo, 7,66,77,61,67,0,County Level,0ne,Class Representative,Pilot,1
+Esther Chebet, 8,63,100,91,68,1,School Level,Art Club,Class Representative,Musician,1
+Rose Onyango, 8,89,97,78,97,1,0ne,Science Club,Class Representative,Lawyer,1
+Nelson Nduati, 7,76,71,92,53,1,0ne,Debate Club,Class Representative,Engineer,0
+Dennis Oduor, 12,88,55,89,77,1,School Level,Drama Club,Club Leader,Teacher,0
+Alex Chege, 11,,64,81,89,1,School Level,Drama Club,Class Representative,Pilot,0
+Linet Mwende, 12,84,84,98,97,1,0ne,Debate Club,,Accountant,1
+Ian Nyakundi, 10,54,62,90,88,1,County Level,Music Club,Class Representative,Surgeon,0
+Lucy Juma, 12,73,92,83,69,1,0ne,Drama Club,,Lawyer,1
+Lucy Mwende, 11,100,,96,53,0,School Level,Drama Club,Class Representative,Accountant,1
+Sarah Kibera, 7,80,60,71,83,1,0ne,Science Club,Club Leader,Engineer,0
+Rose Chirchir, 10,100,55,55,75,1,School Level,Art Club,Class Representative,Data Scientist,0
+Agnes Njoroge, 12,90,80,56,65,0,County Level,0ne,Class Representative,Engineer,1
+Agnes Kamau, 11,63,57,,89,1,National Level,Music Club,Class Representative,Musician,1
+Linet Nyakundi, 7,65,77,84,74,1,0ne,0ne,Club Leader,Engineer,0
+Tom Wamuyu, 12,79,59,82,61,0,0ne,Music Club,Class Representative,Pilot,0
+Irene Ngoya, 9,57,84,77,79,0,County Level,Music Club,Class Representative,Pharmacist,0
+Irene Muthama, 8,71,57,93,57,0,School Level,Debate Club,,Engineer,1
+John Otieno, 7,85,,84,61,0,School Level,Art Club,Class Representative,Data Scientist,0
+Rose Koome, 6,51,92,99,82,0,National Level,Drama Club,Club Leader,Musician,1
+Irene Chebet, 8,79,53,,89,0,0ne,Music Club,Club Leader,Athlete,0
+Beatrice Kiplangat, 6,,92,59,92,1,County Level,Science Club,Club Leader,Data Scientist,0
+Faith Oduor, 11,66,70,65,77,0,County Level,Art Club,Class Representative,Pilot,0
+David Kiplangat, 8,90,100,81,67,1,0ne,Drama Club,Club Leader,Engineer,0
+David Chirchir, 7,52,87,53,,1,National Level,Art Club,,Teacher,0
+Andrew Mutiso, 10,90,70,79,85,0,National Level,Debate Club,Club Leader,Pharmacist,1
+Beatrice Kibera, 10,55,56,93,54,1,0ne,Debate Club,,Athlete,1
+Eliud Mutiso, 12,99,64,89,75,0,School Level,Music Club,Class Representative,Pilot,1
+Martin Wamuyu, 7,78,65,86,64,1,0ne,Art Club,Class Representative,Musician,1
+Francis Wambui, 8,87,89,86,59,1,School Level,Science Club,Class Representative,Engineer,0
+John Nyakundi, 7,82,51,80,76,1,County Level,Music Club,Class Representative,Pilot,1
+Ann Makori, 8,67,51,55,65,1,0ne,0ne,Class Representative,Doctor,0
+Brenda Juma, 9,78,51,74,97,1,National Level,Art Club,Club Leader,Engineer,0
+Andrew Muthama, 8,89,93,82,87,1,National Level,Debate Club,,Lawyer,0
+Kennedy Achieng, 7,,53,63,97,0,National Level,Science Club,Class Representative,Doctor,1
+Samuel Muthama, 8,,79,75,58,1,National Level,Music Club,Club Leader,Data Scientist,0
+Dorcas Rono, 10,94,96,94,60,0,School Level,0ne,Class Representative,Athlete,0
+David Kiplangat, 7,93,99,,92,1,School Level,Debate Club,Class Representative,Doctor,1
+James Doe, 10,96,84,,50,1,County Level,Music Club,Class Representative,Artist,1
+Stella Kiprop, 11,57,69,60,59,1,School Level,Art Club,,Musician,0
+Stella Otieno, 10,50,,94,84,0,School Level,Science Club,Club Leader,Musician,1
+Charles Wambui, 10,96,99,98,80,0,County Level,Science Club,,Engineer,1
+Irene Onyango, 6,51,58,62,94,1,School Level,Music Club,,Musician,1
+David Kiprop, 12,90,99,97,79,0,County Level,Music Club,Club Leader,Pilot,1
+Faith Koome, 8,84,88,,85,0,National Level,Debate Club,Class Representative,Lawyer,0
+Rose Kariuki, 8,68,89,51,59,0,National Level,Debate Club,,Accountant,1
+Dennis Davis, 11,60,,96,97,1,0ne,Music Club,Class Representative,Lawyer,0
+David Oduor, 12,88,88,82,55,0,0ne,Drama Club,Class Representative,Pharmacist,0
+Paul Kamau, 10,88,87,84,74,0,0ne,0ne,Club Leader,Artist,1
+Nelson Otieno, 7,57,58,,86,0,0ne,Debate Club,Class Representative,Surgeon,1
+Grace Chebet, 9,99,95,62,,0,0ne,Art Club,,Lawyer,1
+Ian Nyambura, 6,59,92,77,76,1,National Level,Drama Club,Class Representative,Data Scientist,1
+Peter Oduor, 8,62,56,72,54,1,National Level,Art Club,Club Leader,Accountant,0
+Charles Akinyi, 7,73,77,57,71,1,School Level,Art Club,,Accountant,1
+Faith Makori, 9,80,59,70,80,0,School Level,Drama Club,,Lawyer,0
+Andrew Simiyu, 11,65,,58,71,1,County Level,Debate Club,,Data Scientist,0
+James Mutua, 12,53,100,94,95,1,School Level,0ne,,Data Scientist,0
+James Nyambura, 7,95,,56,69,1,County Level,Drama Club,Club Leader,Doctor,0
+Esther Mwende, 10,70,,,61,1,School Level,Music Club,Class Representative,Teacher,0
+Charles Kariuki, 6,51,,59,86,1,School Level,Science Club,Club Leader,Engineer,0
+Lucy Kigen, 11,96,,71,78,1,County Level,Art Club,,Engineer,0
+Grace Ochieng, 10,90,87,94,,0,0ne,Science Club,,Pilot,1
+Samuel Otieno, 11,,50,57,97,0,0ne,0ne,,Pilot,1
+Fredrick Kiplangat, 10,62,,63,83,0,0ne,Music Club,Club Leader,Pilot,0
+Jacinta Kiprop, 9,97,81,90,83,0,0ne,Drama Club,Club Leader,Athlete,1
+John Akinyi, 10,70,56,95,90,0,National Level,Drama Club,,Engineer,1
+Andrew Kiprop, 11,77,57,60,96,1,County Level,Art Club,Club Leader,Athlete,0
+Alex Otieno, 9,56,51,56,62,0,School Level,Art Club,,Artist,0
+Beatrice Njoroge, 11,,64,57,52,1,0ne,Debate Club,Class Representative,Pharmacist,1
+Eliud Chebet, 9,60,76,,60,0,0ne,Art Club,Class Representative,Artist,0
+Faith Wamuyu, 9,,50,62,98,1,County Level,Drama Club,Class Representative,Artist,1
+Ann Makori, 8,77,99,87,83,1,0ne,Science Club,Class Representative,Pilot,0
+David Kigen, 10,97,72,,98,0,County Level,Science Club,Club Leader,Engineer,1
+Mary Simiyu, 8,90,99,66,64,1,National Level,0ne,Class Representative,Data Scientist,1
+Kevin Chirchir, 12,76,95,65,93,1,County Level,0ne,Class Representative,Lawyer,0
+Paul Kilonzo, 7,62,64,54,76,1,County Level,Debate Club,Club Leader,Pilot,0
+Stephen Nduati, 6,91,64,99,71,0,County Level,Drama Club,,Athlete,1
+Jacinta Onyango, 11,87,75,51,58,0,County Level,Art Club,,Athlete,0
+Henry Njoroge, 7,87,91,68,75,1,0ne,Debate Club,,Pharmacist,0
+Andrew Rono, 10,98,59,58,71,0,School Level,Music Club,,Athlete,1
+Ian Koome, 9,78,75,93,,1,School Level,Drama Club,Club Leader,Lawyer,0
+Ann Wanjiku, 11,82,83,50,83,1,County Level,Debate Club,Class Representative,Pharmacist,1
+Linet Wairimu, 6,64,77,,91,1,School Level,Science Club,Class Representative,Musician,0
+Martin Kirui, 9,100,74,51,70,1,School Level,Science Club,,Engineer,0
+David Kigen, 12,66,99,94,93,0,County Level,Art Club,Class Representative,Doctor,1
+Faith Ngoya, 7,54,59,66,83,1,School Level,Drama Club,Club Leader,Doctor,1
+Ann Wangechi, 12,54,75,83,54,0,County Level,0ne,Class Representative,Accountant,0
+Faith Ochieng, 9,99,89,76,,1,County Level,Art Club,Club Leader,Accountant,0
+Agnes Chege, 10,100,93,54,58,1,School Level,0ne,Class Representative,Data Scientist,0
+Paul Kibera, 6,99,58,93,70,1,County Level,0ne,Club Leader,Doctor,1
+Mary Doe, 12,92,88,75,63,0,National Level,Debate Club,Club Leader,Musician,1
+Henry Wambui, 10,,61,54,50,1,National Level,0ne,Class Representative,Data Scientist,1
+Fredrick Kiprop, 10,90,84,88,71,1,County Level,Science Club,Club Leader,Teacher,0
+Martin Achieng, 6,57,78,89,63,1,County Level,Music Club,Class Representative,Surgeon,1
+Dorcas Kibera, 6,93,,89,72,0,0ne,Music Club,Class Representative,Athlete,1
+Ann Wanjiku, 8,79,66,73,74,1,National Level,Debate Club,Club Leader,Artist,0
+Stella Mwende, 6,,,89,64,0,School Level,Debate Club,Club Leader,Athlete,1
+Rose Ochieng, 6,91,87,79,96,0,County Level,Drama Club,Class Representative,Pharmacist,1
+Agnes Otieno, 6,80,74,100,60,1,National Level,0ne,Club Leader,Pilot,0
+Henry Njoroge, 8,76,75,55,86,0,County Level,Music Club,Class Representative,Lawyer,0
+Agnes Otieno, 7,93,71,97,,1,School Level,Music Club,,Pilot,1
+Lucy Akinyi, 12,81,86,90,88,0,County Level,Drama Club,Club Leader,Artist,0
+Samuel Njoroge, 9,80,52,76,71,1,School Level,Debate Club,Class Representative,Musician,0
+Jacinta Nyakundi, 8,92,63,,98,0,National Level,Art Club,Class Representative,Pharmacist,1
+James Atieno, 11,90,85,77,53,0,County Level,Science Club,Class Representative,Athlete,0
+Eliud Wanjiku, 8,100,,57,70,1,School Level,Drama Club,Class Representative,Data Scientist,0
+Grace Achieng, 7,59,98,78,65,0,National Level,Art Club,Class Representative,Musician,1
+Charles Chebet, 6,77,82,74,97,1,0ne,0ne,,Pharmacist,0
+Agnes Kariuki, 9,55,,73,66,1,School Level,Drama Club,,Musician,1
+Faith Rono, 9,,65,62,97,1,0ne,Debate Club,Class Representative,Pilot,1
+John Mutiso, 12,97,,,87,0,National Level,Music Club,Class Representative,Artist,1
+John Oduor, 6,,82,61,61,0,School Level,Debate Club,Class Representative,Doctor,0
+Francis Nyakundi, 10,64,58,82,75,0,County Level,Science Club,,Engineer,1
+Lucy Davis, 11,69,66,,59,0,School Level,0ne,,Doctor,0
+Paul Chirchir, 7,89,80,59,,0,County Level,Music Club,,Accountant,0
+Faith Chebet, 9,72,50,,78,0,County Level,Art Club,,Accountant,0
+Ian Muthama, 7,70,65,62,88,1,National Level,0ne,Class Representative,Engineer,1
+Lucy Wanjiru, 7,57,88,52,91,0,School Level,0ne,Class Representative,Artist,0
+Peter Wanjiru, 10,65,91,99,74,0,National Level,Science Club,Class Representative,Pilot,0
+Kennedy Wamuyu, 6,,65,69,,0,County Level,Science Club,Class Representative,Teacher,0
+Jacinta Koome, 6,89,70,98,98,1,County Level,Science Club,,Accountant,0
+Charles Ngoya, 11,99,78,86,98,1,National Level,0ne,Class Representative,Accountant,1
+Ann Mwikali, 6,90,76,84,100,1,0ne,0ne,,Doctor,1
+Nelson Kiprop, 12,65,69,68,87,1,School Level,0ne,Class Representative,Accountant,0
+Mercy Atieno, 11,74,70,62,100,1,County Level,Science Club,Class Representative,Teacher,0
+Hannah Kibet, 9,62,79,73,68,0,School Level,Science Club,Club Leader,Athlete,0
+Linet Wanjiku, 11,85,82,,79,1,0ne,Drama Club,Class Representative,Doctor,0
+Alex Otieno, 9,100,73,91,66,0,0ne,Drama Club,Class Representative,Artist,0
